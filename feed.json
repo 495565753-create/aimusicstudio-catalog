@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T15:17:10Z",
+  "generatedAt": "2026-10-19T15:22:28Z",
   "songs": [
+    {
+      "id": "ace-custom-6b325d9e276c",
+      "title": "老唱片的夜晚",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-6b325d9e276c.mp3",
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-6b325d9e276c.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-6b325d9e276c.json",
+      "lyrics": "[Verse]\n针尖落在黑色的唱片\n客厅里又响起旧乐篇\n窗帘随着晚风轻轻摆\n记忆像灯火慢慢打开\n\n[Chorus]\n就在这老唱片的夜晚\n让时间陪我们转个弯\n杯中的月光微微摇晃\n往日的笑声仍在身旁\n\n[Verse]\n泛黄的照片放在桌旁\n每个人都有年轻模样\n我听见那时轻快的脚步\n穿过岁月来到这一处\n\n[Chorus]\n就在这老唱片的夜晚\n让时间陪我们转个弯\n杯中的月光微微摇晃\n往日的笑声仍在身旁\n\n[Outro]\n愿这旋律陪我到天亮",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "复古风",
+      "style": "复古风",
+      "publishedAt": "2026-10-19T15:22:28Z"
+    },
     {
       "id": "ace-custom-bf53b1194c5d",
       "title": "霓虹留声机",
