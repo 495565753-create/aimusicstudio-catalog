@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T14:53:16Z",
+  "generatedAt": "2026-10-19T15:01:18Z",
   "songs": [
+    {
+      "id": "ace-custom-250a92515d0b",
+      "title": "晚安，明天",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-250a92515d0b.mp3",
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-250a92515d0b.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-250a92515d0b.json",
+      "lyrics": "[Verse]\n窗外的车灯慢慢远去\n一天的喧闹终于安静\n把没完成的故事合起\n让心在此刻轻轻呼吸\n\n[Chorus]\n晚安 明天会有新的晴朗\n今晚先把疲惫留给月光\n那些不确定的路还很长\n一步一步也能走到远方\n\n[Verse]\n桌上的热茶还留着香\n我想起朋友温柔目光\n城市很大也有人守望\n平凡的梦同样会发亮\n\n[Chorus]\n晚安 明天会有新的晴朗\n今晚先把疲惫留给月光\n那些不确定的路还很长\n一步一步也能走到远方\n\n[Outro]\n晚安 明天见",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "华语流行",
+      "style": "华语流行",
+      "publishedAt": "2026-10-19T15:01:18Z"
+    },
     {
       "id": "ace-custom-2759d6f8b595",
       "title": "雨停以后",
