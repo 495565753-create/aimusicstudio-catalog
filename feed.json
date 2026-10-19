@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T13:58:32Z",
+  "generatedAt": "2026-10-19T13:58:58Z",
   "songs": [
     {
       "id": "ace-2026-10-19-2",
       "title": "夜色有回声",
       "artist": "我的 ACE-Step AI 创作",
-      "audioURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/download/daily-2026-10-19/ace-2026-10-19-2.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-2026-10-19-2.mp3",
       "artworkURL": null,
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/tag/daily-2026-10-19",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/tag/daily-2026-10-19",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-2026-10-19-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-2026-10-19-2.json",
       "lyrics": "[Verse]\n城市灯火慢慢亮起\n我听见风路过这里\n一封没有寄出的信\n还留着熟悉的姓名\n\n[Chorus]\n夜色有回声 回到我心中\n所有没说完的话都随风\n我会向前走 穿过这片梦\n让新的星光陪我到天明\n\n[Verse]\n在人群经过的路口\n我终于学会了放手\n愿你也有温柔的夜\n愿我仍然勇敢向前\n\n[Chorus]\n夜色有回声 回到我心中\n所有没说完的话都随风\n我会向前走 穿过这片梦\n让新的星光陪我到天明\n\n[Outro]\n让新的星光陪我到天明",
       "rights": "原创歌词 · 本机 ACE-Step AI 生成",
       "popularity": "每日新歌",
