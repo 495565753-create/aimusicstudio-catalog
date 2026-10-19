@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T15:01:18Z",
+  "generatedAt": "2026-10-19T15:06:58Z",
   "songs": [
+    {
+      "id": "ace-custom-36635f5d6f04",
+      "title": "逆风的旗",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-36635f5d6f04.mp3",
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-36635f5d6f04.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-36635f5d6f04.json",
+      "lyrics": "[Verse]\n旧球鞋踏过清晨的街\n口袋里装着未寄的信\n有人说远方没有答案\n我偏要去看看那座山\n\n[Chorus]\n逆风的旗仍在飞扬\n越过沉默越过高墙\n把所有不甘唱成力量\n让脚步追上自己的光\n\n[Verse]\n雨落在肩上也不停留\n路灯照着手心的伤口\n有人并肩就不怕黑夜\n一声鼓点点亮了旷野\n\n[Chorus]\n逆风的旗仍在飞扬\n越过沉默越过高墙\n把所有不甘唱成力量\n让脚步追上自己的光\n\n[Outro]\n向前 向前 不回头",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "经典摇滚",
+      "style": "经典摇滚",
+      "publishedAt": "2026-10-19T15:06:58Z"
+    },
     {
       "id": "ace-custom-250a92515d0b",
       "title": "晚安，明天",
