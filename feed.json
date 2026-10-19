@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T13:30:23Z",
+  "generatedAt": "2026-10-19T13:54:05Z",
   "songs": [
+    {
+      "id": "ace-2026-10-19-1",
+      "title": "把晨光带走",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/download/daily-2026-10-19/ace-2026-10-19-1.mp3",
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/tag/daily-2026-10-19",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/releases/tag/daily-2026-10-19",
+      "lyrics": "[Verse]\n清晨的风穿过窗台\n把昨夜的梦轻轻吹开\n我沿着熟悉的街道\n听见心跳慢慢回来\n\n[Chorus]\n让光落在我的肩膀\n让每一步都有方向\n就算世界仍有风浪\n今天的我会继续歌唱\n\n[Verse]\n把远方写进一张车票\n把勇气装进小小背包\n陌生的街也会有花开\n我会走到想去的未来\n\n[Chorus]\n让光落在我的肩膀\n让每一步都有方向\n就算世界仍有风浪\n今天的我会继续歌唱\n\n[Outro]\n今天的我会继续歌唱",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "publishedAt": "2026-10-19T13:54:05Z"
+    },
     {
       "id": "angelware-87e4fba5-dbad-4289-a52a-5d42bc8b9447",
       "title": "Second Sunrise · R&B",
