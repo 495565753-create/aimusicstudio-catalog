@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T13:58:58Z",
+  "generatedAt": "2026-10-19T14:53:16Z",
   "songs": [
+    {
+      "id": "ace-custom-2759d6f8b595",
+      "title": "雨停以后",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-2759d6f8b595.mp3",
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-2759d6f8b595.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-19/ace-custom-2759d6f8b595.json",
+      "lyrics": "[Verse]\n雨停以后街灯还亮着\n玻璃上留下透明的河\n我把没说出口的愿望\n写在走向天晴的路上\n\n[Chorus]\n等云散了就向前走\n把昨天交给身后的风\n每一次跌倒都有理由\n让我更懂得拥抱自由\n\n[Verse]\n车站的人各自有方向\n我也找到心里的太阳\n那一束光落在我肩上\n告诉我明天仍然宽广\n\n[Chorus]\n等云散了就向前走\n把昨天交给身后的风\n每一次跌倒都有理由\n让我更懂得拥抱自由\n\n[Outro]\n雨停以后 我继续走",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "华语流行",
+      "style": "华语流行",
+      "publishedAt": "2026-10-19T14:53:16Z"
+    },
     {
       "id": "ace-2026-10-19-2",
       "title": "夜色有回声",
