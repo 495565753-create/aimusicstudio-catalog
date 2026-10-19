@@ -6,4 +6,4 @@
 
 发布前运行 App 工程中的 `scripts/check_catalog.py`。该脚本检验必填字段和新增歌曲数；音频链接应额外抽检 HTTP Range 206。iOS 后台目录刷新由系统决定，不能保证准点；手动刷新可即时获取新目录。
 
-曲目字段：`id`、`title`、`artist`、`audioURL`、`artworkURL`（可为 null）、`sourceURL`、`aiEvidenceURL`、`lyrics`、`rights`、`popularity`、`category`、`style`、`publishedAt`。时间使用不带小数秒的 ISO 8601 UTC 格式。每日本机 ACE-Step 歌曲也在同一目录发布，归类为「每日新歌」。
+曲目字段：`id`、`title`、`artist`、`audioURL`、`artworkURL`（可为 null）、`sourceURL`、`aiEvidenceURL`、`lyrics`、`rights`、`popularity`、`category`、`style`、`publishedAt`。时间使用不带小数秒的 ISO 8601 UTC 格式。每日本机 ACE-Step 歌曲的 MP3 和生成来源元数据放在 `audio/YYYY-MM-DD/`，通过 GitHub Raw 可直接播放，归类为「每日新歌」。
