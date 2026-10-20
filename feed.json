@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:09:44Z",
+  "generatedAt": "2026-10-20T00:13:29Z",
   "songs": [
+    {
+      "id": "ace-2026-10-20-2",
+      "title": "晚风来信 · 10-20",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-2026-10-20-2.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-2026-10-20-2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-2026-10-20-2.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-2026-10-20-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-2026-10-20-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n电话响了 我以为是你\n接起来 只是别人打错\n你说要走的那一天\n我还以为 你只是生气\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Verse 2]\n\n你的东西 我都没有动\n那件外套 还挂在那边\n我不敢 给你打电话\n怕你接起来 我不知道说什么\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Outro]\n\n（我还是想着你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "民谣",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T00:13:29Z"
+    },
     {
       "id": "ace-2026-10-20-1",
       "title": "把光留住 · 10-20",
@@ -9579,10 +9599,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "10 首 · 灵感音乐歌单",
+      "subtitle": "11 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-20-2",
         "ace-2026-10-20-1",
         "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
@@ -9602,6 +9623,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-20-2",
         "ace-2026-10-20-1",
         "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
@@ -9640,8 +9662,7 @@
         "angelware-f032b35f-c8ad-4af3-a5e6-fecb1bd8a7a5",
         "angelware-0176e651-b69f-499c-8fe3-443a7940d648",
         "angelware-bc238975-68f9-4b57-98cf-45da7de33e13",
-        "angelware-0b480403-0ebc-4577-8e29-e49366ad568f",
-        "angelware-94734f3a-0dbf-4484-97de-f1559b21d523"
+        "angelware-0b480403-0ebc-4577-8e29-e49366ad568f"
       ]
     },
     {
