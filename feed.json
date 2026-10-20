@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:46:06Z",
+  "generatedAt": "2026-10-20T00:52:28Z",
   "songs": [
+    {
+      "id": "ace-custom-b2ba25c2c5e2",
+      "title": "驶向天亮",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-b2ba25c2c5e2.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-b2ba25c2c5e2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-custom-b2ba25c2c5e2.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-b2ba25c2c5e2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-b2ba25c2c5e2.json",
+      "lyrics": "[Verse]\n清早第一班车穿过桥\n玻璃上还留着昨夜的潮\n口袋里有一张旧车票\n写着我曾经害怕的远方\n\n[Pre-Chorus]\n把犹豫留在身后\n让心跟着车轮向前走\n\n[Chorus]\n我正驶向天亮 驶向新的方向\n让每一束晨光落在肩膀\n就算路很漫长 也不再躲藏\n我会把今天唱成自己的篇章\n\n[Verse]\n窗外的山一点一点亮\n陌生的站台也有花香\n我给未来寄一张明信片\n告诉它我已经来到这边\n\n[Chorus]\n我正驶向天亮 驶向新的方向\n让每一束晨光落在肩膀\n就算路很漫长 也不再躲藏\n我会把今天唱成自己的篇章\n\n[Outro]\n天亮了 我继续向前",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "华语流行",
+      "style": "华语流行",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T00:52:28Z"
+    },
     {
       "id": "ace-custom-ac6d9739572c",
       "title": "雨夜黑胶",
@@ -8881,6 +8901,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-custom-b2ba25c2c5e2",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
         "ace-custom-bcf22437026b",
@@ -9639,10 +9660,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "13 首 · 灵感音乐歌单",
+      "subtitle": "14 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
         "ace-2026-10-20-2",
@@ -9665,6 +9687,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
         "ace-2026-10-20-2",
@@ -9703,8 +9726,7 @@
         "angelware-2c464a44-8d14-4a36-a72f-2a16a34b0735",
         "angelware-c4549f76-6af5-41ac-bad3-78bacdbb5431",
         "angelware-91c6e005-c9df-4863-9ba8-a79c8876592f",
-        "angelware-f032b35f-c8ad-4af3-a5e6-fecb1bd8a7a5",
-        "angelware-0176e651-b69f-499c-8fe3-443a7940d648"
+        "angelware-f032b35f-c8ad-4af3-a5e6-fecb1bd8a7a5"
       ]
     },
     {
