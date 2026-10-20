@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:00:17Z",
+  "generatedAt": "2026-10-20T00:09:44Z",
   "songs": [
+    {
+      "id": "ace-2026-10-20-1",
+      "title": "把光留住 · 10-20",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-2026-10-20-1.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-2026-10-20-1.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-2026-10-20-1.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-2026-10-20-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-2026-10-20-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n第一次看见你 我就知道\n这个人 我要好好对待\n你笑起来 眼睛弯成月亮\n我紧张得 一句话都说不完整\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 我想跟你说\n这一辈子 我只想对你好\n你 你听我说完\n不管多远 我都会等着你\n\n[Verse 2]\n\n周末的早上 你不爱起床\n我买了早点 放在桌子上\n你眯着眼睛 问我几点了\n我说你快吃 凉了不好吃\n\n[Pre-Chorus]\n\n我不敢保证 天天开心\n但我保证 天天都在\n\n[Chorus]\n\n只要你在\n什么天气 我都觉得好\n只要你笑\n什么辛苦 我都愿意扛\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T00:09:44Z"
+    },
     {
       "id": "ace-custom-53ed822fb965",
       "title": "我想你",
@@ -9559,10 +9579,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "9 首 · 灵感音乐歌单",
+      "subtitle": "10 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-20-1",
         "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
@@ -9581,6 +9602,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-20-1",
         "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
@@ -9619,8 +9641,7 @@
         "angelware-0176e651-b69f-499c-8fe3-443a7940d648",
         "angelware-bc238975-68f9-4b57-98cf-45da7de33e13",
         "angelware-0b480403-0ebc-4577-8e29-e49366ad568f",
-        "angelware-94734f3a-0dbf-4484-97de-f1559b21d523",
-        "angelware-03b57ad9-1faf-492f-a61a-a95b69ccd67c"
+        "angelware-94734f3a-0dbf-4484-97de-f1559b21d523"
       ]
     },
     {
