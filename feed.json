@@ -1,28 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T04:51:02Z",
+  "generatedAt": "2026-10-20T04:52:50Z",
   "songs": [
-    {
-      "id": "ace-custom-525d8059da16",
-      "title": "手机连通测试",
-      "artist": "我的 ACE-Step AI 创作",
-      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-525d8059da16.mp3",
-      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-525d8059da16.mp3",
-      "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-custom-525d8059da16.mp3"
-      ],
-      "artworkURL": null,
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-525d8059da16.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-525d8059da16.json",
-      "lyrics": "[Intro]\n\n[Verse 1]\n\n我在这座城市 遇见你\n那天的街边的灯 特别好看\n你回头看了我一眼\n从那天起 我就记住了你\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n手机连通测试 你看看我\n有你在的地方 就是我的家\n手机连通测试 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n你说喜欢吃 巷口那一家的面\n我每次都记得 帮你多加青菜\n你笑我 记性其实很好\n我说对你 我当然要认真\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n手机连通测试 我想跟你说\n这一辈子 我只想对你好\n手机连通测试 你听我说完\n不管多远 我都会等着你\n\n[Outro]\n\n（我一直在）\n",
-      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
-      "popularity": "原创新歌",
-      "category": "流行",
-      "style": "流行",
-      "vocalType": "女声",
-      "durationSeconds": 45.0,
-      "publishedAt": "2026-10-20T04:51:02Z"
-    },
     {
       "id": "ace-custom-73bc1ea99664",
       "title": "清晨的答案",
@@ -10628,7 +10607,6 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
-        "ace-custom-525d8059da16",
         "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
@@ -11525,11 +11503,10 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "17 首 · 灵感音乐歌单",
+      "subtitle": "16 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
-        "ace-custom-525d8059da16",
         "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
@@ -11551,11 +11528,10 @@
     {
       "id": "playlist-new",
       "title": "最近上架",
-      "subtitle": "40 首 · 灵感音乐歌单",
+      "subtitle": "39 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
-        "ace-custom-525d8059da16",
         "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
