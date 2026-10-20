@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:52:28Z",
+  "generatedAt": "2026-10-20T00:57:03Z",
   "songs": [
+    {
+      "id": "ace-custom-1b7956e3dc39",
+      "title": "山海回音",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-1b7956e3dc39.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-1b7956e3dc39.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-custom-1b7956e3dc39.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-1b7956e3dc39.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-1b7956e3dc39.json",
+      "lyrics": "[Verse]\n山路弯过一片稻田\n风把云推向遥远海边\n我在日记里画一条线\n从故乡一直延伸到明天\n\n[Pre-Chorus]\n每一次停下听风\n都听见有人叫我的名字\n\n[Chorus]\n山有回音 海也有回音\n走得再远仍记得来时的心\n把漫长岁月唱给星星听\n总会有一盏灯等我归去\n\n[Verse]\n渡口有人点起小小灯\n渔船在暮色里慢慢靠岸\n我把沿途故事装进行囊\n留给下一次重逢时分享\n\n[Chorus]\n山有回音 海也有回音\n走得再远仍记得来时的心\n把漫长岁月唱给星星听\n总会有一盏灯等我归去\n\n[Outro]\n听见回音 就知道归途",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "世界民谣",
+      "style": "世界民谣",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T00:57:03Z"
+    },
     {
       "id": "ace-custom-b2ba25c2c5e2",
       "title": "驶向天亮",
@@ -8901,6 +8921,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
@@ -9660,10 +9681,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "14 首 · 灵感音乐歌单",
+      "subtitle": "15 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
@@ -9687,6 +9709,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
@@ -9725,8 +9748,7 @@
         "angelware-986820ea-13f0-4f22-a196-3ef9c496a616",
         "angelware-2c464a44-8d14-4a36-a72f-2a16a34b0735",
         "angelware-c4549f76-6af5-41ac-bad3-78bacdbb5431",
-        "angelware-91c6e005-c9df-4863-9ba8-a79c8876592f",
-        "angelware-f032b35f-c8ad-4af3-a5e6-fecb1bd8a7a5"
+        "angelware-91c6e005-c9df-4863-9ba8-a79c8876592f"
       ]
     },
     {
