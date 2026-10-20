@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T04:28:01Z",
+  "generatedAt": "2026-10-20T04:28:54Z",
   "songs": [
     {
       "id": "ace-custom-73bc1ea99664",
@@ -20,7 +20,8 @@
       "category": "华语流行",
       "style": "华语流行",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T04:28:01Z"
+      "publishedAt": "2026-10-20T04:28:01Z",
+      "vocalType": "女声"
     },
     {
       "id": "ace-custom-1b7956e3dc39",
@@ -40,7 +41,8 @@
       "category": "世界民谣",
       "style": "世界民谣",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:57:03Z"
+      "publishedAt": "2026-10-20T00:57:03Z",
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-b2ba25c2c5e2",
@@ -60,7 +62,8 @@
       "category": "华语流行",
       "style": "华语流行",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:52:28Z"
+      "publishedAt": "2026-10-20T00:52:28Z",
+      "vocalType": "女声"
     },
     {
       "id": "ace-custom-ac6d9739572c",
@@ -80,7 +83,8 @@
       "category": "复古风",
       "style": "复古风",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:46:06Z"
+      "publishedAt": "2026-10-20T00:46:06Z",
+      "vocalType": "女声"
     },
     {
       "id": "ace-custom-03b5ba0bc248",
@@ -100,7 +104,8 @@
       "category": "经典摇滚",
       "style": "经典摇滚",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:41:53Z"
+      "publishedAt": "2026-10-20T00:41:53Z",
+      "vocalType": "男声"
     },
     {
       "id": "ace-2026-10-20-2",
@@ -120,7 +125,8 @@
       "category": "每日新歌",
       "style": "民谣",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:13:29Z"
+      "publishedAt": "2026-10-20T00:13:29Z",
+      "vocalType": "男声"
     },
     {
       "id": "ace-2026-10-20-1",
@@ -140,7 +146,8 @@
       "category": "每日新歌",
       "style": "流行",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:09:44Z"
+      "publishedAt": "2026-10-20T00:09:44Z",
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-53ed822fb965",
@@ -160,7 +167,8 @@
       "category": "R&B",
       "style": "R&B",
       "durationSeconds": 90.0,
-      "publishedAt": "2026-10-20T00:00:17Z"
+      "publishedAt": "2026-10-20T00:00:17Z",
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-6b325d9e276c",
@@ -180,7 +188,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-6b325d9e276c.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-6b325d9e276c.mp3"
-      ]
+      ],
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-bf53b1194c5d",
@@ -200,7 +209,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-bf53b1194c5d.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-bf53b1194c5d.mp3"
-      ]
+      ],
+      "vocalType": "女声"
     },
     {
       "id": "ace-custom-bcf22437026b",
@@ -220,7 +230,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-bcf22437026b.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-bcf22437026b.mp3"
-      ]
+      ],
+      "vocalType": "女声"
     },
     {
       "id": "ace-custom-36635f5d6f04",
@@ -240,7 +251,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-36635f5d6f04.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-36635f5d6f04.mp3"
-      ]
+      ],
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-250a92515d0b",
@@ -260,7 +272,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-250a92515d0b.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-250a92515d0b.mp3"
-      ]
+      ],
+      "vocalType": "男声"
     },
     {
       "id": "ace-custom-2759d6f8b595",
@@ -280,7 +293,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-custom-2759d6f8b595.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-custom-2759d6f8b595.mp3"
-      ]
+      ],
+      "vocalType": "女声"
     },
     {
       "id": "ace-2026-10-19-2",
@@ -300,7 +314,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-2026-10-19-2.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-2026-10-19-2.mp3"
-      ]
+      ],
+      "vocalType": "男声"
     },
     {
       "id": "ace-2026-10-19-1",
@@ -320,7 +335,8 @@
       "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-19/ace-2026-10-19-1.mp3",
       "alternateAudioURLs": [
         "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-19/ace-2026-10-19-1.mp3"
-      ]
+      ],
+      "vocalType": "女声"
     },
     {
       "id": "angelware-d052c8e1-c9b0-4093-9a56-7c25739f9f31",
@@ -10510,6 +10526,81 @@
   ],
   "albums": [
     {
+      "id": "album-female-originals",
+      "title": "女声原创精选",
+      "subtitle": "华语女声 · 本机 AI 原创",
+      "kind": "album",
+      "artworkIndex": 1,
+      "songIDs": [
+        "ace-custom-73bc1ea99664",
+        "ace-custom-b2ba25c2c5e2",
+        "ace-custom-ac6d9739572c",
+        "ace-custom-bf53b1194c5d",
+        "ace-custom-bcf22437026b",
+        "ace-custom-2759d6f8b595",
+        "ace-2026-10-19-1"
+      ]
+    },
+    {
+      "id": "album-male-originals",
+      "title": "男声原创精选",
+      "subtitle": "华语男声 · 本机 AI 原创",
+      "kind": "album",
+      "artworkIndex": 4,
+      "songIDs": [
+        "ace-custom-1b7956e3dc39",
+        "ace-custom-03b5ba0bc248",
+        "ace-2026-10-20-2",
+        "ace-2026-10-20-1",
+        "ace-custom-53ed822fb965",
+        "ace-custom-6b325d9e276c",
+        "ace-custom-36635f5d6f04",
+        "ace-custom-250a92515d0b",
+        "ace-2026-10-19-2"
+      ]
+    },
+    {
+      "id": "album-retro-originals",
+      "title": "复古夜色",
+      "subtitle": "复古风 · 黑胶与都市节奏",
+      "kind": "album",
+      "artworkIndex": 2,
+      "songIDs": [
+        "ace-custom-ac6d9739572c",
+        "ace-custom-6b325d9e276c",
+        "ace-custom-bf53b1194c5d"
+      ]
+    },
+    {
+      "id": "album-rock-originals",
+      "title": "华语经典摇滚",
+      "subtitle": "吉他与热血",
+      "kind": "album",
+      "artworkIndex": 5,
+      "songIDs": [
+        "ace-custom-03b5ba0bc248",
+        "ace-custom-bcf22437026b",
+        "ace-custom-36635f5d6f04"
+      ]
+    },
+    {
+      "id": "album-pop-originals",
+      "title": "华语流行新声",
+      "subtitle": "温暖旋律与原创故事",
+      "kind": "album",
+      "artworkIndex": 0,
+      "songIDs": [
+        "ace-custom-73bc1ea99664",
+        "ace-custom-b2ba25c2c5e2",
+        "ace-2026-10-20-2",
+        "ace-2026-10-20-1",
+        "ace-custom-250a92515d0b",
+        "ace-custom-2759d6f8b595",
+        "ace-2026-10-19-2",
+        "ace-2026-10-19-1"
+      ]
+    },
+    {
       "id": "album-mandarin-originals",
       "title": "华语原创辑",
       "subtitle": "灵感音乐 · 本机 AI 创作",
@@ -10532,6 +10623,111 @@
         "ace-custom-2759d6f8b595",
         "ace-2026-10-19-2",
         "ace-2026-10-19-1"
+      ]
+    },
+    {
+      "id": "album-电子-01",
+      "title": "电子精选 · 01",
+      "subtitle": "Angelware Research · AI 编辑选辑",
+      "kind": "album",
+      "artworkIndex": 3,
+      "songIDs": [
+        "angelware-2f81f939-40d2-4886-9592-4d43524fd61a",
+        "angelware-ddb429a8-dd8f-4bb3-8918-a7e3101b36e0",
+        "angelware-c32381ca-b3ea-4caa-a163-88f14be8a127",
+        "angelware-567585b0-80f7-4904-b124-d409af1ff8dd",
+        "angelware-ea5957a9-e2e7-4233-82e2-232c835c1c5c",
+        "angelware-f4a7d5f2-f32b-440a-8dce-2d7b1fddacfb",
+        "angelware-00379b54-8361-4b27-ad83-cd7e19d4fe79",
+        "angelware-f385ad96-969f-41f1-a06d-27703e3030d3",
+        "angelware-0f0dd603-8ef4-4591-98bc-a79bcfa3204f",
+        "angelware-6d1812fa-c367-43a3-bfda-db6e3d78926c",
+        "angelware-584f809d-dd51-429d-8771-c22e965f8301",
+        "angelware-b8d610d7-34e4-41a2-b2f8-78d4e5cbda34"
+      ]
+    },
+    {
+      "id": "album-爵士蓝调-01",
+      "title": "爵士蓝调精选 · 01",
+      "subtitle": "Angelware Research · AI 编辑选辑",
+      "kind": "album",
+      "artworkIndex": 4,
+      "songIDs": [
+        "angelware-bfb24b65-6777-4a92-a999-9037b7239ea8",
+        "angelware-7a52fd34-6cc0-4fa6-862e-beaf2621f588",
+        "angelware-51f9b384-fdc6-4a6d-a433-23ba34aec148",
+        "angelware-618c656c-4d5f-4201-a98d-b3b32ee246fd",
+        "angelware-90e8b148-ff1e-4f0c-8ddb-f8b88d1912f1",
+        "angelware-2ecbd19f-8a7d-4051-b3b8-6d6dee6ec88c",
+        "angelware-d9a9d9f4-d842-4177-8bb6-cbec40d6256a",
+        "angelware-77381084-5d86-43bc-a59f-eba6d9003d30",
+        "angelware-fd22de0b-6033-4cb3-a804-2cf44799dd99",
+        "angelware-fcd3030a-5666-4db0-83ea-07b5dfd46a76",
+        "angelware-3817da5f-6cf2-4b3c-903f-b005b49ac126",
+        "angelware-5c06dc8f-f8ea-47c2-99d3-5fde9cd345b6"
+      ]
+    },
+    {
+      "id": "album-世界民谣-01",
+      "title": "世界民谣精选 · 01",
+      "subtitle": "Angelware Research · AI 编辑选辑",
+      "kind": "album",
+      "artworkIndex": 2,
+      "songIDs": [
+        "angelware-481a4db3-4ba2-4edc-ae1d-e75bffc43c67",
+        "angelware-c5117760-a869-4ef3-905f-13a3f7c288aa",
+        "angelware-01a431f3-3c83-4df9-8f17-6c42e51babf1",
+        "angelware-97976f64-028d-4a5f-9095-becc1b6d5e5c",
+        "angelware-54d75547-c836-4ec9-8bac-d6aed0b19a1c",
+        "angelware-928b0771-6593-44ff-befd-81498b4e0017",
+        "angelware-05ef970d-3c28-4c12-a55e-689eb7b7ca18",
+        "angelware-1441496c-59ab-40b2-ac1e-8808c534d1c9",
+        "angelware-f12cd285-dcc6-44fb-aa1b-7160d00d23a3",
+        "angelware-3acfde3b-14e2-4152-9507-7a5d2a33be6d",
+        "angelware-2a714298-9310-42b3-bf85-f715805b37c4",
+        "angelware-030e5c2a-c424-4e96-8a9c-03322fb93fef"
+      ]
+    },
+    {
+      "id": "album-古典-01",
+      "title": "古典精选 · 01",
+      "subtitle": "Angelware Research · AI 编辑选辑",
+      "kind": "album",
+      "artworkIndex": 5,
+      "songIDs": [
+        "angelware-6503433d-2d97-4b64-b2e9-a2c5bc5ad2ef",
+        "angelware-dabd1b82-f9cd-424f-9dc9-1c6863a09bf4",
+        "angelware-c7a5a0aa-d60c-4e1c-8d9a-d5c574221a2a",
+        "angelware-72d42a98-e801-4e4d-81d2-5755ae309687",
+        "angelware-45d051f9-ae97-4fac-ae41-9c4d7647852f",
+        "angelware-6fbf34e2-c727-45b1-a54d-cfd9e1000b04",
+        "angelware-4c63cb8f-c846-44bd-9f31-62560c19f95c",
+        "angelware-c33d7221-43fe-4fc3-a515-1f088d32b647",
+        "angelware-85083ebb-edf2-44dc-b392-924f2bf094bd",
+        "angelware-11f62769-521d-467e-8e59-846fedf7c1dd",
+        "angelware-8c58bee7-73ea-4194-99de-3471c372313b",
+        "angelware-85b54f52-55ec-437a-aaca-6a72522ee678"
+      ]
+    },
+    {
+      "id": "album-摇滚实验-01",
+      "title": "摇滚实验精选 · 01",
+      "subtitle": "Angelware Research · AI 编辑选辑",
+      "kind": "album",
+      "artworkIndex": 1,
+      "songIDs": [
+        "angelware-fc811384-04bb-4cfc-ae9e-d3fb57e60651",
+        "angelware-eee85830-9bce-41b7-9133-14e2caab7030",
+        "angelware-c4b66d0f-b351-489a-b948-9cc9ad87f0de",
+        "angelware-0e333109-56f3-4cdc-858d-f5a129d740bb",
+        "angelware-2f2f5748-da70-4996-8e5b-49a5cc8f62f5",
+        "angelware-4dcd69d1-947d-413f-b493-58cdd0607910",
+        "angelware-b9153d20-0123-4259-b277-dacb9454a374",
+        "angelware-6ddfdc6c-a989-437e-8d3c-f59d0f10258c",
+        "angelware-d6d34e76-20a8-4f67-9290-d12778e0ea71",
+        "angelware-078539cb-bd4c-4190-8ab0-7e26e63a10e4",
+        "angelware-8f33efb2-e79f-48b6-a76c-da1e292d1c17",
+        "angelware-0e999415-7f4c-466d-b39c-7a7f548451f2"
       ]
     },
     {
@@ -10722,27 +10918,6 @@
       ]
     },
     {
-      "id": "album-电子-01",
-      "title": "电子精选 · 01",
-      "subtitle": "Angelware Research · AI 编辑选辑",
-      "kind": "album",
-      "artworkIndex": 3,
-      "songIDs": [
-        "angelware-2f81f939-40d2-4886-9592-4d43524fd61a",
-        "angelware-ddb429a8-dd8f-4bb3-8918-a7e3101b36e0",
-        "angelware-c32381ca-b3ea-4caa-a163-88f14be8a127",
-        "angelware-567585b0-80f7-4904-b124-d409af1ff8dd",
-        "angelware-ea5957a9-e2e7-4233-82e2-232c835c1c5c",
-        "angelware-f4a7d5f2-f32b-440a-8dce-2d7b1fddacfb",
-        "angelware-00379b54-8361-4b27-ad83-cd7e19d4fe79",
-        "angelware-f385ad96-969f-41f1-a06d-27703e3030d3",
-        "angelware-0f0dd603-8ef4-4591-98bc-a79bcfa3204f",
-        "angelware-6d1812fa-c367-43a3-bfda-db6e3d78926c",
-        "angelware-584f809d-dd51-429d-8771-c22e965f8301",
-        "angelware-b8d610d7-34e4-41a2-b2f8-78d4e5cbda34"
-      ]
-    },
-    {
       "id": "album-电子-02",
       "title": "电子精选 · 02",
       "subtitle": "Angelware Research · AI 编辑选辑",
@@ -10865,27 +11040,6 @@
         "angelware-c358f25a-89a9-4f41-bf16-cabf5eb3287d",
         "angelware-98df8f8b-a4dc-4075-b516-ff3c5a15ee4a",
         "angelware-b7b95938-54b9-4449-86ba-cfd048ce63f8"
-      ]
-    },
-    {
-      "id": "album-爵士蓝调-01",
-      "title": "爵士蓝调精选 · 01",
-      "subtitle": "Angelware Research · AI 编辑选辑",
-      "kind": "album",
-      "artworkIndex": 4,
-      "songIDs": [
-        "angelware-bfb24b65-6777-4a92-a999-9037b7239ea8",
-        "angelware-7a52fd34-6cc0-4fa6-862e-beaf2621f588",
-        "angelware-51f9b384-fdc6-4a6d-a433-23ba34aec148",
-        "angelware-618c656c-4d5f-4201-a98d-b3b32ee246fd",
-        "angelware-90e8b148-ff1e-4f0c-8ddb-f8b88d1912f1",
-        "angelware-2ecbd19f-8a7d-4051-b3b8-6d6dee6ec88c",
-        "angelware-d9a9d9f4-d842-4177-8bb6-cbec40d6256a",
-        "angelware-77381084-5d86-43bc-a59f-eba6d9003d30",
-        "angelware-fd22de0b-6033-4cb3-a804-2cf44799dd99",
-        "angelware-fcd3030a-5666-4db0-83ea-07b5dfd46a76",
-        "angelware-3817da5f-6cf2-4b3c-903f-b005b49ac126",
-        "angelware-5c06dc8f-f8ea-47c2-99d3-5fde9cd345b6"
       ]
     },
     {
@@ -11067,27 +11221,6 @@
       ]
     },
     {
-      "id": "album-世界民谣-01",
-      "title": "世界民谣精选 · 01",
-      "subtitle": "Angelware Research · AI 编辑选辑",
-      "kind": "album",
-      "artworkIndex": 2,
-      "songIDs": [
-        "angelware-481a4db3-4ba2-4edc-ae1d-e75bffc43c67",
-        "angelware-c5117760-a869-4ef3-905f-13a3f7c288aa",
-        "angelware-01a431f3-3c83-4df9-8f17-6c42e51babf1",
-        "angelware-97976f64-028d-4a5f-9095-becc1b6d5e5c",
-        "angelware-54d75547-c836-4ec9-8bac-d6aed0b19a1c",
-        "angelware-928b0771-6593-44ff-befd-81498b4e0017",
-        "angelware-05ef970d-3c28-4c12-a55e-689eb7b7ca18",
-        "angelware-1441496c-59ab-40b2-ac1e-8808c534d1c9",
-        "angelware-f12cd285-dcc6-44fb-aa1b-7160d00d23a3",
-        "angelware-3acfde3b-14e2-4152-9507-7a5d2a33be6d",
-        "angelware-2a714298-9310-42b3-bf85-f715805b37c4",
-        "angelware-030e5c2a-c424-4e96-8a9c-03322fb93fef"
-      ]
-    },
-    {
       "id": "album-世界民谣-02",
       "title": "世界民谣精选 · 02",
       "subtitle": "Angelware Research · AI 编辑选辑",
@@ -11245,27 +11378,6 @@
       ]
     },
     {
-      "id": "album-古典-01",
-      "title": "古典精选 · 01",
-      "subtitle": "Angelware Research · AI 编辑选辑",
-      "kind": "album",
-      "artworkIndex": 5,
-      "songIDs": [
-        "angelware-6503433d-2d97-4b64-b2e9-a2c5bc5ad2ef",
-        "angelware-dabd1b82-f9cd-424f-9dc9-1c6863a09bf4",
-        "angelware-c7a5a0aa-d60c-4e1c-8d9a-d5c574221a2a",
-        "angelware-72d42a98-e801-4e4d-81d2-5755ae309687",
-        "angelware-45d051f9-ae97-4fac-ae41-9c4d7647852f",
-        "angelware-6fbf34e2-c727-45b1-a54d-cfd9e1000b04",
-        "angelware-4c63cb8f-c846-44bd-9f31-62560c19f95c",
-        "angelware-c33d7221-43fe-4fc3-a515-1f088d32b647",
-        "angelware-85083ebb-edf2-44dc-b392-924f2bf094bd",
-        "angelware-11f62769-521d-467e-8e59-846fedf7c1dd",
-        "angelware-8c58bee7-73ea-4194-99de-3471c372313b",
-        "angelware-85b54f52-55ec-437a-aaca-6a72522ee678"
-      ]
-    },
-    {
       "id": "album-古典-02",
       "title": "古典精选 · 02",
       "subtitle": "Angelware Research · AI 编辑选辑",
@@ -11280,27 +11392,6 @@
         "angelware-33c30cd3-9544-4303-aed0-aad5c214b3f8",
         "angelware-c2550d1f-1852-4da4-8a1a-7ff0d6a9504d",
         "angelware-585d9299-d375-4bd0-802c-9c5d1fc3bcaf"
-      ]
-    },
-    {
-      "id": "album-摇滚实验-01",
-      "title": "摇滚实验精选 · 01",
-      "subtitle": "Angelware Research · AI 编辑选辑",
-      "kind": "album",
-      "artworkIndex": 1,
-      "songIDs": [
-        "angelware-fc811384-04bb-4cfc-ae9e-d3fb57e60651",
-        "angelware-eee85830-9bce-41b7-9133-14e2caab7030",
-        "angelware-c4b66d0f-b351-489a-b948-9cc9ad87f0de",
-        "angelware-0e333109-56f3-4cdc-858d-f5a129d740bb",
-        "angelware-2f2f5748-da70-4996-8e5b-49a5cc8f62f5",
-        "angelware-4dcd69d1-947d-413f-b493-58cdd0607910",
-        "angelware-b9153d20-0123-4259-b277-dacb9454a374",
-        "angelware-6ddfdc6c-a989-437e-8d3c-f59d0f10258c",
-        "angelware-d6d34e76-20a8-4f67-9290-d12778e0ea71",
-        "angelware-078539cb-bd4c-4190-8ab0-7e26e63a10e4",
-        "angelware-8f33efb2-e79f-48b6-a76c-da1e292d1c17",
-        "angelware-0e999415-7f4c-466d-b39c-7a7f548451f2"
       ]
     },
     {
