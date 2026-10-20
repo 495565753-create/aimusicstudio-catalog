@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T23:42:23Z",
+  "generatedAt": "2026-10-20T00:00:17Z",
   "songs": [
+    {
+      "id": "ace-custom-53ed822fb965",
+      "title": "我想你",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-53ed822fb965.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-53ed822fb965.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-custom-53ed822fb965.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-53ed822fb965.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-53ed822fb965.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n中国的窗外的风景 我又看到了\n你已经走了 有一段时间\n我每天回家 都看一下门口\n好像你只是 出去买东西\n\n[Pre-Chorus]\n\n我不怪你 也不怪自己\n只是有一点 想不明白\n\n[Chorus]\n\n我想你 我还是想着你\n一天又一天 一年又一年\n我想你 我还是等着你\n你回头看一眼 我一直都在\n\n[Verse 2]\n\n房间的东西 你都没带走\n只有那张照片 留在桌上\n我每天回家 都看它一眼\n好像你还在 这个家里面\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n我想你 你现在在哪里\n过得好不好 有没有人照顾你\n我想你 我还在这里\n等你回来 我们重新开始\n\n[Outro]\n\n（我想你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "R&B",
+      "style": "R&B",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T00:00:17Z"
+    },
     {
       "id": "ace-custom-6b325d9e276c",
       "title": "老唱片的夜晚",
@@ -9539,10 +9559,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "8 首 · 灵感音乐歌单",
+      "subtitle": "9 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
         "ace-custom-bcf22437026b",
@@ -9560,6 +9581,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-custom-53ed822fb965",
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
         "ace-custom-bcf22437026b",
@@ -9598,8 +9620,7 @@
         "angelware-bc238975-68f9-4b57-98cf-45da7de33e13",
         "angelware-0b480403-0ebc-4577-8e29-e49366ad568f",
         "angelware-94734f3a-0dbf-4484-97de-f1559b21d523",
-        "angelware-03b57ad9-1faf-492f-a61a-a95b69ccd67c",
-        "angelware-c7c1c081-9b66-4e30-a00b-0282911e0010"
+        "angelware-03b57ad9-1faf-492f-a61a-a95b69ccd67c"
       ]
     },
     {
