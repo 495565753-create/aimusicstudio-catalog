@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T00:59:27Z",
+  "generatedAt": "2026-10-20T04:28:01Z",
   "songs": [
+    {
+      "id": "ace-custom-73bc1ea99664",
+      "title": "清晨的答案",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-73bc1ea99664.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-20/ace-custom-73bc1ea99664.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-20/ace-custom-73bc1ea99664.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-73bc1ea99664.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-20/ace-custom-73bc1ea99664.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n我在这座城市 遇见你\n那天的回家的路 特别好看\n你回头看了我一眼\n从那天起 我就记住了你\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n清晨的答案 我想跟你说\n我这个人 说话算话\n清晨的答案 你听我讲\n这辈子 我只认你一个人\n\n[Verse 2]\n\n周末的早上 你不爱起床\n我买了早点 放在桌子上\n你眯着眼睛 问我几点了\n我说你快吃 凉了不好吃\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n清晨的答案 我想跟你说\n这一辈子 我只想对你好\n清晨的答案 你听我说完\n不管多远 我都会等着你\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "原创新歌",
+      "category": "华语流行",
+      "style": "华语流行",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-20T04:28:01Z"
+    },
     {
       "id": "ace-custom-1b7956e3dc39",
       "title": "山海回音",
@@ -10496,6 +10516,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
@@ -11391,10 +11412,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "15 首 · 灵感音乐歌单",
+      "subtitle": "16 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
@@ -11419,6 +11441,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
@@ -11457,8 +11480,7 @@
         "angelware-2cfd340a-7a52-49ea-8cb0-795bcb52eec6",
         "angelware-e3ef7c65-ffc6-4b2c-9b8c-54fdf0d62296",
         "angelware-990ab722-3cdf-45b8-a418-982896bfb684",
-        "angelware-e59fa0c0-6c34-4a10-8045-150e89fe555c",
-        "angelware-34c24905-d357-4457-8577-fe4f3579af2c"
+        "angelware-e59fa0c0-6c34-4a10-8045-150e89fe555c"
       ]
     },
     {
