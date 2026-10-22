@@ -1,0 +1,12 @@
+{
+  "title": "欢乐颂 · 光在前方",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:11:39Z",
+  "sha256": "6fc2117560c753601342267244bff02e8d5a75267a3465e5d467d25887fd6b57",
+  "taskType": "cover",
+  "sourceComposition": "Ode to Joy — Ludwig van Beethoven",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=528",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}

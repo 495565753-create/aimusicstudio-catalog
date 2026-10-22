@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:11:35Z",
+  "generatedAt": "2026-10-22T06:11:39Z",
   "songs": [
+    {
+      "id": "ace-cover-ode-to-joy-20261022",
+      "title": "欢乐颂 · 光在前方",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-ode-to-joy-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-ode-to-joy-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-ode-to-joy-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=528",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-ode-to-joy-20261022.json",
+      "lyrics": "[Verse]\n天亮以后一起出发\n把所有的梦放在心上\n脚下的路虽然漫长\n抬头就能看见光芒\n\n[Chorus]\n唱吧 唱吧 向着太阳\n让快乐穿过每条街巷\n你我并肩走过风雨\n把希望唱到远方\n\n[Verse]\n陌生的人伸出双手\n微笑也能化成力量\n每颗心都值得被听见\n每一步都走向宽广\n\n[Chorus]\n唱吧 唱吧 向着太阳\n让快乐穿过每条街巷\n你我并肩走过风雨\n把希望唱到远方\n\n[Outro]\n把希望唱到远方",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "交响流行",
+      "vocalType": "男声",
+      "durationSeconds": 77.68,
+      "publishedAt": "2026-10-22T06:11:39Z"
+    },
     {
       "id": "ace-cover-greensleeves-20261022",
       "title": "绿袖子 · 月光来信",
@@ -11668,6 +11689,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-ode-to-joy-20261022",
         "ace-cover-greensleeves-20261022",
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
@@ -11706,8 +11728,7 @@
         "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8",
         "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664",
         "angelware-27248663-8365-4131-894f-0b92bf4ad1ff",
-        "angelware-b28fd5f1-02c6-428f-9555-5ac91c6f6de9",
-        "angelware-743e3e5c-978a-49a6-9e14-0ccaee1388a0"
+        "angelware-b28fd5f1-02c6-428f-9555-5ac91c6f6de9"
       ]
     },
     {
