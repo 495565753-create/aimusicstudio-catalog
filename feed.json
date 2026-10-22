@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T00:18:13Z",
+  "generatedAt": "2026-10-22T06:11:35Z",
   "songs": [
+    {
+      "id": "ace-cover-greensleeves-20261022",
+      "title": "绿袖子 · 月光来信",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-greensleeves-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-greensleeves-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-greensleeves-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1265",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-greensleeves-20261022.json",
+      "lyrics": "[Verse]\n夜色落在旧城墙\n晚风推开那扇窗\n我把名字轻轻唱\n唱给远方的你听\n\n[Chorus]\n绿袖飘过我梦里\n月光照亮来时路\n如果春天还会回\n请把这首歌带给你\n\n[Verse]\n多年以后经过这里\n街灯依然温柔明亮\n一片树叶落在手心\n像你写来的短短信\n\n[Chorus]\n绿袖飘过我梦里\n月光照亮来时路\n如果春天还会回\n请把这首歌带给你\n\n[Outro]\n请把这首歌带给你",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "复古民谣",
+      "vocalType": "女声",
+      "durationSeconds": 78.48,
+      "publishedAt": "2026-10-22T06:11:35Z"
+    },
     {
       "id": "ace-2026-10-22-2",
       "title": "雨后的街道 · 10-22",
@@ -11647,6 +11668,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-greensleeves-20261022",
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
@@ -11685,8 +11707,7 @@
         "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664",
         "angelware-27248663-8365-4131-894f-0b92bf4ad1ff",
         "angelware-b28fd5f1-02c6-428f-9555-5ac91c6f6de9",
-        "angelware-743e3e5c-978a-49a6-9e14-0ccaee1388a0",
-        "angelware-037c3b08-a38a-4b66-948a-21b177a1f479"
+        "angelware-743e3e5c-978a-49a6-9e14-0ccaee1388a0"
       ]
     },
     {

@@ -1,0 +1,12 @@
+{
+  "title": "绿袖子 · 月光来信",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:11:35Z",
+  "sha256": "6f6304e488da3dca3f42c7db242211c685ed63fc300880281a937ea008c45c6d",
+  "taskType": "cover",
+  "sourceComposition": "Greensleeves — Traditional",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1265",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}
