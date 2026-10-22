@@ -1,0 +1,12 @@
+{
+  "title": "甜蜜的家 · 门前的灯",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:11:50Z",
+  "sha256": "87230de89cc731e90976b10f1a6093d51c29e74ae5561a09f0c82b6f7ed6d798",
+  "taskType": "cover",
+  "sourceComposition": "Home, Sweet Home — Henry R. Bishop / John H. Payne",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=435",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}

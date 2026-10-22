@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:11:44Z",
+  "generatedAt": "2026-10-22T06:11:50Z",
   "songs": [
+    {
+      "id": "ace-cover-home-sweet-home-20261022",
+      "title": "甜蜜的家 · 门前的灯",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-home-sweet-home-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-home-sweet-home-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-home-sweet-home-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=435",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-home-sweet-home-20261022.json",
+      "lyrics": "[Verse]\n沿着晚霞走过街口\n熟悉的灯还亮在门前\n我带着一路风和故事\n终于回到温暖的房间\n\n[Chorus]\n家是那盏不灭的灯\n照着我走过四季和远方\n无论世界有多少声音\n这里总能听见我的心\n\n[Verse]\n桌上放着热茶和点心\n窗边花儿还是那样香\n你说不用急着讲完故事\n先坐下来看看月亮\n\n[Chorus]\n家是那盏不灭的灯\n照着我走过四季和远方\n无论世界有多少声音\n这里总能听见我的心\n\n[Outro]\n这里总能听见我的心",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "经典抒情",
+      "vocalType": "女声",
+      "durationSeconds": 64.48,
+      "publishedAt": "2026-10-22T06:11:50Z"
+    },
     {
       "id": "ace-cover-auld-lang-syne-20261022",
       "title": "友谊地久天长 · 再举杯",
@@ -11710,6 +11731,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-home-sweet-home-20261022",
         "ace-cover-auld-lang-syne-20261022",
         "ace-cover-ode-to-joy-20261022",
         "ace-cover-greensleeves-20261022",
@@ -11748,8 +11770,7 @@
         "angelware-e9be26a2-91ed-48c4-bda7-a5e15059fd9c",
         "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933",
         "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8",
-        "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664",
-        "angelware-27248663-8365-4131-894f-0b92bf4ad1ff"
+        "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664"
       ]
     },
     {
