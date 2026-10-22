@@ -1,0 +1,12 @@
+{
+  "title": "G弦上的咏叹调 · 慢慢想你",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:33:08Z",
+  "sha256": "a736a376e21d8fa6d61ee8555e105e1554aae2cab1dd7def92535ebb54d85ab1",
+  "taskType": "cover",
+  "sourceComposition": "Air on the G String — Johann Sebastian Bach",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1534",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}

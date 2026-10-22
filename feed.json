@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:33:02Z",
+  "generatedAt": "2026-10-22T06:33:08Z",
   "songs": [
+    {
+      "id": "ace-cover-air-on-g-string-20261022",
+      "title": "G弦上的咏叹调 · 慢慢想你",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-air-on-g-string-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-air-on-g-string-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-air-on-g-string-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1534",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-air-on-g-string-20261022.json",
+      "lyrics": "[Verse]\n黄昏把天空慢慢染成金色\n我沿着河岸走过熟悉的桥\n风从你曾坐过的长椅吹来\n带着一点春天留下的味道\n\n[Chorus]\n我会慢慢想你\n像听一首很轻的歌\n不急着寻找答案\n只愿把温柔留在心里\n\n[Verse]\n有些话不用说得太过完整\n你知道我会记得每个瞬间\n当夜晚的灯光一盏盏亮起\n我仍相信明天可以再见\n\n[Chorus]\n我会慢慢想你\n像听一首很轻的歌\n不急着寻找答案\n只愿把温柔留在心里\n\n[Outro]\n把温柔留在心里",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "古典抒情",
+      "vocalType": "男声",
+      "durationSeconds": 63.8,
+      "publishedAt": "2026-10-22T06:33:08Z"
+    },
     {
       "id": "ace-cover-the-entertainer-20261022",
       "title": "The Entertainer · 旧城舞会",
@@ -11800,6 +11821,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-air-on-g-string-20261022",
         "ace-cover-the-entertainer-20261022",
         "ace-cover-home-sweet-home-20261022",
         "ace-cover-auld-lang-syne-20261022",
@@ -11838,8 +11860,7 @@
         "angelware-715f13d0-9804-46cb-b530-aa6debb993cb",
         "angelware-1111a5fd-87a5-46bd-8afe-8016b6be8c97",
         "angelware-e9be26a2-91ed-48c4-bda7-a5e15059fd9c",
-        "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933",
-        "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8"
+        "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933"
       ]
     },
     {
