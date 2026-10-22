@@ -1,0 +1,12 @@
+{
+  "title": "The Entertainer · 旧城舞会",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:33:02Z",
+  "sha256": "ecea34b3c841768c7bc66d8c1c6e57f2cc9bdd0fc160ed5b8f313f2f420803bd",
+  "taskType": "cover",
+  "sourceComposition": "The Entertainer — Scott Joplin",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=263",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}

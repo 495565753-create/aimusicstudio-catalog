@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:12:08Z",
+  "generatedAt": "2026-10-22T06:33:02Z",
   "songs": [
+    {
+      "id": "ace-cover-the-entertainer-20261022",
+      "title": "The Entertainer · 旧城舞会",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-the-entertainer-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-the-entertainer-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-the-entertainer-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=263",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-the-entertainer-20261022.json",
+      "lyrics": "[Verse]\n老街转角有间小小舞厅\n门前灯牌还在轻轻闪亮\n穿上昨天买的那双皮鞋\n今晚要把烦恼全都忘掉\n\n[Chorus]\n跟着钢琴摇摆起来\n一步两步踩着节拍\n你的笑容像一束烟火\n照亮这场旧城舞会\n\n[Verse]\n唱片转过一圈又一圈\n朋友坐在窗边拍着手\n午夜过后也别急着散场\n让这段旋律陪我们走\n\n[Chorus]\n跟着钢琴摇摆起来\n一步两步踩着节拍\n你的笑容像一束烟火\n照亮这场旧城舞会\n\n[Outro]\n照亮这场旧城舞会",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "复古爵士",
+      "vocalType": "女声",
+      "durationSeconds": 80.48,
+      "publishedAt": "2026-10-22T06:33:02Z"
+    },
     {
       "id": "ace-cover-home-sweet-home-20261022",
       "title": "甜蜜的家 · 门前的灯",
@@ -11779,6 +11800,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-the-entertainer-20261022",
         "ace-cover-home-sweet-home-20261022",
         "ace-cover-auld-lang-syne-20261022",
         "ace-cover-ode-to-joy-20261022",
@@ -11817,8 +11839,7 @@
         "angelware-1111a5fd-87a5-46bd-8afe-8016b6be8c97",
         "angelware-e9be26a2-91ed-48c4-bda7-a5e15059fd9c",
         "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933",
-        "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8",
-        "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664"
+        "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8"
       ]
     },
     {
