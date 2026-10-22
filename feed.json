@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T00:12:23Z",
+  "generatedAt": "2026-10-22T00:18:13Z",
   "songs": [
+    {
+      "id": "ace-2026-10-22-2",
+      "title": "雨后的街道 · 10-22",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-2026-10-22-2.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-2026-10-22-2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-2026-10-22-2.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-2026-10-22-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-2026-10-22-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n这座城市的窗外的风景 亮了一整晚\n我一个人 走在回家的路上\n手机里 你的消息还没回\n我就站着 把每条街都看了一遍\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n我们也有吵过 也有闹过\n第二天你就 又来敲我的门\n我知道我们 都不是完美的人\n但我愿意 慢慢跟你磨\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "爵士",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-22T00:18:13Z"
+    },
     {
       "id": "ace-2026-10-22-1",
       "title": "城市的回声 · 10-22",
@@ -10691,6 +10712,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
         "ace-2026-10-21-2",
@@ -11591,10 +11613,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "20 首 · 灵感音乐歌单",
+      "subtitle": "21 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
         "ace-2026-10-21-2",
@@ -11624,6 +11647,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
         "ace-2026-10-21-2",
@@ -11662,8 +11686,7 @@
         "angelware-27248663-8365-4131-894f-0b92bf4ad1ff",
         "angelware-b28fd5f1-02c6-428f-9555-5ac91c6f6de9",
         "angelware-743e3e5c-978a-49a6-9e14-0ccaee1388a0",
-        "angelware-037c3b08-a38a-4b66-948a-21b177a1f479",
-        "angelware-f21375d9-332e-4034-9b3b-2f608abcf1a6"
+        "angelware-037c3b08-a38a-4b66-948a-21b177a1f479"
       ]
     },
     {
