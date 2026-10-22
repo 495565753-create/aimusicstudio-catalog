@@ -1,0 +1,12 @@
+{
+  "title": "友谊地久天长 · 再举杯",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-22T06:11:44Z",
+  "sha256": "b6f164e90427db324a953440f3bbb2e581488fe6414e49e7f72ec4838121c1bb",
+  "taskType": "cover",
+  "sourceComposition": "Auld Lang Syne — Traditional; public-domain F. Horetzky arrangement",
+  "sourceScoreURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1121",
+  "sourceLicenseURL": "https://www.mutopiaproject.org/legal.html#publicdomain",
+  "sourceAudioType": "本机从公有领域 MIDI 曲谱合成的导引音轨"
+}

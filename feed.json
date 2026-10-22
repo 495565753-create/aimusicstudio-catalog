@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:11:39Z",
+  "generatedAt": "2026-10-22T06:11:44Z",
   "songs": [
+    {
+      "id": "ace-cover-auld-lang-syne-20261022",
+      "title": "友谊地久天长 · 再举杯",
+      "artist": "ACE-Step AI 经典翻唱",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-auld-lang-syne-20261022.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-22/ace-cover-auld-lang-syne-20261022.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-22/ace-cover-auld-lang-syne-20261022.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1121",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-22/ace-cover-auld-lang-syne-20261022.json",
+      "lyrics": "[Verse]\n今夜我们又坐在一起\n谈起那条旧街和夏天\n年轻时候许下的约定\n还在每个人的心里面\n\n[Chorus]\n再举杯 敬这些年\n敬所有陪我走过的人\n无论明天去到哪里\n这一首歌永远为你唱\n\n[Verse]\n窗外的雨慢慢停下来\n有人说起远方的新生活\n如果有天我们再相见\n请你像现在一样笑着\n\n[Chorus]\n再举杯 敬这些年\n敬所有陪我走过的人\n无论明天去到哪里\n这一首歌永远为你唱\n\n[Outro]\n这首歌永远为你唱",
+      "rights": "公有领域曲谱 · 原创中文填词 · 本机 ACE-Step AI 翻唱",
+      "popularity": "经典旋律 · AI新编",
+      "category": "经典AI翻唱",
+      "style": "复古摇滚",
+      "vocalType": "男声",
+      "durationSeconds": 80.04,
+      "publishedAt": "2026-10-22T06:11:44Z"
+    },
     {
       "id": "ace-cover-ode-to-joy-20261022",
       "title": "欢乐颂 · 光在前方",
@@ -11689,6 +11710,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-cover-auld-lang-syne-20261022",
         "ace-cover-ode-to-joy-20261022",
         "ace-cover-greensleeves-20261022",
         "ace-2026-10-22-2",
@@ -11727,8 +11749,7 @@
         "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933",
         "angelware-d78ecc78-1afa-47dc-87de-c8b5f68552e8",
         "angelware-853d4572-24b6-45d6-b29a-abbbe71cb664",
-        "angelware-27248663-8365-4131-894f-0b92bf4ad1ff",
-        "angelware-b28fd5f1-02c6-428f-9555-5ac91c6f6de9"
+        "angelware-27248663-8365-4131-894f-0b92bf4ad1ff"
       ]
     },
     {
