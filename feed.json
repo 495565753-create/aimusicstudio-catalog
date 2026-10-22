@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:11:50Z",
+  "generatedAt": "2026-10-22T06:12:08Z",
   "songs": [
     {
       "id": "ace-cover-home-sweet-home-20261022",
@@ -10715,6 +10715,41 @@
   ],
   "albums": [
     {
+      "id": "album-classic-ai-covers",
+      "title": "经典旋律 · AI翻唱",
+      "subtitle": "4 首 · 公有领域经典旋律与原创中文歌词",
+      "kind": "album",
+      "artworkIndex": 5,
+      "songIDs": [
+        "ace-cover-greensleeves-20261022",
+        "ace-cover-ode-to-joy-20261022",
+        "ace-cover-auld-lang-syne-20261022",
+        "ace-cover-home-sweet-home-20261022"
+      ]
+    },
+    {
+      "id": "album-classic-ai-covers-female",
+      "title": "经典女声翻唱",
+      "subtitle": "绿袖子 · 甜蜜的家",
+      "kind": "album",
+      "artworkIndex": 1,
+      "songIDs": [
+        "ace-cover-greensleeves-20261022",
+        "ace-cover-home-sweet-home-20261022"
+      ]
+    },
+    {
+      "id": "album-classic-ai-covers-male",
+      "title": "经典男声翻唱",
+      "subtitle": "欢乐颂 · 友谊地久天长",
+      "kind": "album",
+      "artworkIndex": 4,
+      "songIDs": [
+        "ace-cover-ode-to-joy-20261022",
+        "ace-cover-auld-lang-syne-20261022"
+      ]
+    },
+    {
       "id": "album-female-originals",
       "title": "女声原创精选",
       "subtitle": "华语女声 · 本机 AI 原创",
@@ -11694,6 +11729,19 @@
     }
   ],
   "playlists": [
+    {
+      "id": "playlist-classic-ai-covers",
+      "title": "经典 AI 翻唱",
+      "subtitle": "4 首 · 全新中文填词",
+      "kind": "playlist",
+      "artworkIndex": 5,
+      "songIDs": [
+        "ace-cover-greensleeves-20261022",
+        "ace-cover-ode-to-joy-20261022",
+        "ace-cover-auld-lang-syne-20261022",
+        "ace-cover-home-sweet-home-20261022"
+      ]
+    },
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
