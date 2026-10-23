@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T06:33:21Z",
+  "generatedAt": "2026-10-23T00:06:12Z",
   "songs": [
+    {
+      "id": "ace-2026-10-23-1",
+      "title": "窗边的早晨 · 10-23",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-23/ace-2026-10-23-1.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-23/ace-2026-10-23-1.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-23/ace-2026-10-23-1.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-23/ace-2026-10-23-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-23/ace-2026-10-23-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n这座城市最近 天气变凉了\n你要记得 多穿一件衣服\n我不太会讲话 你是知道的\n但我说过的话 一定做到\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 我想跟你说\n这一辈子 我只想对你好\n你 你听我说完\n不管多远 我都会等着你\n\n[Verse 2]\n\n周末的早上 你不爱起床\n我买了早点 放在桌子上\n你眯着眼睛 问我几点了\n我说你快吃 凉了不好吃\n\n[Pre-Chorus]\n\n我不敢保证 天天开心\n但我保证 天天都在\n\n[Chorus]\n\n你 我想跟你说\n这一辈子 我只想对你好\n你 你听我说完\n不管多远 我都会等着你\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-23T00:06:12Z"
+    },
     {
       "id": "ace-cover-air-on-g-string-20261022",
       "title": "G弦上的咏叹调 · 慢慢想你",
@@ -10877,6 +10898,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-23-1",
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
@@ -11793,10 +11815,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "21 首 · 灵感音乐歌单",
+      "subtitle": "22 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-23-1",
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
@@ -11827,6 +11850,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-23-1",
         "ace-cover-air-on-g-string-20261022",
         "ace-cover-the-entertainer-20261022",
         "ace-cover-home-sweet-home-20261022",
@@ -11865,8 +11889,7 @@
         "angelware-f5b1bfbe-2b49-40e9-addc-c8eb3137ec18",
         "angelware-715f13d0-9804-46cb-b530-aa6debb993cb",
         "angelware-1111a5fd-87a5-46bd-8afe-8016b6be8c97",
-        "angelware-e9be26a2-91ed-48c4-bda7-a5e15059fd9c",
-        "angelware-9aaae517-a76d-4c15-ba29-5172a60d2933"
+        "angelware-e9be26a2-91ed-48c4-bda7-a5e15059fd9c"
       ]
     },
     {
