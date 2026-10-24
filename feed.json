@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T00:09:11Z",
+  "generatedAt": "2026-10-24T00:12:12Z",
   "songs": [
+    {
+      "id": "ace-2026-10-24-2",
+      "title": "把光留住 · 10-24",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-24/ace-2026-10-24-2.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-24/ace-2026-10-24-2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-24/ace-2026-10-24-2.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-24/ace-2026-10-24-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-24/ace-2026-10-24-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n第一次看见你 我就知道\n这个人 我要好好对待\n你笑起来 眼睛弯成月亮\n我紧张得 一句话都说不完整\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n我们也有吵过 也有闹过\n第二天你就 又来敲我的门\n我知道我们 都不是完美的人\n但我愿意 慢慢跟你磨\n\n[Pre-Chorus]\n\n我不敢保证 天天开心\n但我保证 天天都在\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-24T00:12:12Z"
+    },
     {
       "id": "ace-2026-10-24-1",
       "title": "晚风来信 · 10-24",
@@ -10940,6 +10961,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
@@ -11859,10 +11881,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "24 首 · 灵感音乐歌单",
+      "subtitle": "25 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
@@ -11896,6 +11919,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
@@ -11934,8 +11958,7 @@
         "angelware-e0bdd548-d0db-433f-af65-775c6226bc66",
         "angelware-0a8c7eb8-68f9-4f9e-842b-142cd683b10c",
         "angelware-c2c95463-dec2-46c4-97e3-1892093fd3aa",
-        "angelware-f5b1bfbe-2b49-40e9-addc-c8eb3137ec18",
-        "angelware-715f13d0-9804-46cb-b530-aa6debb993cb"
+        "angelware-f5b1bfbe-2b49-40e9-addc-c8eb3137ec18"
       ]
     },
     {

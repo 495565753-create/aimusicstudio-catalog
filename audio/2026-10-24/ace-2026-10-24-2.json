@@ -1,0 +1,12 @@
+{
+  "title": "把光留住 · 10-24",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-24T00:12:12Z",
+  "sha256": "ee31d9868cb543b7627cff7eba8dfacf07eda2b44f93cbcefee72f94ce494403",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
