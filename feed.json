@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T00:09:03Z",
+  "generatedAt": "2026-10-24T00:09:11Z",
   "songs": [
+    {
+      "id": "ace-2026-10-24-1",
+      "title": "晚风来信 · 10-24",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-24/ace-2026-10-24-1.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-24/ace-2026-10-24-1.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-24/ace-2026-10-24-1.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-24/ace-2026-10-24-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-24/ace-2026-10-24-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n电话响了 我以为是你\n接起来 只是别人打错\n你说要走的那一天\n我还以为 你只是生气\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Verse 2]\n\n房间的东西 你都没带走\n只有那张照片 留在桌上\n我每天回家 都看它一眼\n好像你还在 这个家里面\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Outro]\n\n（我还是想着你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-24T00:09:11Z"
+    },
     {
       "id": "ace-2026-10-23-2",
       "title": "海边的灯 · 10-23",
@@ -10919,6 +10940,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
         "ace-2026-10-22-2",
@@ -11837,10 +11859,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "23 首 · 灵感音乐歌单",
+      "subtitle": "24 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
         "ace-2026-10-22-2",
@@ -11873,6 +11896,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-24-1",
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
         "ace-cover-air-on-g-string-20261022",
@@ -11911,8 +11935,7 @@
         "angelware-0a8c7eb8-68f9-4f9e-842b-142cd683b10c",
         "angelware-c2c95463-dec2-46c4-97e3-1892093fd3aa",
         "angelware-f5b1bfbe-2b49-40e9-addc-c8eb3137ec18",
-        "angelware-715f13d0-9804-46cb-b530-aa6debb993cb",
-        "angelware-1111a5fd-87a5-46bd-8afe-8016b6be8c97"
+        "angelware-715f13d0-9804-46cb-b530-aa6debb993cb"
       ]
     },
     {
