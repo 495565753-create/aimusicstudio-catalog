@@ -1,0 +1,12 @@
+{
+  "title": "走向远方 · 10-25",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-25T00:00:43Z",
+  "sha256": "5ec8e7c6edb65a5e6626676800ec8d3b360a037e17fbd6c77a769cad710340e7",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

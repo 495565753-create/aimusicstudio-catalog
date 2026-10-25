@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T00:12:12Z",
+  "generatedAt": "2026-10-25T00:00:43Z",
   "songs": [
+    {
+      "id": "ace-2026-10-25-1",
+      "title": "走向远方 · 10-25",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-25/ace-2026-10-25-1.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-25/ace-2026-10-25-1.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-25/ace-2026-10-25-1.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-25/ace-2026-10-25-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-25/ace-2026-10-25-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n我在这座城市 遇见你\n那天的回家的路 特别好看\n你回头看了我一眼\n从那天起 我就记住了你\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Verse 2]\n\n周末的早上 你不爱起床\n我买了早点 放在桌子上\n你眯着眼睛 问我几点了\n我说你快吃 凉了不好吃\n\n[Pre-Chorus]\n\n我不敢保证 天天开心\n但我保证 天天都在\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "摇滚",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-25T00:00:43Z"
+    },
     {
       "id": "ace-2026-10-24-2",
       "title": "把光留住 · 10-24",
@@ -10961,6 +10982,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-25-1",
         "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
@@ -11881,10 +11903,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "25 首 · 灵感音乐歌单",
+      "subtitle": "26 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-25-1",
         "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
@@ -11919,6 +11942,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-25-1",
         "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
@@ -11957,8 +11981,7 @@
         "angelware-46a8300a-eb42-4b30-85db-891db9246810",
         "angelware-e0bdd548-d0db-433f-af65-775c6226bc66",
         "angelware-0a8c7eb8-68f9-4f9e-842b-142cd683b10c",
-        "angelware-c2c95463-dec2-46c4-97e3-1892093fd3aa",
-        "angelware-f5b1bfbe-2b49-40e9-addc-c8eb3137ec18"
+        "angelware-c2c95463-dec2-46c4-97e3-1892093fd3aa"
       ]
     },
     {
