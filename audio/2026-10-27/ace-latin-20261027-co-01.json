@@ -1,0 +1,12 @@
+{
+  "title": "Río de Colores",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:44:50Z",
+  "sha256": "16107c37d23297e8f59ea0a4a2bf31374165557d23adc3b1aba789ad4c60cc09",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
