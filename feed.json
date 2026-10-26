@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T16:44:50Z",
+  "generatedAt": "2026-10-26T16:47:12Z",
   "songs": [
+    {
+      "id": "ace-latin-20261027-co-02",
+      "title": "Acordeón de Abril",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-co-02.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-co-02.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-latin-20261027-co-02.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-co-02.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-co-02.json",
+      "lyrics": "[Verse 1]\nEn abril llegó tu carta con olor a café\nLa abrí bajo la lluvia cuando nadie me ve\nDecía que en la costa ya salió el sol\nQue tienes en la puerta un lugar para los dos\n\n[Chorus]\nAcordeón de abril, cuéntale al camino\nQue guardé su risa dentro de mi voz\nCada nota va marcando mi destino\nY al final del viaje cantaré esta canción\n\n[Verse 2]\nEl tren cruzó los campos hasta el atardecer\nCon cada pueblo nuevo tenía algo que aprender\nUn hombre me prestó su vieja melodía\nY la hice compañía durante todo el día\n\n[Chorus]\nAcordeón de abril, cuéntale al camino\nQue guardé su risa dentro de mi voz\nCada nota va marcando mi destino\nY al final del viaje cantaré esta canción\n\n[Outro]\nAcordeón de abril, cuéntale al camino",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "巴耶纳托",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-26T16:47:12Z"
+    },
     {
       "id": "ace-latin-20261027-co-01",
       "title": "Río de Colores",
@@ -10948,11 +10969,12 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "1 首 · 本机 AI 原创",
+      "subtitle": "2 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
-        "ace-latin-20261027-co-01"
+        "ace-latin-20261027-co-01",
+        "ace-latin-20261027-co-02"
       ]
     },
     {
@@ -12042,6 +12064,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261027-co-02",
         "ace-latin-20261027-co-01",
         "ace-2026-10-26-2",
         "ace-2026-10-26-1",
@@ -12080,8 +12103,7 @@
         "angelware-d052c8e1-c9b0-4093-9a56-7c25739f9f31",
         "angelware-1888ecde-1f34-4a59-b616-f128434e70c2",
         "angelware-25374808-8599-4fa3-bdbb-e5e5a2b4f1e3",
-        "angelware-e4c26429-038f-40a9-b4e5-c0987573c5e9",
-        "angelware-0887c835-2df2-45bc-b992-c85f1ebdb1ec"
+        "angelware-e4c26429-038f-40a9-b4e5-c0987573c5e9"
       ]
     },
     {

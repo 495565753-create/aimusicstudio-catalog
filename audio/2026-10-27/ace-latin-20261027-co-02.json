@@ -1,0 +1,12 @@
+{
+  "title": "Acordeón de Abril",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:47:12Z",
+  "sha256": "f71f3c464d500b4561558e78160382e2cd0f492b7ead9792281b7b60b0f38bb4",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
