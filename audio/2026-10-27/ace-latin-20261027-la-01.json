@@ -1,0 +1,12 @@
+{
+  "title": "La Vida Nos Llama",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:55:59Z",
+  "sha256": "41744f084814151eeba594c331b4bcabc55d28ca346e1bdb68b79ba34b9d2e83",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
