@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T17:03:35Z",
+  "generatedAt": "2026-10-26T17:05:39Z",
   "songs": [
+    {
+      "id": "ace-latin-20261027-la-05",
+      "title": "A Mi Ritmo",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-la-05.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-la-05.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-latin-20261027-la-05.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-la-05.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-la-05.json",
+      "lyrics": "[Verse 1]\nSalgo con mis sueños bajo la chaqueta\nLa ciudad se mueve, cambia de silueta\nNadie marca el paso que debo tomar\nTengo mi camino y lo voy a intentar\n\n[Chorus]\nVoy a mi ritmo, sin mirar atrás\nLa noche es grande y me deja brillar\nVoy a mi ritmo, siento la señal\nCada nuevo latido me lleva más allá\n\n[Verse 2]\nMis amigos me esperan al cruzar la avenida\nCompartimos historias de otra nueva vida\nSube la música, ya puedo sentir\nQue todo lo que viene lo podemos construir\n\n[Chorus]\nVoy a mi ritmo, sin mirar atrás\nLa noche es grande y me deja brillar\nVoy a mi ritmo, siento la señal\nCada nuevo latido me lleva más allá\n\n[Outro]\nVoy a mi ritmo, sin mirar atrás",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁都市流行",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-26T17:05:39Z"
+    },
     {
       "id": "ace-latin-20261027-la-04",
       "title": "Dos Corazones",
@@ -11116,14 +11137,15 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "4 首 · 本机 AI 原创",
+      "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
         "ace-latin-20261027-la-01",
         "ace-latin-20261027-la-02",
         "ace-latin-20261027-la-03",
-        "ace-latin-20261027-la-04"
+        "ace-latin-20261027-la-04",
+        "ace-latin-20261027-la-05"
       ]
     },
     {
@@ -12227,6 +12249,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261027-la-05",
         "ace-latin-20261027-la-04",
         "ace-latin-20261027-la-03",
         "ace-latin-20261027-la-02",
@@ -12265,8 +12288,7 @@
         "ace-custom-6b325d9e276c",
         "ace-custom-bf53b1194c5d",
         "ace-custom-bcf22437026b",
-        "ace-custom-36635f5d6f04",
-        "ace-custom-250a92515d0b"
+        "ace-custom-36635f5d6f04"
       ]
     },
     {
