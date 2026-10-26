@@ -1,0 +1,12 @@
+{
+  "title": "Noche de Papel",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:58:32Z",
+  "sha256": "731f0ee28dd0c95040512b5f9c64b921a85d3abaf059ea6d905b45e256f21739",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
