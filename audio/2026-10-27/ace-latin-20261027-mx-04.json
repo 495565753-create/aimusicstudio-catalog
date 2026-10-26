@@ -1,0 +1,12 @@
+{
+  "title": "Carta de la Luna",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T17:15:49Z",
+  "sha256": "e53773d2cb22af074ffe691f06d1d6218a2c5e151ba7905170c72b288fe3aea9",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
