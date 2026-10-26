@@ -1,0 +1,12 @@
+{
+  "title": "Polvo y Estrellas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T17:10:53Z",
+  "sha256": "bda231accf8df90bbfafbffc45a72d00a84e8277d651a83b1945148ecdc4bc33",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
