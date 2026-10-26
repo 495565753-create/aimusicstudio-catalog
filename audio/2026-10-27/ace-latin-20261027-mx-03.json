@@ -1,0 +1,12 @@
+{
+  "title": "Fiesta en Veracruz",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T17:13:20Z",
+  "sha256": "af0f0e520c9b9ddfdac89d36236145037c492751f789764ffb2df1982b0e13b8",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
