@@ -1,0 +1,12 @@
+{
+  "title": "Camino de Montaña",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:53:33Z",
+  "sha256": "186c595a26da40bfa80e4e1c9b432c6945d26f731b675bfbe63cf0ee363bb94d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
