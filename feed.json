@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T17:15:49Z",
+  "generatedAt": "2026-10-26T17:18:13Z",
   "songs": [
+    {
+      "id": "ace-latin-20261027-mx-05",
+      "title": "Luces de la Plaza",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-mx-05.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-latin-20261027-mx-05.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-latin-20261027-mx-05.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-mx-05.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-latin-20261027-mx-05.json",
+      "lyrics": "[Verse 1]\nPrenden las luces frente a la estación\nEl barrio va marcando nuestro corazón\nTraes una sonrisa, traigo un tambor\nLa plaza nos invita a cambiar de color\n\n[Chorus]\nBaila conmigo, gira sin mirar\nLa noche tiene espacio para comenzar\nSigue la cumbia, déjala sonar\nQue en cada vuelta volvemos a brillar\n\n[Verse 2]\nLa tía desde el puesto nos quiere saludar\nLos niños con sus pasos nos enseñan a bailar\nNo hace falta mucho para ser feliz\nUna calle, dos amigos y este ritmo sin fin\n\n[Chorus]\nBaila conmigo, gira sin mirar\nLa noche tiene espacio para comenzar\nSigue la cumbia, déjala sonar\nQue en cada vuelta volvemos a brillar\n\n[Outro]\nBaila conmigo, gira sin mirar",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥昆比亚",
+      "vocalType": "男女对唱",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-26T17:18:13Z"
+    },
     {
       "id": "ace-latin-20261027-mx-04",
       "title": "Carta de la Luna",
@@ -11221,14 +11242,15 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "4 首 · 本机 AI 原创",
+      "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
         "ace-latin-20261027-mx-01",
         "ace-latin-20261027-mx-02",
         "ace-latin-20261027-mx-03",
-        "ace-latin-20261027-mx-04"
+        "ace-latin-20261027-mx-04",
+        "ace-latin-20261027-mx-05"
       ]
     },
     {
@@ -12346,6 +12368,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261027-mx-05",
         "ace-latin-20261027-mx-04",
         "ace-latin-20261027-mx-03",
         "ace-latin-20261027-mx-02",
@@ -12384,8 +12407,7 @@
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
-        "ace-2026-10-20-2",
-        "ace-2026-10-20-1"
+        "ace-2026-10-20-2"
       ]
     },
     {
