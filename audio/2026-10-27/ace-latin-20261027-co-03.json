@@ -1,0 +1,12 @@
+{
+  "title": "Brisa de Cartagena",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:49:20Z",
+  "sha256": "44524171d902ceac7fc12c64ab3f0ced5a02cbcbdccccbd90bc76e3c9071968d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
