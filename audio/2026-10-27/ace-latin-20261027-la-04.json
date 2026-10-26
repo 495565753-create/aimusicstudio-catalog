@@ -1,0 +1,12 @@
+{
+  "title": "Dos Corazones",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T17:03:35Z",
+  "sha256": "b7bf86e91d481ea95194347ebfe3ddf17b4734e9f07d074c81eb57d7fa652f62",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
