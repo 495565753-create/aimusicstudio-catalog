@@ -1,0 +1,12 @@
+{
+  "title": "Cali en la Madrugada",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T16:51:28Z",
+  "sha256": "013fdd11bd50885a72982859342e1f0c52f4055ea1d8e796ffeb9183ef61d021",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
