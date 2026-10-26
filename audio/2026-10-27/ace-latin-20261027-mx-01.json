@@ -1,0 +1,12 @@
+{
+  "title": "Camino de Jacarandas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-26T17:08:00Z",
+  "sha256": "40d05dae4949109fa79696109a508f08a2bb355ae440465a6b4ab18901da839c",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
