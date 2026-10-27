@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T08:14:19Z",
+  "generatedAt": "2026-10-27T08:18:33Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-zh04",
+      "title": "不必把时间修好",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh04.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh04.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-zh04.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/7470d654b7dcbf888022.jpg?v=fabcbf9f02",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh04.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh04.json",
+      "lyrics": "[Verse 1]\n爷爷修表总开半扇窗\n把秒针放在白纸中央\n我小时候嫌它走得太慢\n他笑说慢才听得见响\n\n[Pre-Chorus]\n他走后抽屉留着一只表\n表盘裂了细细一道\n\n[Chorus]\n不必把时间修好\n有些刻痕该留着\n我把发条轻轻上紧\n听见他说别急着走\n\n[Verse 2]\n我替邻居换好旧电池\n收下她带来的两颗橘子\n才明白那张小小工作台\n修的不只是坏掉的指针\n\n[Bridge]\n黄昏从那半扇窗进来\n我终于坐稳一个下午\n\n[Chorus]\n不必把时间修好\n有些刻痕该留着\n我把发条轻轻上紧\n听见他说别急着走",
+      "rights": "原创中文歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "民谣",
+      "style": "克制中慢板民谣",
+      "vocalType": "男声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T08:18:33Z",
+      "artworkCredit": "Nenad Stojkovic · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Eko_Rio_Bravo_12_-_vintage_acoustic_guitar_in_living_room._(2021-08-29_11.30.17_by_Nenad_Stojkovic).jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-stories-20261027-zh03",
       "title": "末班车还开着",
@@ -12962,13 +12986,14 @@
     {
       "id": "album-stories-zh-20261027",
       "title": "人间侧面 · 中文原创",
-      "subtitle": "3 首 · 本机 AI 原创",
+      "subtitle": "4 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 4,
       "songIDs": [
         "ace-stories-20261027-zh01",
         "ace-stories-20261027-zh02",
-        "ace-stories-20261027-zh03"
+        "ace-stories-20261027-zh03",
+        "ace-stories-20261027-zh04"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/50077bffce8b959df0e4.jpg?v=24e3b70eda",
       "artworkCredit": "unknown · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
@@ -13199,6 +13224,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
@@ -14296,10 +14322,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "35 首 · 灵感音乐歌单",
+      "subtitle": "36 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
@@ -14347,6 +14374,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
@@ -14385,8 +14413,7 @@
         "ace-cover-the-entertainer-20261022",
         "ace-cover-home-sweet-home-20261022",
         "ace-cover-auld-lang-syne-20261022",
-        "ace-cover-ode-to-joy-20261022",
-        "ace-cover-greensleeves-20261022"
+        "ace-cover-ode-to-joy-20261022"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

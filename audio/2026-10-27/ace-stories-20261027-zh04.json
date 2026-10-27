@@ -1,0 +1,12 @@
+{
+  "title": "不必把时间修好",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T08:18:33Z",
+  "sha256": "24689aad009708c12d887b37eb37cd4c23179791844c12d8e25dde573783f40e",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
