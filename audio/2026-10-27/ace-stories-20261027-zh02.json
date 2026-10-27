@@ -1,0 +1,12 @@
+{
+  "title": "地图空着一角",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T08:10:10Z",
+  "sha256": "f163dcb824b33f28099229e703557c33c568c37eb86f0ffe48fc944bb54be54a",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

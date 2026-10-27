@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T08:06:17Z",
+  "generatedAt": "2026-10-27T08:10:10Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-zh02",
+      "title": "地图空着一角",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh02.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh02.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-zh02.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/a10d24fc2277b5fc2849.jpg?v=c7e600a574",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh02.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh02.json",
+      "lyrics": "[Verse 1]\n父亲铺开褪色的地图\n海岸上有铅笔画的圈\n那年工资只够交学费\n他把车票塞回抽屉\n\n[Pre-Chorus]\n如今他说腿不听使唤\n我说可以慢一点\n\n[Chorus]\n地图还空着一角\n我们就从今天出发\n不是为了补回年轻\n是想看看海真的多大\n\n[Verse 2]\n我推着他经过旧码头\n他指着船猜它来自哪儿\n终于说那年并非不想走\n是怕我醒来找不到家\n\n[Bridge]\n回程我替他收起地图\n留着那个圈不擦\n\n[Chorus]\n地图还空着一角\n我们就从今天出发\n不是为了补回年轻\n是想看看海真的多大",
+      "rights": "原创中文歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "经典摇滚",
+      "style": "叙事摇滚",
+      "vocalType": "女声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T08:10:10Z",
+      "artworkCredit": "Shixart1985 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Live_rock_concert_performance_featuring_musicians_playing_guitar_on_stage_at_night_with_vibrant_lighting_effects.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-stories-20261027-zh01",
       "title": "不把昨天领回家",
@@ -12914,11 +12938,12 @@
     {
       "id": "album-stories-zh-20261027",
       "title": "人间侧面 · 中文原创",
-      "subtitle": "1 首 · 本机 AI 原创",
+      "subtitle": "2 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 4,
       "songIDs": [
-        "ace-stories-20261027-zh01"
+        "ace-stories-20261027-zh01",
+        "ace-stories-20261027-zh02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/50077bffce8b959df0e4.jpg?v=24e3b70eda",
       "artworkCredit": "unknown · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
@@ -13149,6 +13174,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
         "ace-2026-10-27-2",
         "ace-2026-10-27-1",
@@ -14244,10 +14270,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "33 首 · 灵感音乐歌单",
+      "subtitle": "34 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
         "ace-2026-10-27-2",
         "ace-2026-10-27-1",
@@ -14293,6 +14320,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
         "ace-stories-20261027-es05",
         "ace-stories-20261027-es04",
@@ -14331,8 +14359,7 @@
         "ace-cover-auld-lang-syne-20261022",
         "ace-cover-ode-to-joy-20261022",
         "ace-cover-greensleeves-20261022",
-        "ace-2026-10-22-2",
-        "ace-2026-10-22-1"
+        "ace-2026-10-22-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
