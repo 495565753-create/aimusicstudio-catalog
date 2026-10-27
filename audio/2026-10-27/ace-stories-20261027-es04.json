@@ -1,0 +1,12 @@
+{
+  "title": "La cuerda y el mar",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T07:58:49Z",
+  "sha256": "a076664f1f0a0b47fb682562d5821ca6fb07259c5be2f09296227b78880269fb",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

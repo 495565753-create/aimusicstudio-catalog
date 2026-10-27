@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T07:54:38Z",
+  "generatedAt": "2026-10-27T07:58:49Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-es04",
+      "title": "La cuerda y el mar",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es04.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es04.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-es04.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/06fa8733613e4b998007.jpg?v=8315c9d8b1",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es04.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es04.json",
+      "lyrics": "[Verse 1]\nAtamos la barca al mismo muelle\ndurante inviernos de temporal\nyo sabía dónde iba cada nudo\ntú ya mirabas otro lugar\n\n[Pre-Chorus]\nNo fue una pelea ni un portazo\nfue aprender a decir la verdad\n\n[Chorus]\nSuelto la cuerda de la barca\nsin negar que hubo un mar\nno te pido que regreses\nsólo que sepas navegar\n\n[Verse 2]\nViniste a buscar tus viejos libros\ny el vaso azul que yo guardé\nhablamos del perro de la vecina\nsin prometer volver a ayer\n\n[Bridge]\nCuando bajó por fin la marea\nsentí mis manos descansar\n\n[Chorus]\nSuelto la cuerda de la barca\nsin negar que hubo un mar\nno te pido que regreses\nsólo que sepas navegar",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "克制拉丁波莱罗",
+      "vocalType": "男声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T07:58:49Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-stories-20261027-es03",
       "title": "No vendimos la tarde",
@@ -12843,13 +12867,14 @@
     {
       "id": "album-stories-es-20261027",
       "title": "Historias en Español · 西语故事",
-      "subtitle": "3 首 · 本机 AI 原创",
+      "subtitle": "4 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 7,
       "songIDs": [
         "ace-stories-20261027-es01",
         "ace-stories-20261027-es02",
-        "ace-stories-20261027-es03"
+        "ace-stories-20261027-es03",
+        "ace-stories-20261027-es04"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=37de54cf01",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -14205,6 +14230,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-es04",
         "ace-stories-20261027-es03",
         "ace-stories-20261027-es02",
         "ace-stories-20261027-es01",
@@ -14243,8 +14269,7 @@
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
         "ace-custom-b53682e6ba9f",
-        "ace-2026-10-21-2",
-        "ace-2026-10-21-1"
+        "ace-2026-10-21-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
