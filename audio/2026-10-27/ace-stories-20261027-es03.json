@@ -1,0 +1,12 @@
+{
+  "title": "No vendimos la tarde",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T07:54:38Z",
+  "sha256": "1f1eb68b6c59d562917dbda09d5220ba4f70cc0cec12d832a6528256e6794815",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
