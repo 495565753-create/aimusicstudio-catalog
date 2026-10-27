@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T00:19:51Z",
+  "generatedAt": "2026-10-27T00:25:03Z",
   "songs": [
+    {
+      "id": "ace-2026-10-27-2",
+      "title": "窗边的早晨 · 10-27",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-2026-10-27-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-2026-10-27-2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-2026-10-27-2.mp3"
+      ],
+      "artworkURL": null,
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-2026-10-27-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-2026-10-27-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n我在这座城市 遇见你\n那天的桌上的照片 特别好看\n你回头看了我一眼\n从那天起 我就记住了你\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n我们也有吵过 也有闹过\n第二天你就 又来敲我的门\n我知道我们 都不是完美的人\n但我愿意 慢慢跟你磨\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-27T00:25:03Z"
+    },
     {
       "id": "ace-2026-10-27-1",
       "title": "海边的灯 · 10-27",
@@ -11444,6 +11465,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-27-2",
         "ace-2026-10-27-1",
         "ace-custom-3180a9070c0e",
         "ace-2026-10-26-2",
@@ -12370,10 +12392,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "31 首 · 灵感音乐歌单",
+      "subtitle": "32 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-27-2",
         "ace-2026-10-27-1",
         "ace-custom-3180a9070c0e",
         "ace-2026-10-26-2",
@@ -12414,6 +12437,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-27-2",
         "ace-2026-10-27-1",
         "ace-custom-3180a9070c0e",
         "ace-latin-20261027-mx-05",
@@ -12452,8 +12476,7 @@
         "ace-2026-10-21-1",
         "ace-custom-73bc1ea99664",
         "ace-custom-1b7956e3dc39",
-        "ace-custom-b2ba25c2c5e2",
-        "ace-custom-ac6d9739572c"
+        "ace-custom-b2ba25c2c5e2"
       ]
     },
     {

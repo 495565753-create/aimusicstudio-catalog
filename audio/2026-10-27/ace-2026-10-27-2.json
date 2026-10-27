@@ -1,0 +1,12 @@
+{
+  "title": "窗边的早晨 · 10-27",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T00:25:03Z",
+  "sha256": "228887aa24bbfd99cb50dda2d17115b398f53d951a506230ff084e011185420a",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
