@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T07:58:49Z",
+  "generatedAt": "2026-10-27T08:02:31Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-es05",
+      "title": "Los jueves de Clara",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es05.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es05.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-es05.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/fc66ce41be61d7f8090a.jpg?v=a6829dbe94",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es05.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es05.json",
+      "lyrics": "[Verse 1]\nClara guardó los zapatos rojos\ntres inviernos tras perder a Luis\nlos jueves pasaba por la escuela\nsin animarse nunca a entrar\n\n[Pre-Chorus]\nUn día oyó desde la acera\nun son que él sabía silbar\n\n[Chorus]\nClara baila los jueves\nsin pedirle permiso al dolor\nno deja atrás lo que amaba\nle hace sitio a otra canción\n\n[Verse 2]\nLa primera vuelta fue pequeña\ntuvo que parar para respirar\nuna mujer le ofreció la mano\ny ella aceptó sin explicar\n\n[Bridge]\nEn casa dejó los zapatos fuera\nlistos para volverlos a usar\n\n[Chorus]\nClara baila los jueves\nsin pedirle permiso al dolor\nno deja atrás lo que amaba\nle hace sitio a otra canción",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "温暖拉丁流行",
+      "vocalType": "女声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T08:02:31Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-stories-20261027-es04",
       "title": "La cuerda y el mar",
@@ -12867,14 +12891,15 @@
     {
       "id": "album-stories-es-20261027",
       "title": "Historias en Español · 西语故事",
-      "subtitle": "4 首 · 本机 AI 原创",
+      "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 7,
       "songIDs": [
         "ace-stories-20261027-es01",
         "ace-stories-20261027-es02",
         "ace-stories-20261027-es03",
-        "ace-stories-20261027-es04"
+        "ace-stories-20261027-es04",
+        "ace-stories-20261027-es05"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=37de54cf01",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -14230,6 +14255,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-es05",
         "ace-stories-20261027-es04",
         "ace-stories-20261027-es03",
         "ace-stories-20261027-es02",
@@ -14268,8 +14294,7 @@
         "ace-cover-greensleeves-20261022",
         "ace-2026-10-22-2",
         "ace-2026-10-22-1",
-        "ace-custom-b53682e6ba9f",
-        "ace-2026-10-21-2"
+        "ace-custom-b53682e6ba9f"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

@@ -1,0 +1,12 @@
+{
+  "title": "Los jueves de Clara",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T08:02:31Z",
+  "sha256": "9145afb7a86c0431565d74655fd808dd27852bc1870e3d00916d09b6b4d8f151",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
