@@ -1,0 +1,12 @@
+{
+  "title": "La silla de la esquina",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T07:45:42Z",
+  "sha256": "983579c2d8f8f70488c755894ab62afcae5a9f40344babe1d7c26a820aacfbcb",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

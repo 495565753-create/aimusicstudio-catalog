@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T06:03:37Z",
+  "generatedAt": "2026-10-27T07:45:42Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-es01",
+      "title": "La silla de la esquina",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es01.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-es01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/26cbf26d962a474d7012.jpg?v=1f10fc83ab",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es01.json",
+      "lyrics": "[Verse 1]\nMi madre pone un plato de más\ndesde que mi hermano cruzó el mar\nla foto sigue junto al mantel\ny nadie pregunta cuándo vendrá\n\n[Pre-Chorus]\nHoy llama tarde desde otro huso\nse oye un tren detrás de su voz\n\n[Chorus]\nLa silla de la esquina\nno es un sitio para esperar\nsi alguien llega con frío\nsiempre habrá dónde cenar\n\n[Verse 2]\nUna vecina perdió su trabajo\ntrajo pan duro para compartir\nmi madre abrió sin dar un discurso\ny el plato encontró a quién servir\n\n[Bridge]\nMi hermano ríe al otro lado\n«Guarden un poco para mí»\n\n[Chorus]\nLa silla de la esquina\nno es un sitio para esperar\nsi alguien llega con frío\nsiempre habrá dónde cenar",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚昆比亚",
+      "vocalType": "女声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T07:45:42Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-10-27-2",
       "title": "窗边的早晨 · 10-27",
@@ -12769,6 +12793,20 @@
   ],
   "albums": [
     {
+      "id": "album-stories-es-20261027",
+      "title": "Historias en Español · 西语故事",
+      "subtitle": "1 首 · 本机 AI 原创",
+      "kind": "album",
+      "artworkIndex": 7,
+      "songIDs": [
+        "ace-stories-20261027-es01"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=37de54cf01",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
       "subtitle": "5 首 · 本机 AI 原创",
@@ -14117,6 +14155,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-es01",
         "ace-2026-10-27-2",
         "ace-2026-10-27-1",
         "ace-custom-3180a9070c0e",
@@ -14155,8 +14194,7 @@
         "ace-2026-10-21-2",
         "ace-2026-10-21-1",
         "ace-custom-73bc1ea99664",
-        "ace-custom-1b7956e3dc39",
-        "ace-custom-b2ba25c2c5e2"
+        "ace-custom-1b7956e3dc39"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
