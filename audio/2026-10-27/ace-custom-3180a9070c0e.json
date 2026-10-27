@@ -1,0 +1,12 @@
+{
+  "title": "我想你",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T00:04:51Z",
+  "sha256": "ab3e07b866eb62b48bc834abbee331b4b14b84d5070c3aa24d614911d6f97295",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
