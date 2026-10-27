@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:46:17Z",
+  "generatedAt": "2026-10-27T11:46:22Z",
   "songs": [
+    {
+      "id": "ace-rework-20261027-zh05",
+      "title": "第二排的掌声 · 重谱",
+      "artist": "灵感音乐 · 重谱试听",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/f5914827e40daa06d69d.jpg?v=a2c46b7e06",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "lyrics": "[Verse 1]\n你的第一场在雨天开唱\n椅子比听众多了几张\n你在第二句忘掉那个词\n我拍错了拍，却拍得响\n\n[Pre-Chorus]\n别人听的是歌声\n我听见你终于肯开口\n\n[Chorus]\n第二排的掌声不大\n刚好越过一排空椅\n唱吧，不用句句都漂亮\n我会把整首听到底\n\n[Verse 2]\n半年后换我站到灯下\n手里那页稿捏出折角\n你从第二排抬起头\n等我把开头那句念好\n\n[Bridge]\n你先鼓掌，我才笑出来\n轮到我把话讲完\n\n[Final Chorus]\n第二排的掌声不大\n刚好越过一排空椅\n今天我也把话说完了\n你把停顿都听到底",
+      "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
+      "popularity": "新词新曲 · 试听",
+      "category": "重谱试听",
+      "style": "华语流行",
+      "vocalType": "女声",
+      "durationSeconds": 98.32,
+      "publishedAt": "2026-10-27T11:46:22Z",
+      "artworkCredit": "Franz van Duns · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-rework-20261027-zh04",
       "title": "不必把时间修好 · 重谱",
@@ -13106,14 +13130,15 @@
     {
       "id": "album-chinese-rework-20261027",
       "title": "中文重谱试听",
-      "subtitle": "4 首 · 本机 AI 原创",
+      "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 4,
       "songIDs": [
         "ace-rework-20261027-zh01",
         "ace-rework-20261027-zh02",
         "ace-rework-20261027-zh03",
-        "ace-rework-20261027-zh04"
+        "ace-rework-20261027-zh04",
+        "ace-rework-20261027-zh05"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/d7e2aaa26e9650639de5.jpg?v=e8f9358154",
       "artworkCredit": "Franz van Duns · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",

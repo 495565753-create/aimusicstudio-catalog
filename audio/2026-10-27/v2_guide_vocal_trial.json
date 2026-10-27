@@ -1,9 +1,9 @@
 {
-  "title": "不必把时间修好 · 重谱",
+  "title": "第二排的掌声 · 重谱",
   "model": "ACE-Step 1.5 / acestep-v15-turbo",
   "generator": "本机音乐工坊",
-  "generatedAt": "2026-10-27T11:46:17Z",
-  "sha256": "a723da3ff2c059d51abfb8a8200b61cd8cb48967c4d3b66e345d5ba23c03fac5",
+  "generatedAt": "2026-10-27T11:46:22Z",
+  "sha256": "7f61cec5bdf45af9ba37568e2d2f764ca5f2a7d239c5382658a9658d4976bdd7",
   "taskType": "cover",
   "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
   "sourceScoreURL": null,
