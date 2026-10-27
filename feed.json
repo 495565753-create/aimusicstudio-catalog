@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T08:22:07Z",
+  "generatedAt": "2026-10-27T08:25:35Z",
   "songs": [
     {
       "id": "ace-stories-20261027-zh05",
@@ -13026,7 +13026,7 @@
     },
     {
       "id": "album-stories-es-20261027",
-      "title": "Historias en Español · 西语故事",
+      "title": "西语故事",
       "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 7,
@@ -13037,7 +13037,7 @@
         "ace-stories-20261027-es04",
         "ace-stories-20261027-es05"
       ],
-      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=37de54cf01",
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=40cb35d5d4",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
       "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
       "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
