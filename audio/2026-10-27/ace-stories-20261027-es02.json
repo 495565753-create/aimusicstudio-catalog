@@ -1,0 +1,12 @@
+{
+  "title": "La llave del taller",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T07:50:37Z",
+  "sha256": "d4b26bb642238beb3cc2c615fdc73716312203bbd12ea5f56aca3c683b654559",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

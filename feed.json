@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T07:45:42Z",
+  "generatedAt": "2026-10-27T07:50:37Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-es02",
+      "title": "La llave del taller",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es02.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-es02.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-es02.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/3ec53350560e1919f57f.jpg?v=8ec7598abb",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es02.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-es02.json",
+      "lyrics": "[Verse 1]\nMi padre remendaba zapatos\ncon una radio vieja al fondo\nyo decía: «Cierra ya la tienda»\nél: «Aún queda alguien de camino»\n\n[Pre-Chorus]\nDespués de su entierro conté\nlas llaves sobre el mostrador\n\n[Chorus]\nNo cierro el taller, cambio la llave\nque otro también pueda aprender\nlo que mi padre puso en mis manos\nse hace más grande al compartir\n\n[Verse 2]\nLlegó una niña con su mochila\nla cremallera rota al salir\nle enseñé a pasar bien el hilo\ny vi sus dedos decidir\n\n[Bridge]\nAl bajar la persiana aquella noche\nla radio volvió a sonar\n\n[Chorus]\nNo cierro el taller, cambio la llave\nque otro también pueda aprender\nlo que mi padre puso en mis manos\nse hace más grande al compartir",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥民谣",
+      "vocalType": "女声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T07:50:37Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-stories-20261027-es01",
       "title": "La silla de la esquina",
@@ -12795,11 +12819,12 @@
     {
       "id": "album-stories-es-20261027",
       "title": "Historias en Español · 西语故事",
-      "subtitle": "1 首 · 本机 AI 原创",
+      "subtitle": "2 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 7,
       "songIDs": [
-        "ace-stories-20261027-es01"
+        "ace-stories-20261027-es01",
+        "ace-stories-20261027-es02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/76693c7489cbafa9d794.jpg?v=37de54cf01",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -14155,6 +14180,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-es02",
         "ace-stories-20261027-es01",
         "ace-2026-10-27-2",
         "ace-2026-10-27-1",
@@ -14193,8 +14219,7 @@
         "ace-custom-b53682e6ba9f",
         "ace-2026-10-21-2",
         "ace-2026-10-21-1",
-        "ace-custom-73bc1ea99664",
-        "ace-custom-1b7956e3dc39"
+        "ace-custom-73bc1ea99664"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
