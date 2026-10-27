@@ -1,9 +1,9 @@
 {
-  "title": "不把昨天领回家 · 重谱",
+  "title": "地图空着一角 · 重谱",
   "model": "ACE-Step 1.5 / acestep-v15-turbo",
   "generator": "本机音乐工坊",
-  "generatedAt": "2026-10-27T11:46:01Z",
-  "sha256": "00b2a0181eae2d077d4e21889cc91335a19b478eabec2e1e496491afcf05467c",
+  "generatedAt": "2026-10-27T11:46:06Z",
+  "sha256": "eb5bac7cf9263dba8000292cb4708b2885dd62e5065d0123139cd94a6c963824",
   "taskType": "cover",
   "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
   "sourceScoreURL": null,

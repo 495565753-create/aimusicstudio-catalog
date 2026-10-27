@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:46:01Z",
+  "generatedAt": "2026-10-27T11:46:07Z",
   "songs": [
+    {
+      "id": "ace-rework-20261027-zh02",
+      "title": "地图空着一角 · 重谱",
+      "artist": "灵感音乐 · 重谱试听",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/0fabe01de69ab0b690f9.jpg?v=0729b0ba69",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "lyrics": "[Verse 1]\n父亲把海圈在旧地图上\n车票钱却进了学费单\n他说海又不会搬走\n脚步却一年比一年慢\n\n[Pre-Chorus]\n我替他把那一圈补蓝\n说慢走也算出发\n\n[Chorus]\n地图空着一角\n我们从折痕出发\n海不问迟到的人\n只把潮声交给他\n\n[Verse 2]\n码头的风掀起他衣领\n他把船名念了一遍\n说那年不是不想走\n是怕我醒来，屋里没人\n\n[Bridge]\n返程车上他睡着了\n地图在膝上慢慢展开\n\n[Final Chorus]\n地图空着一角\n我们从折痕出发\n海不问迟到的人\n这次由我陪他回家",
+      "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
+      "popularity": "新词新曲 · 试听",
+      "category": "重谱试听",
+      "style": "经典摇滚",
+      "vocalType": "女声",
+      "durationSeconds": 104.04,
+      "publishedAt": "2026-10-27T11:46:06Z",
+      "artworkCredit": "Franz van Duns · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-rework-20261027-zh01",
       "title": "不把昨天领回家 · 重谱",
@@ -13034,11 +13058,12 @@
     {
       "id": "album-chinese-rework-20261027",
       "title": "中文重谱试听",
-      "subtitle": "1 首 · 本机 AI 原创",
+      "subtitle": "2 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 4,
       "songIDs": [
-        "ace-rework-20261027-zh01"
+        "ace-rework-20261027-zh01",
+        "ace-rework-20261027-zh02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/d7e2aaa26e9650639de5.jpg?v=e8f9358154",
       "artworkCredit": "Franz van Duns · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
