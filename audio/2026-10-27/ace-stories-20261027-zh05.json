@@ -1,0 +1,12 @@
+{
+  "title": "第二排的掌声",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T08:22:07Z",
+  "sha256": "d074d004da9d573a5a2e7e600dc8e193ca5d4137b9f883e38c72c15698af3d72",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

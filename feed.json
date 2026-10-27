@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T08:18:33Z",
+  "generatedAt": "2026-10-27T08:22:07Z",
   "songs": [
+    {
+      "id": "ace-stories-20261027-zh05",
+      "title": "第二排的掌声",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh05.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-stories-20261027-zh05.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-stories-20261027-zh05.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/d1de73491ad789a56add.jpg?v=501118e6ec",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh05.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-stories-20261027-zh05.json",
+      "lyrics": "[Verse 1]\n你把第一场演出排在周三\n台下只有十几张折椅\n前奏弹错 你看向门口\n我举起杯子说继续\n\n[Pre-Chorus]\n你说辞职以后怕自己\n连一句歌也写不出\n\n[Chorus]\n我坐在第二排\n听你把话唱完\n不用每一句都漂亮\n也有人愿意为你留下\n\n[Verse 2]\n半年后轮到我站在台上\n念那篇删改很多次的稿\n你坐在同一个位置\n把手机收起 认真听我讲\n\n[Bridge]\n轮到谁发出声音\n另一个就把灯留亮\n\n[Chorus]\n我坐在第二排\n听你把话唱完\n不用每一句都漂亮\n也有人愿意为你留下",
+      "rights": "原创中文歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "故事专辑 · AI 原创",
+      "category": "华语流行",
+      "style": "独立流行",
+      "vocalType": "女声",
+      "durationSeconds": 105.0,
+      "publishedAt": "2026-10-27T08:22:07Z",
+      "artworkCredit": "Wilson Hui from Calgary, Canada · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_at_Night_-_Star_Ferry_-_Flickr_-_Wilson_Hui.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-stories-20261027-zh04",
       "title": "不必把时间修好",
@@ -12986,14 +13010,15 @@
     {
       "id": "album-stories-zh-20261027",
       "title": "人间侧面 · 中文原创",
-      "subtitle": "4 首 · 本机 AI 原创",
+      "subtitle": "5 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 4,
       "songIDs": [
         "ace-stories-20261027-zh01",
         "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh03",
-        "ace-stories-20261027-zh04"
+        "ace-stories-20261027-zh04",
+        "ace-stories-20261027-zh05"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/50077bffce8b959df0e4.jpg?v=24e3b70eda",
       "artworkCredit": "unknown · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
@@ -13224,6 +13249,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
@@ -14322,10 +14348,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "36 首 · 灵感音乐歌单",
+      "subtitle": "37 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
@@ -14374,6 +14401,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
@@ -14412,8 +14440,7 @@
         "ace-cover-air-on-g-string-20261022",
         "ace-cover-the-entertainer-20261022",
         "ace-cover-home-sweet-home-20261022",
-        "ace-cover-auld-lang-syne-20261022",
-        "ace-cover-ode-to-joy-20261022"
+        "ace-cover-auld-lang-syne-20261022"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
