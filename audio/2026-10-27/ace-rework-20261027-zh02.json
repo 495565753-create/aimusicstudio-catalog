@@ -1,0 +1,12 @@
+{
+  "title": "地图空着一角 · 重谱",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机原创 MIDI 导引 · ACE-Step 试听",
+  "generatedAt": "2026-10-27T11:26:33.184052+00:00",
+  "sha256": "eb5bac7cf9263dba8000292cb4708b2885dd62e5065d0123139cd94a6c963824",
+  "taskType": "cover",
+  "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": "本次原创 MIDI 旋律与和声导引"
+}

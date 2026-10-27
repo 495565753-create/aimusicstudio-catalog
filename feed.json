@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:46:22Z",
+  "generatedAt": "2026-10-27T11:48:16Z",
   "songs": [
     {
       "id": "ace-rework-20261027-zh05",
       "title": "第二排的掌声 · 重谱",
       "artist": "灵感音乐 · 重谱试听",
-      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-rework-20261027-zh05.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh05.mp3",
       "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+        "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh05.mp3"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/f5914827e40daa06d69d.jpg?v=a2c46b7e06",
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh05.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh05.json",
       "lyrics": "[Verse 1]\n你的第一场在雨天开唱\n椅子比听众多了几张\n你在第二句忘掉那个词\n我拍错了拍，却拍得响\n\n[Pre-Chorus]\n别人听的是歌声\n我听见你终于肯开口\n\n[Chorus]\n第二排的掌声不大\n刚好越过一排空椅\n唱吧，不用句句都漂亮\n我会把整首听到底\n\n[Verse 2]\n半年后换我站到灯下\n手里那页稿捏出折角\n你从第二排抬起头\n等我把开头那句念好\n\n[Bridge]\n你先鼓掌，我才笑出来\n轮到我把话讲完\n\n[Final Chorus]\n第二排的掌声不大\n刚好越过一排空椅\n今天我也把话说完了\n你把停顿都听到底",
       "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
       "popularity": "新词新曲 · 试听",
@@ -30,14 +30,14 @@
       "id": "ace-rework-20261027-zh04",
       "title": "不必把时间修好 · 重谱",
       "artist": "灵感音乐 · 重谱试听",
-      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-rework-20261027-zh04.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh04.mp3",
       "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+        "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh04.mp3"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/7c5da4e6948aafe22359.jpg?v=17dd031c66",
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh04.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh04.json",
       "lyrics": "[Verse 1]\n爷爷把表贴在耳边\n像听一个人慢慢说话\n窗只推开半扇\n最小的螺丝也沾了晚霞\n\n[Pre-Chorus]\n他走后抽屉里那只表\n指针停在七点半\n\n[Chorus]\n不必把时间修好\n那道裂纹留在表盘\n我把发条轻轻上紧\n让它带着旧声向前\n\n[Verse 2]\n邻居拿来一只旧表\n表背刻着她母亲的名\n我换好齿轮，没磨掉刻字\n她听它走了很久，才说谢谢\n\n[Bridge]\n黄昏照着那把小螺刀\n我把半扇窗推到全开\n\n[Final Chorus]\n不必把时间修好\n那道裂纹留在表盘\n我把发条轻轻上紧\n听新日子带着旧声向前",
       "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
       "popularity": "新词新曲 · 试听",
@@ -54,14 +54,14 @@
       "id": "ace-rework-20261027-zh03",
       "title": "末班车还开着 · 重谱",
       "artist": "灵感音乐 · 重谱试听",
-      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-rework-20261027-zh03.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh03.mp3",
       "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+        "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh03.mp3"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/5c9c7b7091b0e51f1c57.jpg?v=db796feb2c",
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh03.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh03.json",
       "lyrics": "[Verse 1]\n车窗里工牌摇得很轻\n录影停在你抬头那一拍\n两处弹错都被掌声盖过\n第一排那把空椅还在\n\n[Pre-Chorus]\n我删掉“下次一定”\n那四个字已经说太快\n\n[Chorus]\n末班车还开着\n我把借口留在站台\n今晚先说对不起\n周六我坐第一排\n\n[Verse 2]\n你没说那句“没关系”\n只问周六我会不会来\n我把周六的班换到周一\n让那把椅子不再留白\n\n[Bridge]\n站名一盏盏退到身后\n你的“晚安”亮在屏幕上\n\n[Final Chorus]\n末班车还开着\n我把借口留在站台\n今晚先说对不起\n周六我坐第一排",
       "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
       "popularity": "新词新曲 · 试听",
@@ -78,14 +78,14 @@
       "id": "ace-rework-20261027-zh02",
       "title": "地图空着一角 · 重谱",
       "artist": "灵感音乐 · 重谱试听",
-      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-rework-20261027-zh02.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh02.mp3",
       "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+        "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh02.mp3"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/0fabe01de69ab0b690f9.jpg?v=0729b0ba69",
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh02.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh02.json",
       "lyrics": "[Verse 1]\n父亲把海圈在旧地图上\n车票钱却进了学费单\n他说海又不会搬走\n脚步却一年比一年慢\n\n[Pre-Chorus]\n我替他把那一圈补蓝\n说慢走也算出发\n\n[Chorus]\n地图空着一角\n我们从折痕出发\n海不问迟到的人\n只把潮声交给他\n\n[Verse 2]\n码头的风掀起他衣领\n他把船名念了一遍\n说那年不是不想走\n是怕我醒来，屋里没人\n\n[Bridge]\n返程车上他睡着了\n地图在膝上慢慢展开\n\n[Final Chorus]\n地图空着一角\n我们从折痕出发\n海不问迟到的人\n这次由我陪他回家",
       "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
       "popularity": "新词新曲 · 试听",
@@ -102,14 +102,14 @@
       "id": "ace-rework-20261027-zh01",
       "title": "不把昨天领回家 · 重谱",
       "artist": "灵感音乐 · 重谱试听",
-      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/ace-rework-20261027-zh01.mp3",
+      "backupAudioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh01.mp3",
       "alternateAudioURLs": [
-        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-27/v2_guide_vocal_trial.mp3"
+        "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-27/ace-rework-20261027-zh01.mp3"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/61d3bd770afb5cacb47a.jpg?v=e246673b10",
-      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.mp3",
-      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/v2_guide_vocal_trial.json",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-27/ace-rework-20261027-zh01.json",
       "lyrics": "[Verse 1]\n夜雨把洗衣店的窗敲暗\n你把硬币排成细细一行\n我们隔着一台旧烘干机\n谈起这些年换过的地方\n\n[Pre-Chorus]\n你说那时太急\n我说我也一样\n机器停了\n才听见雨落在街上\n\n[Chorus]\n把雨留给今晚\n不把昨天领回家\n曾一起淋过的雨\n不必再共一把伞\n\n[Verse 2]\n你说新住处靠着河岸\n我说终于习惯独自吃饭\n衣服干了，门外还在下\n你递来伞，我说雨不大\n\n[Bridge]\n路口绿灯亮了\n我们向各自的灯走去\n\n[Final Chorus]\n把雨留给今晚\n不把昨天领回家\n曾一起淋过的雨\n不必再共一把伞",
       "rights": "本次原创中文歌词与原创旋律导引 · 本机 ACE-Step AI 生成 · 试听版",
       "popularity": "新词新曲 · 试听",

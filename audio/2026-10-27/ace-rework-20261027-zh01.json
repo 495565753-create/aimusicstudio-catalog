@@ -1,9 +1,9 @@
 {
-  "title": "第二排的掌声 · 重谱",
+  "title": "不把昨天领回家 · 重谱",
   "model": "ACE-Step 1.5 / acestep-v15-turbo",
-  "generator": "本机音乐工坊",
-  "generatedAt": "2026-10-27T11:46:22Z",
-  "sha256": "7f61cec5bdf45af9ba37568e2d2f764ca5f2a7d239c5382658a9658d4976bdd7",
+  "generator": "本机原创 MIDI 导引 · ACE-Step 试听",
+  "generatedAt": "2026-10-27T11:16:43.681755+00:00",
+  "sha256": "00b2a0181eae2d077d4e21889cc91335a19b478eabec2e1e496491afcf05467c",
   "taskType": "cover",
   "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
   "sourceScoreURL": null,

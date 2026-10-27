@@ -1,0 +1,12 @@
+{
+  "title": "第二排的掌声 · 重谱",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机原创 MIDI 导引 · ACE-Step 试听",
+  "generatedAt": "2026-10-27T11:45:37.659734+00:00",
+  "sha256": "7f61cec5bdf45af9ba37568e2d2f764ca5f2a7d239c5382658a9658d4976bdd7",
+  "taskType": "cover",
+  "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": "本次原创 MIDI 旋律与和声导引"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "末班车还开着 · 重谱",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机原创 MIDI 导引 · ACE-Step 试听",
+  "generatedAt": "2026-10-27T11:32:20.850854+00:00",
+  "sha256": "10cbac4535d1d75baa90c10acaa585c954105fcf98120c14643f005e657a9b50",
+  "taskType": "cover",
+  "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": "本次原创 MIDI 旋律与和声导引"
+}
