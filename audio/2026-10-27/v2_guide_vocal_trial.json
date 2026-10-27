@@ -1,9 +1,9 @@
 {
-  "title": "末班车还开着 · 重谱",
+  "title": "不必把时间修好 · 重谱",
   "model": "ACE-Step 1.5 / acestep-v15-turbo",
   "generator": "本机音乐工坊",
-  "generatedAt": "2026-10-27T11:46:11Z",
-  "sha256": "10cbac4535d1d75baa90c10acaa585c954105fcf98120c14643f005e657a9b50",
+  "generatedAt": "2026-10-27T11:46:17Z",
+  "sha256": "a723da3ff2c059d51abfb8a8200b61cd8cb48967c4d3b66e345d5ba23c03fac5",
   "taskType": "cover",
   "sourceComposition": "Original MIDI melody, harmony and rhythm guide; lyrics v2",
   "sourceScoreURL": null,
