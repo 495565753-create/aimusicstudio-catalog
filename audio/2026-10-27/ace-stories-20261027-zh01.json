@@ -1,0 +1,12 @@
+{
+  "title": "不把昨天领回家",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-27T08:06:17Z",
+  "sha256": "3fb5d1c4c4c090cb85ffa668fd1af31daf2ce29f5608eff7b84e77c566f4955e",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
