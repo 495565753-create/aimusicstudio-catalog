@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T00:03:04Z",
+  "generatedAt": "2026-10-28T00:10:26Z",
   "songs": [
+    {
+      "id": "ace-2026-10-28-2",
+      "title": "晚风来信 · 10-28",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-2026-10-28-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-2026-10-28-2.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-28/ace-2026-10-28-2.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/72fbcb798136d4d9ab5b.jpg?v=3dc659acf5",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-2026-10-28-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-2026-10-28-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n电话响了 我以为是你\n接起来 只是别人打错\n你说要走的那一天\n我还以为 你只是生气\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 你现在在哪里\n过得好不好 有没有人照顾你\n你 我还在这里\n等你回来 我们重新开始\n\n[Verse 2]\n\n房间的东西 你都没带走\n只有那张照片 留在桌上\n我每天回家 都看它一眼\n好像你还在 这个家里面\n\n[Pre-Chorus]\n\n我没有 什么大道理\n我只是 舍不得你\n\n[Chorus]\n\n你 你现在在哪里\n过得好不好 有没有人照顾你\n你 我还在这里\n等你回来 我们重新开始\n\n[Outro]\n\n（我还是想着你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-28T00:10:26Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-2026-10-28-1",
       "title": "把光留住 · 10-28",
@@ -13410,6 +13433,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-28-2",
         "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
@@ -14510,10 +14534,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "38 首 · 灵感音乐歌单",
+      "subtitle": "39 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-28-2",
         "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
@@ -14564,6 +14589,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-28-2",
         "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
@@ -14602,8 +14628,7 @@
         "ace-2026-10-23-2",
         "ace-2026-10-23-1",
         "ace-cover-air-on-g-string-20261022",
-        "ace-cover-the-entertainer-20261022",
-        "ace-cover-home-sweet-home-20261022"
+        "ace-cover-the-entertainer-20261022"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
