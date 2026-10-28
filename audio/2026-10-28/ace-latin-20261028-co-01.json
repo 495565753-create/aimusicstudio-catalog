@@ -1,0 +1,12 @@
+{
+  "title": "Puente de Lluvia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-28T00:19:49Z",
+  "sha256": "05182d028f270f5ce4ad29813309915ae748e21d71a18a736e07e4494563f9c4",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
