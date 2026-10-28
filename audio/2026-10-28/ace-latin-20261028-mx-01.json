@@ -1,0 +1,12 @@
+{
+  "title": "La Sombra del Mezquite",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-28T00:29:26Z",
+  "sha256": "9ef45fe552fa7d83a4d88f97db3f86a3990291bcea3b0077c4b0f79e35577eae",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
