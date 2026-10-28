@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:48:16Z",
+  "generatedAt": "2026-10-28T00:03:04Z",
   "songs": [
+    {
+      "id": "ace-2026-10-28-1",
+      "title": "把光留住 · 10-28",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-2026-10-28-1.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-2026-10-28-1.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-28/ace-2026-10-28-1.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/fa1ef2e43a60e7beb8b1.jpg?v=40f61ccd2c",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-2026-10-28-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-2026-10-28-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n我在这座城市 遇见你\n那天的回家的路 特别好看\n你回头看了我一眼\n从那天起 我就记住了你\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n你说喜欢吃 巷口那一家的面\n我每次都记得 帮你多加青菜\n你笑我 记性其实很好\n我说对你 我当然要认真\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-28T00:03:03Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-rework-20261027-zh05",
       "title": "第二排的掌声 · 重谱",
@@ -13387,6 +13410,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
@@ -14486,10 +14510,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "37 首 · 灵感音乐歌单",
+      "subtitle": "38 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
@@ -14539,6 +14564,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
@@ -14577,8 +14603,7 @@
         "ace-2026-10-23-1",
         "ace-cover-air-on-g-string-20261022",
         "ace-cover-the-entertainer-20261022",
-        "ace-cover-home-sweet-home-20261022",
-        "ace-cover-auld-lang-syne-20261022"
+        "ace-cover-home-sweet-home-20261022"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
