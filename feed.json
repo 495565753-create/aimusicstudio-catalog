@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T00:19:49Z",
+  "generatedAt": "2026-10-28T00:24:38Z",
   "songs": [
+    {
+      "id": "ace-latin-20261028-la-01",
+      "title": "Lo Que No Se Hunde",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-latin-20261028-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-28/ace-latin-20261028-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-28/ace-latin-20261028-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/993272ed768d726ea915.jpg?v=149584660a",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-latin-20261028-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-28/ace-latin-20261028-la-01.json",
+      "lyrics": "[Verse 1]\nEncontré tu carta entre mapas viejos,\ncon la sal del puerto en cada doblez.\nNo decía vuelve; sólo hablaba del invierno\ny del árbol que aprendió a florecer.\n\n[Pre-Chorus]\nTanto tiempo quise tener la razón\nque dejé la casa sin conversación.\n\n[Chorus]\nLa marea se lleva lo que pesa,\npero hay cosas que no saben naufragar:\nuna mesa donde caben dos silencios,\nuna mano que se atreve a regresar.\n\n[Verse 2]\nHoy no traigo excusas ni promesas nuevas;\ntraigo pan, y el tiempo para oír.\nSi la puerta sigue abierta, nos sentamos;\nsi no, aprenderé por fin a despedir.\n\n[Chorus]\nLa marea se lleva lo que pesa,\npero hay cosas que no saben naufragar:\nuna mesa donde caben dos silencios,\nuna mano que se atreve a regresar.\n\n[Outro]\nLo que no se hunde nos enseña a respirar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "古巴颂歌与波莱罗",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-28T00:24:38Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261028-co-01",
       "title": "Puente de Lluvia",
@@ -13271,7 +13295,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "5 首 · 本机 AI 原创",
+      "subtitle": "6 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -13279,7 +13303,8 @@
         "ace-latin-20261027-la-02",
         "ace-latin-20261027-la-03",
         "ace-latin-20261027-la-04",
-        "ace-latin-20261027-la-05"
+        "ace-latin-20261027-la-05",
+        "ace-latin-20261028-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -14614,6 +14639,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261028-la-01",
         "ace-latin-20261028-co-01",
         "ace-2026-10-28-2",
         "ace-2026-10-28-1",
@@ -14652,8 +14678,7 @@
         "ace-2026-10-24-2",
         "ace-2026-10-24-1",
         "ace-2026-10-23-2",
-        "ace-2026-10-23-1",
-        "ace-cover-air-on-g-string-20261022"
+        "ace-2026-10-23-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
