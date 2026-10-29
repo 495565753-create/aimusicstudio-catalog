@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T00:10:06Z",
+  "generatedAt": "2026-10-29T00:19:35Z",
   "songs": [
+    {
+      "id": "ace-latin-20261029-co-01",
+      "title": "La Casa que Flota",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-29/ace-latin-20261029-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/441985cc8bb45708b96f.jpg?v=839edb55f5",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-co-01.json",
+      "lyrics": "[Verse 1]\nLa creciente se llevó la puerta vieja,\nla pintura azul, la mesa y el fogón.\nMi madre rescató una sola caja:\nlas semillas que guardaba en un cajón.\n\n[Pre-Chorus]\nLa marimba habló de orilla en orilla;\nuna vecina trajo un techo de cartón.\n\n[Chorus]\nLa casa que flota no tiene paredes,\nse sostiene en los brazos que saben volver.\nSi el río nos cambia de sitio esta noche,\nmañana en otra tierra habrá algo que hacer.\n\n[Verse 2]\nSobre el lodo dibujamos una puerta;\ncon tres tablas levantamos el umbral.\nNo fue igual, y nadie dijo que lo fuera;\npero entró por la ventana el aire del mar.\n\n[Chorus]\nLa casa que flota no tiene paredes,\nse sostiene en los brazos que saben volver.\nSi el río nos cambia de sitio esta noche,\nmañana en otra tierra habrá algo que hacer.\n\n[Outro]\nLas semillas ya conocen otro amanecer.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚太平洋岸库鲁劳",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-29T00:19:35Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-10-29-2",
       "title": "走向远方 · 10-29",
@@ -13385,7 +13409,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "6 首 · 本机 AI 原创",
+      "subtitle": "7 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -13394,7 +13418,8 @@
         "ace-latin-20261027-co-03",
         "ace-latin-20261027-co-04",
         "ace-latin-20261027-co-05",
-        "ace-latin-20261028-co-01"
+        "ace-latin-20261028-co-01",
+        "ace-latin-20261029-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -14714,6 +14739,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261029-co-01",
         "ace-2026-10-29-2",
         "ace-2026-10-29-1",
         "ace-latin-20261028-mx-01",
@@ -14752,8 +14778,7 @@
         "ace-2026-10-26-2",
         "ace-2026-10-26-1",
         "ace-2026-10-25-2",
-        "ace-2026-10-25-1",
-        "ace-2026-10-24-2"
+        "ace-2026-10-25-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

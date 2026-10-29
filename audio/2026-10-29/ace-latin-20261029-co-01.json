@@ -1,0 +1,12 @@
+{
+  "title": "La Casa que Flota",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-29T00:19:35Z",
+  "sha256": "fce7e9546fc2782c7765f4f96fa9f05a2836350b101ac091368137f82d1ebd49",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
