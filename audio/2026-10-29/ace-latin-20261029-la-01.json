@@ -1,0 +1,12 @@
+{
+  "title": "No Se Compra la Tarde",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-29T00:25:09Z",
+  "sha256": "006cab34807128750d9e3338a3927ec49da33f46e10c67bed2c67a47252dfe55",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

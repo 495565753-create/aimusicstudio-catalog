@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T00:19:35Z",
+  "generatedAt": "2026-10-29T00:25:10Z",
   "songs": [
+    {
+      "id": "ace-latin-20261029-la-01",
+      "title": "No Se Compra la Tarde",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-29/ace-latin-20261029-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/35f64b4118f3d0cc52db.jpg?v=feada3551a",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-la-01.json",
+      "lyrics": "[Verse 1]\nCambié mi bicicleta por un reloj de oro,\ncorrí detrás del lunes y perdí el domingo.\nMi hermana puso fruta y reservó mi plato;\nle dije «en otro rato» hasta que se hizo frío.\n\n[Pre-Chorus]\nHoy vi en el calendario la marca de su mano;\nla tinta se borraba, la espera no.\n\n[Chorus]\nNo se compra la tarde cuando ya se ha ido,\nni la voz que nos esperaba en el portal.\nPon la mesa; deja afuera tanto ruido:\nhay un baile que no sabe regresar.\n\n[Verse 2]\nLlegué sin un regalo, con la camisa abierta;\nmi hermana abrió la puerta sin mirar el reloj.\nBailamos en la cocina, sin contar los pasos,\ny el viejo tocadiscos nos perdonó la voz.\n\n[Chorus]\nNo se compra la tarde cuando ya se ha ido,\nni la voz que nos esperaba en el portal.\nPon la mesa; deja afuera tanto ruido:\nhay un baile que no sabe regresar.\n\n[Outro]\nHoy me quedo hasta que empiece a clarear.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "拉丁萨尔萨",
+      "vocalType": "男女对唱",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-29T00:25:10Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261029-co-01",
       "title": "La Casa que Flota",
@@ -13390,7 +13414,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "6 首 · 本机 AI 原创",
+      "subtitle": "7 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -13399,7 +13423,8 @@
         "ace-latin-20261027-la-03",
         "ace-latin-20261027-la-04",
         "ace-latin-20261027-la-05",
-        "ace-latin-20261028-la-01"
+        "ace-latin-20261028-la-01",
+        "ace-latin-20261029-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -14739,6 +14764,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261029-la-01",
         "ace-latin-20261029-co-01",
         "ace-2026-10-29-2",
         "ace-2026-10-29-1",
@@ -14777,8 +14803,7 @@
         "ace-latin-20261027-co-01",
         "ace-2026-10-26-2",
         "ace-2026-10-26-1",
-        "ace-2026-10-25-2",
-        "ace-2026-10-25-1"
+        "ace-2026-10-25-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
