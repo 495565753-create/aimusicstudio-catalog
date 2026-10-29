@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T00:25:10Z",
+  "generatedAt": "2026-10-29T00:35:12Z",
   "songs": [
+    {
+      "id": "ace-latin-20261029-mx-01",
+      "title": "El Pozo Compartido",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-29/ace-latin-20261029-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-29/ace-latin-20261029-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/f64dbf74be88d1e1daa3.jpg?v=d6d7156c6a",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-29/ace-latin-20261029-mx-01.json",
+      "lyrics": "[Verse 1]\nMi abuelo no llamó suyo a ningún río;\ndecía: «el agua aprende a compartir».\nYo le llevaba un cántaro vacío\ny él me enseñaba a oírla antes de ir.\n\n[Pre-Chorus]\nLlegó la seca; el campo fue perdiendo\nsu verde acostumbrado al despertar.\n\n[Chorus]\nEn el pozo compartido no hay apellidos;\nla cuerda pasa de una mano a otra mano.\nSi guardo más del agua que he bebido,\n¿qué dejaré al que llegue el próximo verano?\n\n[Verse 2]\nLa niña de la esquina trajo un vaso;\nmi abuelo le cedió su propio turno.\nNo pronunció discursos ni hizo caso\ndel sol que le quemaba el viejo puño.\n\n[Chorus]\nEn el pozo compartido no hay apellidos;\nla cuerda pasa de una mano a otra mano.\nSi guardo más del agua que he bebido,\n¿qué dejaré al que llegue el próximo verano?\n\n[Outro]\nQue haya un sorbo para el próximo verano.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 墨西哥",
+      "category": "墨西哥",
+      "style": "墨西哥韦潘戈民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-29T00:35:12Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261029-la-01",
       "title": "No Se Compra la Tarde",
@@ -13395,7 +13419,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "6 首 · 本机 AI 原创",
+      "subtitle": "7 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -13404,7 +13428,8 @@
         "ace-latin-20261027-mx-03",
         "ace-latin-20261027-mx-04",
         "ace-latin-20261027-mx-05",
-        "ace-latin-20261028-mx-01"
+        "ace-latin-20261028-mx-01",
+        "ace-latin-20261029-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -14764,6 +14789,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261029-mx-01",
         "ace-latin-20261029-la-01",
         "ace-latin-20261029-co-01",
         "ace-2026-10-29-2",
@@ -14802,8 +14828,7 @@
         "ace-latin-20261027-co-02",
         "ace-latin-20261027-co-01",
         "ace-2026-10-26-2",
-        "ace-2026-10-26-1",
-        "ace-2026-10-25-2"
+        "ace-2026-10-26-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

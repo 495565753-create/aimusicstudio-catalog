@@ -1,0 +1,12 @@
+{
+  "title": "El Pozo Compartido",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-29T00:35:12Z",
+  "sha256": "52f2128360cbaedb0d6381f4d4564823446062406feb682de84c478979929453",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
