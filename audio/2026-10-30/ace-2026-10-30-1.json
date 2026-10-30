@@ -1,0 +1,12 @@
+{
+  "title": "城市的回声 · 10-30",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-30T01:19:58Z",
+  "sha256": "88c70008a2767d84ea979b94d10b8a8f543e55a20e85a00671f6d54670016b39",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
