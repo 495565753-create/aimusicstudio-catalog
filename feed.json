@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T01:19:59Z",
+  "generatedAt": "2026-10-30T01:24:41Z",
   "songs": [
+    {
+      "id": "ace-2026-10-30-2",
+      "title": "雨后的街道 · 10-30",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-30/ace-2026-10-30-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-2026-10-30-2.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-2026-10-30-2.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/69e15d5b1cd5e995e93c.jpg?v=ca9cfc26cb",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-2026-10-30-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-2026-10-30-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n第一次看见你 我就知道\n这个人 我要好好对待\n你笑起来 眼睛弯成月亮\n我紧张得 一句话都说不完整\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n你睡觉 总是抢我的被子\n我假装生气 其实很开心\n你记得我 所有的习惯\n连我什么时候会饿 你都知道\n\n[Pre-Chorus]\n\n日子过得 不快也不慢\n我只希望 你别走得太快\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "爵士",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-30T01:24:41Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-2026-10-30-1",
       "title": "城市的回声 · 10-30",
@@ -13652,6 +13675,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-10-30-2",
         "ace-2026-10-30-1",
         "ace-2026-10-29-2",
         "ace-2026-10-29-1",
@@ -14756,10 +14780,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "42 首 · 灵感音乐歌单",
+      "subtitle": "43 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-10-30-2",
         "ace-2026-10-30-1",
         "ace-2026-10-29-2",
         "ace-2026-10-29-1",
@@ -14814,6 +14839,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-10-30-2",
         "ace-2026-10-30-1",
         "ace-latin-20261029-mx-01",
         "ace-latin-20261029-la-01",
@@ -14852,8 +14878,7 @@
         "ace-latin-20261027-co-04",
         "ace-latin-20261027-co-03",
         "ace-latin-20261027-co-02",
-        "ace-latin-20261027-co-01",
-        "ace-2026-10-26-2"
+        "ace-latin-20261027-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
