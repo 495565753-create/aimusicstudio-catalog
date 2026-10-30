@@ -1,0 +1,12 @@
+{
+  "title": "Semilla en el Balcón",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-30T01:31:47Z",
+  "sha256": "fa4d9ea0e9916bf140d2b093bb96d003f32d6fb328f84f46fed289b98e40444b",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

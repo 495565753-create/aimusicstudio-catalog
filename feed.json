@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T01:24:41Z",
+  "generatedAt": "2026-10-30T01:31:47Z",
   "songs": [
+    {
+      "id": "ace-latin-20261030-co-01",
+      "title": "Semilla en el Balcón",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-30/ace-latin-20261030-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-latin-20261030-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-latin-20261030-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/274ceced27ef8a25edf0.jpg?v=ffb014b45d",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-latin-20261030-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-latin-20261030-co-01.json",
+      "lyrics": "[Verse 1]\nMi padre puso en la maleta vieja\nun sobre hecho de papel de pan.\nNo eran billetes ni una despedida:\ntres semillas de albahaca y nada más.\n\n[Pre-Chorus]\nLa ciudad me recibió con sus ventanas\ny un balcón donde apenas cabe el sol.\n\n[Chorus]\nHay una semilla en el balcón;\nno devuelve la montaña entera,\npero entre el cemento y el rumor\nme señala por dónde vuelve la primavera.\n\n[Verse 2]\nLa regué con lluvia guardada en una taza;\nal principio pareció no responder.\nCuando asomó una hoja diminuta,\nllamé a mi padre sólo para agradecer.\n\n[Chorus]\nHay una semilla en el balcón;\nno devuelve la montaña entera,\npero entre el cemento y el rumor\nme señala por dónde vuelve la primavera.\n\n[Outro]\nTres semillas; una historia por crecer.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚巴耶纳托抒情曲",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-30T01:31:47Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-10-30-2",
       "title": "雨后的街道 · 10-30",
@@ -13505,7 +13529,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "7 首 · 本机 AI 原创",
+      "subtitle": "8 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -13515,7 +13539,8 @@
         "ace-latin-20261027-co-04",
         "ace-latin-20261027-co-05",
         "ace-latin-20261028-co-01",
-        "ace-latin-20261029-co-01"
+        "ace-latin-20261029-co-01",
+        "ace-latin-20261030-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -14839,6 +14864,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261030-co-01",
         "ace-2026-10-30-2",
         "ace-2026-10-30-1",
         "ace-latin-20261029-mx-01",
@@ -14877,8 +14903,7 @@
         "ace-latin-20261027-co-05",
         "ace-latin-20261027-co-04",
         "ace-latin-20261027-co-03",
-        "ace-latin-20261027-co-02",
-        "ace-latin-20261027-co-01"
+        "ace-latin-20261027-co-02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
