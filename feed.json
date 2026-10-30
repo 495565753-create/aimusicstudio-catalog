@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T01:35:44Z",
+  "generatedAt": "2026-10-30T01:39:33Z",
   "songs": [
+    {
+      "id": "ace-latin-20261030-mx-01",
+      "title": "El Nombre en la Libreta",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-10-30/ace-latin-20261030-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-latin-20261030-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-10-30/ace-latin-20261030-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/b04276b79a717e7be22f.jpg?v=fa931aebf7",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-latin-20261030-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-10-30/ace-latin-20261030-mx-01.json",
+      "lyrics": "[Verse 1]\nDe día hacía tortillas para el pueblo,\nde noche abría un libro junto al pan.\nMi madre dijo: «Las letras son puertas;\nalguna tarde las voy a cruzar».\n\n[Pre-Chorus]\nLa lámpara alumbraba poco a poco\nla mesa que servía para amasar.\n\n[Chorus]\nEscribe, madre, escribe tu nombre;\nque nadie firme en tu lugar.\nLa tinta tarda, pero abre un camino;\nhasta el papel aprende a esperar.\n\n[Verse 2]\nLlegó una carta desde el otro lado;\npor vez primera no me hizo leer.\nSus ojos fueron despacio entre las líneas;\nal terminar, la vi sonreír y llorar.\n\n[Chorus]\nEscribe, madre, escribe tu nombre;\nque nadie firme en tu lugar.\nLa tinta tarda, pero abre un camino;\nhasta el papel aprende a esperar.\n\n[Outro]\nGuardó la carta al lado del comal.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 墨西哥",
+      "category": "墨西哥",
+      "style": "墨西哥北方叙事民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-10-30T01:39:33Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261030-la-01",
       "title": "El Pan de la Madrugada",
@@ -13513,7 +13537,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "7 首 · 本机 AI 原创",
+      "subtitle": "8 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -13523,7 +13547,8 @@
         "ace-latin-20261027-mx-04",
         "ace-latin-20261027-mx-05",
         "ace-latin-20261028-mx-01",
-        "ace-latin-20261029-mx-01"
+        "ace-latin-20261029-mx-01",
+        "ace-latin-20261030-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -14889,6 +14914,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261030-mx-01",
         "ace-latin-20261030-la-01",
         "ace-latin-20261030-co-01",
         "ace-2026-10-30-2",
@@ -14927,8 +14953,7 @@
         "ace-latin-20261027-la-02",
         "ace-latin-20261027-la-01",
         "ace-latin-20261027-co-05",
-        "ace-latin-20261027-co-04",
-        "ace-latin-20261027-co-03"
+        "ace-latin-20261027-co-04"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

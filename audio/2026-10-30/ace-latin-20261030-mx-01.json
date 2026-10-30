@@ -1,0 +1,12 @@
+{
+  "title": "El Nombre en la Libreta",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-30T01:39:33Z",
+  "sha256": "3ba0a233e2de12256e8db530e64751fdcb1a658908a9b9278ddc5ce047c61a19",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
