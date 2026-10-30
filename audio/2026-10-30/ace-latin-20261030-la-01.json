@@ -1,0 +1,12 @@
+{
+  "title": "El Pan de la Madrugada",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-10-30T01:35:44Z",
+  "sha256": "3e7451611c83b1edec17d729255f79267dfe0c1655aebe972e5554853c5eae54",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
