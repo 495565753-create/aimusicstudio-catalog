@@ -1,0 +1,12 @@
+{
+  "title": "Barro y luz",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-04T02:04:34Z",
+  "sha256": "7bf60efb61881275b91f3565d88d1438c0cc4aa1335e11138b65b0bcd0abe7e1",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
