@@ -1,0 +1,12 @@
+{
+  "title": "La hora sin reloj",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-04T01:58:57Z",
+  "sha256": "dc50a172f05b1912851f6af620762e75dd0370a6ff34ebfd2d264021eb4093b3",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
