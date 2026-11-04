@@ -1,0 +1,12 @@
+{
+  "title": "La orilla que elegimos",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-04T01:48:57Z",
+  "sha256": "1cd0253a0ad8a2683f8b7f3a1353542edf0ab219d3169597b6b8ee60c132a0ac",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
