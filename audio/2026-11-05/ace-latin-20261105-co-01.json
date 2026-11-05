@@ -1,0 +1,12 @@
+{
+  "title": "La luz del último bus",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-05T02:49:59Z",
+  "sha256": "74feb6fa66f4d65d71d63c907c4e0c860b7f42ef8eb5c1bfa4388e8ec6251626",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

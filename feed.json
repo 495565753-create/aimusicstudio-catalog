@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T02:43:09Z",
+  "generatedAt": "2026-11-05T02:49:59Z",
   "songs": [
+    {
+      "id": "ace-latin-20261105-co-01",
+      "title": "La luz del último bus",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-05/ace-latin-20261105-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-latin-20261105-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-latin-20261105-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/008f618f249dbc52bf6b.jpg?v=ca06873615",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-latin-20261105-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-latin-20261105-co-01.json",
+      "lyrics": "[Verse 1]\nConduzco el último bus por la avenida;\nla lluvia hace del vidrio un litoral.\nSube una enfermera, guarda la sonrisa\nque ofreció a otros durante el temporal.\n\n[Verse 2]\nUn joven lleva flores envueltas en periódico,\nquizá mañana se atreverá a llamar.\nYo miro por el espejo y cuento los semáforos,\nlos nombres que la ciudad no suele pronunciar.\n\n[Chorus]\nQue nadie llegue solo a la mañana,\naunque el trayecto se haga largo al fin.\nDejo una luz encendida en la ventana\nde este bus que todavía sabe ir.\nY al doblar la esquina de la plaza,\ntambién yo encuentro el camino hasta mí.\n\n[Verse 3]\nAl fondo alguien se duerme con sus planos;\nsu lápiz cae y lo recojo al pasar.\nNo sé qué casa dibujarán sus manos,\npero esta noche tiene dónde descansar.\n\n[Chorus]\nQue nadie llegue solo a la mañana,\naunque el trayecto se haga largo al fin.\nDejo una luz encendida en la ventana\nde este bus que todavía sabe ir.\nY al doblar la esquina de la plaza,\ntambién yo encuentro el camino hasta mí.\n\n[Outro]\nLa ciudad respira; yo la dejo dormir.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚班布科",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-05T02:49:59Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-05-2",
       "title": "晚风来信 · 11-05",
@@ -13745,7 +13769,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "9 首 · 本机 AI 原创",
+      "subtitle": "10 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -13757,7 +13781,8 @@
         "ace-latin-20261028-co-01",
         "ace-latin-20261029-co-01",
         "ace-latin-20261030-co-01",
-        "ace-latin-20261104-co-01"
+        "ace-latin-20261104-co-01",
+        "ace-latin-20261105-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -15089,6 +15114,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261105-co-01",
         "ace-2026-11-05-2",
         "ace-2026-11-05-1",
         "ace-latin-20261104-mx-01",
@@ -15127,8 +15153,7 @@
         "ace-latin-20261027-mx-05",
         "ace-latin-20261027-mx-04",
         "ace-latin-20261027-mx-03",
-        "ace-latin-20261027-mx-02",
-        "ace-latin-20261027-mx-01"
+        "ace-latin-20261027-mx-02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
