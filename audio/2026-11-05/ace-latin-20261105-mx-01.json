@@ -1,0 +1,12 @@
+{
+  "title": "El hilo del telar",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-05T02:59:16Z",
+  "sha256": "ca4a81ee574fa427470f3112eecdc70ee548d03183f4d7cbdadb9661920dedd0",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
