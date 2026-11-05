@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T02:36:13Z",
+  "generatedAt": "2026-11-05T02:43:09Z",
   "songs": [
+    {
+      "id": "ace-2026-11-05-2",
+      "title": "晚风来信 · 11-05",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-05/ace-2026-11-05-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-2026-11-05-2.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-2026-11-05-2.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/c6e87da91f527a9b5c97.jpg?v=c93753141b",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-2026-11-05-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-2026-11-05-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n电话响了 我以为是你\n接起来 只是别人打错\n你说要走的那一天\n我还以为 你只是生气\n\n[Pre-Chorus]\n\n我不怪你 也不怪自己\n只是有一点 想不明白\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Verse 2]\n\n房间的东西 你都没带走\n只有那张照片 留在桌上\n我每天回家 都看它一眼\n好像你还在 这个家里面\n\n[Pre-Chorus]\n\n我不怪你 也不怪自己\n只是有一点 想不明白\n\n[Chorus]\n\n你 你现在在哪里\n过得好不好 有没有人照顾你\n你 我还在这里\n等你回来 我们重新开始\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-05T02:43:09Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-2026-11-05-1",
       "title": "把光留住 · 11-05",
@@ -13894,6 +13917,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-11-05-2",
         "ace-2026-11-05-1",
         "ace-2026-11-04-2",
         "ace-2026-11-04-1",
@@ -15002,10 +15026,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "46 首 · 灵感音乐歌单",
+      "subtitle": "47 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-11-05-2",
         "ace-2026-11-05-1",
         "ace-2026-11-04-2",
         "ace-2026-11-04-1",
@@ -15064,6 +15089,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-11-05-2",
         "ace-2026-11-05-1",
         "ace-latin-20261104-mx-01",
         "ace-latin-20261104-la-01",
@@ -15102,8 +15128,7 @@
         "ace-latin-20261027-mx-04",
         "ace-latin-20261027-mx-03",
         "ace-latin-20261027-mx-02",
-        "ace-latin-20261027-mx-01",
-        "ace-latin-20261027-la-05"
+        "ace-latin-20261027-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
