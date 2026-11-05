@@ -1,0 +1,12 @@
+{
+  "title": "La segunda llave",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-05T02:55:19Z",
+  "sha256": "ad9e7c124048e6fef2cd4bff1b40c34ea1c5a8e6ed3f25c3a11d638b75cded08",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T02:49:59Z",
+  "generatedAt": "2026-11-05T02:55:19Z",
   "songs": [
+    {
+      "id": "ace-latin-20261105-la-01",
+      "title": "La segunda llave",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-05/ace-latin-20261105-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-latin-20261105-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-05/ace-latin-20261105-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/5dc2b98be39859ae7b36.jpg?v=790255d649",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-latin-20261105-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-05/ace-latin-20261105-la-01.json",
+      "lyrics": "[Verse 1]\nEn el cajón quedó una llave vieja\nde aquella casa que tuvimos que vender.\nLa fui guardando como quien conserva\nun lunes que no quiere amanecer.\n\n[Verse 2]\nMi hermana vino un sábado de enero,\npusimos agua, pan y algún bolero.\nHablamos del silencio de esos años,\nde lo que hicimos sin saberlo hacer.\n\n[Chorus]\nHay una segunda llave en mi bolsillo: \nabre la puerta que hoy puedo construir.\nLa primera guarda el eco de los niños;\nla otra me recuerda que aún sé vivir.\nSi el pasado llama, lo invito a la mesa,\npero no le entrego todo el porvenir.\n\n[Verse 3]\nSalimos a la calle al caer la tarde;\nla luna iba encendiendo el vecindario.\nMi hermana puso el brazo sobre el mío,\ny no hizo falta explicar el calendario.\n\n[Chorus]\nHay una segunda llave en mi bolsillo: \nabre la puerta que hoy puedo construir.\nLa primera guarda el eco de los niños;\nla otra me recuerda que aún sé vivir.\nSi el pasado llama, lo invito a la mesa,\npero no le entrego todo el porvenir.\n\n[Outro]\nDos llaves, una mano, y el camino.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "拉丁之子音乐",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-05T02:55:19Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261105-co-01",
       "title": "La luz del último bus",
@@ -13747,7 +13771,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "9 首 · 本机 AI 原创",
+      "subtitle": "10 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -13759,7 +13783,8 @@
         "ace-latin-20261028-la-01",
         "ace-latin-20261029-la-01",
         "ace-latin-20261030-la-01",
-        "ace-latin-20261104-la-01"
+        "ace-latin-20261104-la-01",
+        "ace-latin-20261105-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -15114,6 +15139,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261105-la-01",
         "ace-latin-20261105-co-01",
         "ace-2026-11-05-2",
         "ace-2026-11-05-1",
@@ -15152,8 +15178,7 @@
         "ace-custom-3180a9070c0e",
         "ace-latin-20261027-mx-05",
         "ace-latin-20261027-mx-04",
-        "ace-latin-20261027-mx-03",
-        "ace-latin-20261027-mx-02"
+        "ace-latin-20261027-mx-03"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
