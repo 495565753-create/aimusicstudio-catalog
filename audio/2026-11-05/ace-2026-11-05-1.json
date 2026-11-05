@@ -1,0 +1,12 @@
+{
+  "title": "把光留住 · 11-05",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-05T02:36:12Z",
+  "sha256": "57f687102b7abfb4261c3459665d637aedfef70e2218b76b471044fd121401a4",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
