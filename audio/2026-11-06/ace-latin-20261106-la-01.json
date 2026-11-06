@@ -1,0 +1,12 @@
+{
+  "title": "Cuando baje el ruido",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-06T00:52:46Z",
+  "sha256": "daf97c3b034bd5f14fac8f949303596741a9b66280b9dfdd9e5955f88b3ae6e4",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

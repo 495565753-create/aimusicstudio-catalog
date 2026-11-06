@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:42:37Z",
+  "generatedAt": "2026-11-06T00:52:46Z",
   "songs": [
+    {
+      "id": "ace-latin-20261106-la-01",
+      "title": "Cuando baje el ruido",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-06/ace-latin-20261106-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/e6d7e9f81d5b59e68c5c.jpg?v=827a694400",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-la-01.json",
+      "lyrics": "[Verse 1]\nApilé las respuestas sobre la mesa,\ncomo platos que no iba a lavar.\nHabía prometido estar en todas partes\ny ya no me encontraba en mi lugar.\n\n[Verse 2]\nDejé el teléfono junto a la ventana;\nla tarde entró sin pedir explicación.\nOí una bicicleta en la otra calle,\nel lento respirar de mi habitación.\n\n[Chorus]\nCuando baje el ruido, no te vayas: \nquiero aprender a hablar sin correr.\nLo que importa no reclama tanta prisa;\na veces sólo espera por volver.\nCuando baje el ruido, aquí me quedo,\ncon tiempo para oírte y para ser.\n\n[Verse 3]\nLlegaste sin noticia ni disculpa,\ntrajiste unas naranjas y un café.\nNo resolvimos todos los problemas,\npero cortamos una fruta entre los dos.\n\n[Chorus]\nCuando baje el ruido, no te vayas: \nquiero aprender a hablar sin correr.\nLo que importa no reclama tanta prisa;\na veces sólo espera por volver.\nCuando baje el ruido, aquí me quedo,\ncon tiempo para oírte y para ser.\n\n[Outro]\nLa ciudad siguió; nosotros, más despacio.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "拉丁波莱罗爵士",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-06T00:52:46Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261106-co-01",
       "title": "La libreta del tendero",
@@ -13866,7 +13890,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "10 首 · 本机 AI 原创",
+      "subtitle": "11 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -13879,7 +13903,8 @@
         "ace-latin-20261029-la-01",
         "ace-latin-20261030-la-01",
         "ace-latin-20261104-la-01",
-        "ace-latin-20261105-la-01"
+        "ace-latin-20261105-la-01",
+        "ace-latin-20261106-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -15239,6 +15264,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261106-la-01",
         "ace-latin-20261106-co-01",
         "ace-2026-11-06-2",
         "ace-2026-11-06-1",
@@ -15277,8 +15303,7 @@
         "ace-stories-20261027-es03",
         "ace-stories-20261027-es02",
         "ace-stories-20261027-es01",
-        "ace-2026-10-27-2",
-        "ace-2026-10-27-1"
+        "ace-2026-10-27-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
