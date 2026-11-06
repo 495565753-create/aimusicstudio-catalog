@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:52:46Z",
+  "generatedAt": "2026-11-06T00:59:49Z",
   "songs": [
+    {
+      "id": "ace-latin-20261106-mx-01",
+      "title": "La radio de la sierra",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-06/ace-latin-20261106-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/8aa82d19d73ed68b86ee.jpg?v=39856c747d",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-mx-01.json",
+      "lyrics": "[Verse 1]\nMi padre tenía una radio pequeña\ny un mapa doblado sobre el comedor.\nCuando la lluvia bajaba de la sierra,\navisaba a los vecinos por su voz.\n\n[Verse 2]\nYo sólo oía estática en la noche,\nquería oír canciones, no el temporal.\nÉl decía: hay quien cruza por el monte;\nsi sabe que llueve, podrá regresar.\n\n[Chorus]\nQue se encienda la radio de la sierra,\nque una voz alcance el otro lado.\nHay caminos que el agua nos cierra,\npero nadie tiene que cruzar callado.\nQue se encienda, que se encienda;\nun aviso también puede ser un abrazo.\n\n[Verse 3]\nAhora que él no está, subo al tejado\ncuando las nubes vuelven a crecer.\nEnciendo aquel aparato remendado;\nno sé su tono, pero sé qué hacer.\n\n[Chorus]\nQue se encienda la radio de la sierra,\nque una voz alcance el otro lado.\nHay caminos que el agua nos cierra,\npero nadie tiene que cruzar callado.\nQue se encienda, que se encienda;\nun aviso también puede ser un abrazo.\n\n[Outro]\nLa lluvia cae; alguien responde: aquí estoy.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 墨西哥",
+      "category": "墨西哥",
+      "style": "墨西哥北方民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-06T00:59:49Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261106-la-01",
       "title": "Cuando baje el ruido",
@@ -13867,7 +13891,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "10 首 · 本机 AI 原创",
+      "subtitle": "11 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -13880,7 +13904,8 @@
         "ace-latin-20261029-mx-01",
         "ace-latin-20261030-mx-01",
         "ace-latin-20261104-mx-01",
-        "ace-latin-20261105-mx-01"
+        "ace-latin-20261105-mx-01",
+        "ace-latin-20261106-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -15264,6 +15289,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261106-mx-01",
         "ace-latin-20261106-la-01",
         "ace-latin-20261106-co-01",
         "ace-2026-11-06-2",
@@ -15302,8 +15328,7 @@
         "ace-stories-20261027-es04",
         "ace-stories-20261027-es03",
         "ace-stories-20261027-es02",
-        "ace-stories-20261027-es01",
-        "ace-2026-10-27-2"
+        "ace-stories-20261027-es01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

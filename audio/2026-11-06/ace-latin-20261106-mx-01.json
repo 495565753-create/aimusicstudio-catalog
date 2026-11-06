@@ -1,0 +1,12 @@
+{
+  "title": "La radio de la sierra",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-06T00:59:49Z",
+  "sha256": "63bde09605ba649e9007f832f149049916a359b2c6291318670aa45f2b1282c5",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
