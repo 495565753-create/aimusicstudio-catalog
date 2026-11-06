@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:27:34Z",
+  "generatedAt": "2026-11-06T00:42:37Z",
   "songs": [
+    {
+      "id": "ace-latin-20261106-co-01",
+      "title": "La libreta del tendero",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-06/ace-latin-20261106-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-latin-20261106-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/5403f9b203d820d8d246.jpg?v=5fe7474eb9",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-latin-20261106-co-01.json",
+      "lyrics": "[Verse 1]\nEn la tienda de la esquina hay una libreta\ncon nombres escritos junto al arroz.\nDon Julián apunta sin hacer preguntas;\ndice: ya veremos cuando salga el sol.\n\n[Verse 2]\nLlegó una sequía que gastó la huerta;\nmi madre fue a pedirle un poco más.\nÉl dejó dos mangos dentro de la bolsa\ny no escribió su precio al terminar.\n\n[Chorus]\nNo cabe en la libreta lo que un pueblo guarda: \nla sombra de un árbol, un vaso de agua.\nSi un día falta pan, nos damos la mano;\nsi vuelve la cosecha, lo repartimos temprano.\nQue nadie tenga que esconder la cara\npor necesitar a alguien una mañana.\n\n[Verse 3]\nCuando hubo tomates, llevamos tres cajas.\nJulián tachó una deuda con carbón.\nLuego dejó la tiza encima de la mesa: \n«Hay quien vendrá mañana», nos contó.\n\n[Chorus]\nNo cabe en la libreta lo que un pueblo guarda: \nla sombra de un árbol, un vaso de agua.\nSi un día falta pan, nos damos la mano;\nsi vuelve la cosecha, lo repartimos temprano.\nQue nadie tenga que esconder la cara\npor necesitar a alguien una mañana.\n\n[Outro]\nCerró la tienda; quedó encendida la luz.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚昆比亚民谣",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-06T00:42:37Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-06-2",
       "title": "走向远方 · 11-06",
@@ -13865,7 +13889,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "10 首 · 本机 AI 原创",
+      "subtitle": "11 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -13878,7 +13902,8 @@
         "ace-latin-20261029-co-01",
         "ace-latin-20261030-co-01",
         "ace-latin-20261104-co-01",
-        "ace-latin-20261105-co-01"
+        "ace-latin-20261105-co-01",
+        "ace-latin-20261106-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -15214,6 +15239,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261106-co-01",
         "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-latin-20261105-mx-01",
@@ -15252,8 +15278,7 @@
         "ace-stories-20261027-es02",
         "ace-stories-20261027-es01",
         "ace-2026-10-27-2",
-        "ace-2026-10-27-1",
-        "ace-custom-3180a9070c0e"
+        "ace-2026-10-27-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

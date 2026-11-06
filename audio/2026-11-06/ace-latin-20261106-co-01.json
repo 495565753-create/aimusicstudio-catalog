@@ -1,0 +1,12 @@
+{
+  "title": "La libreta del tendero",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-06T00:42:37Z",
+  "sha256": "758f63ca1013b0fcf70b8330b7e2365946520a7ffaded7cf13b46849622f5671",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
