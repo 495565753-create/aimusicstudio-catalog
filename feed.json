@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:16:18Z",
+  "generatedAt": "2026-11-06T00:27:34Z",
   "songs": [
+    {
+      "id": "ace-2026-11-06-2",
+      "title": "走向远方 · 11-06",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-06/ace-2026-11-06-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-2026-11-06-2.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-06/ace-2026-11-06-2.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/16869f2c3f9a87f6fabf.jpg?v=8f7c498c58",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-2026-11-06-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-06/ace-2026-11-06-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n第一次看见你 我就知道\n这个人 我要好好对待\n你笑起来 眼睛弯成月亮\n我紧张得 一句话都说不完整\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n只要你在\n什么天气 我都觉得好\n只要你笑\n什么辛苦 我都愿意扛\n\n[Verse 2]\n\n你睡觉 总是抢我的被子\n我假装生气 其实很开心\n你记得我 所有的习惯\n连我什么时候会饿 你都知道\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "摇滚",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-06T00:27:34Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-2026-11-06-1",
       "title": "下一站春天 · 11-06",
@@ -14015,6 +14038,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-2026-11-05-2",
         "ace-2026-11-05-1",
@@ -15125,10 +15149,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "48 首 · 灵感音乐歌单",
+      "subtitle": "49 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-2026-11-05-2",
         "ace-2026-11-05-1",
@@ -15189,6 +15214,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-latin-20261105-mx-01",
         "ace-latin-20261105-la-01",
@@ -15227,8 +15253,7 @@
         "ace-stories-20261027-es01",
         "ace-2026-10-27-2",
         "ace-2026-10-27-1",
-        "ace-custom-3180a9070c0e",
-        "ace-latin-20261027-mx-05"
+        "ace-custom-3180a9070c0e"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
