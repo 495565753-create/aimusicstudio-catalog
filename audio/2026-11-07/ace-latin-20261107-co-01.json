@@ -1,0 +1,12 @@
+{
+  "title": "El puente de madera",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-07T01:58:31Z",
+  "sha256": "fde8be789de1648e4e607010f03327eb842141ac47f0f9afe4a217faf3698f6e",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

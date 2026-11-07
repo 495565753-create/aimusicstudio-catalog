@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T01:48:37Z",
+  "generatedAt": "2026-11-07T01:58:31Z",
   "songs": [
+    {
+      "id": "ace-latin-20261107-co-01",
+      "title": "El puente de madera",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-07/ace-latin-20261107-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-latin-20261107-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-latin-20261107-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/3db8a8d6afa0bc1b410f.jpg?v=ef3ce0837f",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-latin-20261107-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-latin-20261107-co-01.json",
+      "lyrics": "[Verse 1]\nEl puente de madera perdió dos tablas\nla noche en que la creciente llegó.\nDon Ernesto vino con clavos prestados,\nmidió el vacío y se arremangó.\n\n[Verse 2]\nYo le pregunté por qué lo reparaba\nsi ya vivía del lado del mercado.\nSeñaló la escuela tras la otra orilla: \n«Hay pies pequeños que aún no han pasado».\n\n[Chorus]\nPon otra tabla, acércame la mano;\nningún camino empieza de una vez.\nUn puente se sostiene por los pasos\nde quienes llegarán después de él.\nSi la corriente vuelve a hacerse grande,\nvolveremos también para volverlo a hacer.\n\n[Verse 3]\nAl fin cruzó una niña con sus libros,\nmiró hacia abajo y luego hacia el sol.\nErnesto no pidió que lo aplaudieran;\nguardó los clavos que sobraron, dos.\n\n[Chorus]\nPon otra tabla, acércame la mano;\nningún camino empieza de una vez.\nUn puente se sostiene por los pasos\nde quienes llegarán después de él.\nSi la corriente vuelve a hacerse grande,\nvolveremos también para volverlo a hacer.\n\n[Outro]\nLa niña lo cruzó sin mirar atrás.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚巴耶纳托民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-07T01:58:31Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-07-2",
       "title": "雨后的街道 · 11-07",
@@ -13985,7 +14009,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "11 首 · 本机 AI 原创",
+      "subtitle": "12 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -13999,7 +14023,8 @@
         "ace-latin-20261030-co-01",
         "ace-latin-20261104-co-01",
         "ace-latin-20261105-co-01",
-        "ace-latin-20261106-co-01"
+        "ace-latin-20261106-co-01",
+        "ace-latin-20261107-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -15339,6 +15364,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261107-co-01",
         "ace-2026-11-07-2",
         "ace-2026-11-07-1",
         "ace-latin-20261106-mx-01",
@@ -15377,8 +15403,7 @@
         "ace-stories-20261027-zh02",
         "ace-stories-20261027-zh01",
         "ace-stories-20261027-es05",
-        "ace-stories-20261027-es04",
-        "ace-stories-20261027-es03"
+        "ace-stories-20261027-es04"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
