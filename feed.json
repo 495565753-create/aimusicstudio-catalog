@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T02:05:02Z",
+  "generatedAt": "2026-11-07T02:09:49Z",
   "songs": [
+    {
+      "id": "ace-latin-20261107-mx-01",
+      "title": "El grano que quedó",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-07/ace-latin-20261107-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-latin-20261107-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-latin-20261107-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/7d0a7c19d277c959258f.jpg?v=f26e83dc95",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-latin-20261107-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-latin-20261107-mx-01.json",
+      "lyrics": "[Verse 1]\nMi madre abrió una caja de madera\ncuando el verano nos dejó sin maíz.\nDentro dormían siete granos viejos,\nenvueltos en papel color añil.\n\n[Verse 2]\nQuise molerlos para aquella cena;\nella me dijo: espera hasta llover.\nPusimos frijol negro sobre el fuego\ny a los pequeños les contó por qué.\n\n[Chorus]\nNo se come la semilla del mañana,\naunque esta noche el hambre hable muy fuerte.\nLa tierra guarda lo que hoy le confiamos;\nvolverá en hojas lo que parecía ausente.\nNo se come la semilla del mañana;\nla cuidaremos hasta verla crecer.\n\n[Verse 3]\nLlovió en octubre, poco y a destiempo.\nHicimos surcos junto al paredón.\nDe siete granos nacieron cinco tallos;\ncuatro darán la cena; uno, otra siembra.\n\n[Chorus]\nNo se come la semilla del mañana,\naunque esta noche el hambre hable muy fuerte.\nLa tierra guarda lo que hoy le confiamos;\nvolverá en hojas lo que parecía ausente.\nNo se come la semilla del mañana;\nla cuidaremos hasta verla crecer.\n\n[Outro]\nEl quinto guarda el nombre de otro abril.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 墨西哥",
+      "category": "墨西哥",
+      "style": "墨西哥民谣瓦潘戈",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-07T02:09:49Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261107-la-01",
       "title": "A la mujer que fui",
@@ -13985,7 +14009,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "11 首 · 本机 AI 原创",
+      "subtitle": "12 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -13999,7 +14023,8 @@
         "ace-latin-20261030-mx-01",
         "ace-latin-20261104-mx-01",
         "ace-latin-20261105-mx-01",
-        "ace-latin-20261106-mx-01"
+        "ace-latin-20261106-mx-01",
+        "ace-latin-20261107-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -15389,6 +15414,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261107-mx-01",
         "ace-latin-20261107-la-01",
         "ace-latin-20261107-co-01",
         "ace-2026-11-07-2",
@@ -15427,8 +15453,7 @@
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
-        "ace-stories-20261027-zh01",
-        "ace-stories-20261027-es05"
+        "ace-stories-20261027-zh01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

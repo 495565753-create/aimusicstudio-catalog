@@ -1,0 +1,12 @@
+{
+  "title": "El grano que quedó",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-07T02:09:49Z",
+  "sha256": "99bfe185efeccfb9631cebc5350d3024d57629df74d01e859fa4ff17f521291f",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
