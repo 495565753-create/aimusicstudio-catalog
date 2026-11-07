@@ -1,0 +1,12 @@
+{
+  "title": "A la mujer que fui",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-07T02:05:02Z",
+  "sha256": "f05bd072fad49fac2e1cbc1da1dc9288a38b1a5eaf95dc19c5d4136ab390408a",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
