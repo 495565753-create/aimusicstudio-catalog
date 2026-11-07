@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:59:49Z",
+  "generatedAt": "2026-11-07T01:41:29Z",
   "songs": [
+    {
+      "id": "ace-2026-11-07-1",
+      "title": "城市的回声 · 11-07",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-07/ace-2026-11-07-1.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-2026-11-07-1.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-07/ace-2026-11-07-1.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/a925f84e0033f7e9e6e7.jpg?v=710c9f58ba",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-2026-11-07-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-07/ace-2026-11-07-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n这座城市的窗外的风景 亮了一整晚\n我一个人 走在回家的路上\n手机里 你的消息还没回\n我就站着 把每条街都看了一遍\n\n[Pre-Chorus]\n\n我不敢保证 天天开心\n但我保证 天天都在\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Verse 2]\n\n你说喜欢吃 巷口那一家的面\n我每次都记得 帮你多加青菜\n你笑我 记性其实很好\n我说对你 我当然要认真\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n你 你看看我\n有你在的地方 就是我的家\n你 你靠近一点\n我会一直 站在你旁边\n\n[Outro]\n\n（我一直在）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "电子",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-07T01:41:28Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-latin-20261106-mx-01",
       "title": "La radio de la sierra",
@@ -14113,6 +14136,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-11-07-1",
         "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-2026-11-05-2",
@@ -15224,10 +15248,11 @@
     {
       "id": "playlist-mandarin",
       "title": "华语原创",
-      "subtitle": "49 首 · 灵感音乐歌单",
+      "subtitle": "50 首 · 灵感音乐歌单",
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-11-07-1",
         "ace-2026-11-06-2",
         "ace-2026-11-06-1",
         "ace-2026-11-05-2",
@@ -15289,6 +15314,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-11-07-1",
         "ace-latin-20261106-mx-01",
         "ace-latin-20261106-la-01",
         "ace-latin-20261106-co-01",
@@ -15327,8 +15353,7 @@
         "ace-stories-20261027-es05",
         "ace-stories-20261027-es04",
         "ace-stories-20261027-es03",
-        "ace-stories-20261027-es02",
-        "ace-stories-20261027-es01"
+        "ace-stories-20261027-es02"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
