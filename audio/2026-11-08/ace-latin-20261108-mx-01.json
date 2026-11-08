@@ -1,0 +1,12 @@
+{
+  "title": "Las marcas de la pared",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-08T04:47:12Z",
+  "sha256": "df4883a71f671807747318c09c9d638e4628cda6f7d1f5f6ec886e3807cd946c",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
