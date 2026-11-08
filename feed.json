@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T04:37:47Z",
+  "generatedAt": "2026-11-08T04:40:48Z",
   "songs": [
+    {
+      "id": "ace-latin-20261108-co-01",
+      "title": "La cancha de tierra",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-08/ace-latin-20261108-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-08/ace-latin-20261108-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-08/ace-latin-20261108-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/4da20f175e775fa82495.jpg?v=e90acdec96",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-08/ace-latin-20261108-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-08/ace-latin-20261108-co-01.json",
+      "lyrics": "[Verse 1]\nLa cancha era un cuadrado entre dos muros,\ncon piedras que servían de portería.\nYo llegaba de coser con los zapatos\nque a mi hermano ya no le cabían.\n\n[Verse 2]\nMe decían que el partido era de ellos.\nPuse el balón al pie y eché a correr.\nFallé tres tiros frente a todo el barrio;\nal cuarto alguien gritó: vuelve otra vez.\n\n[Chorus]\nEn la cancha de tierra nadie nace estrella,\nse aprende a caer y a levantar el pie.\nSi una niña pide sitio, abre la rueda;\nque el juego crece cuando aprendes a ceder.\nQue suene el tambor desde la acera;\nmañana otra niña aprenderá a correr.\n\n[Verse 3]\nHoy traigo dos balones y unas tizas;\nlas niñas marcan líneas al llegar.\nLe enseño a una pequeña a detenerlo;\nme enseña a no tener miedo de fallar.\n\n[Chorus]\nEn la cancha de tierra nadie nace estrella,\nse aprende a caer y a levantar el pie.\nSi una niña pide sitio, abre la rueda;\nque el juego crece cuando aprendes a ceder.\nQue suene el tambor desde la acera;\nmañana otra niña aprenderá a correr.\n\n[Outro]\nLa tiza se hace polvo; el juego, no.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚波罗节奏",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-08T04:40:48Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-08-2",
       "title": "海边的灯 · 11-08",
@@ -14105,7 +14129,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "12 首 · 本机 AI 原创",
+      "subtitle": "13 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -14120,7 +14144,8 @@
         "ace-latin-20261104-co-01",
         "ace-latin-20261105-co-01",
         "ace-latin-20261106-co-01",
-        "ace-latin-20261107-co-01"
+        "ace-latin-20261107-co-01",
+        "ace-latin-20261108-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -15464,6 +15489,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261108-co-01",
         "ace-2026-11-08-2",
         "ace-2026-11-08-1",
         "ace-latin-20261107-mx-01",
@@ -15502,8 +15528,7 @@
         "ace-2026-10-28-2",
         "ace-2026-10-28-1",
         "ace-stories-20261027-zh05",
-        "ace-stories-20261027-zh04",
-        "ace-stories-20261027-zh03"
+        "ace-stories-20261027-zh04"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

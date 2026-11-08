@@ -1,0 +1,12 @@
+{
+  "title": "La cancha de tierra",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-08T04:40:48Z",
+  "sha256": "14c8454ffc4c97675fd5a7b861700c9e17a23e5f7146521df829fe643044db24",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
