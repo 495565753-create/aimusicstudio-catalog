@@ -1,0 +1,12 @@
+{
+  "title": "La maleta sin etiqueta",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-08T04:43:20Z",
+  "sha256": "108f03067e476b44a98d6b8e7a0ae757aa5e6aa556e9afd418ec7b380adf6dc7",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
