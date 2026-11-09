@@ -1,0 +1,12 @@
+{
+  "title": "El cuaderno de la escuela",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-09T00:07:39Z",
+  "sha256": "e4b2583b30aed87f98524c4f203faa81b9853ca548ec6a60a468ed522586b1ee",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
