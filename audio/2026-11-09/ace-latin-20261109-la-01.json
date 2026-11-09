@@ -1,0 +1,12 @@
+{
+  "title": "La receta compartida",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-09T00:09:39Z",
+  "sha256": "9e409b70a97c58a971d592dadc24aceda17bcee27f001872a4e83e67eb76f978",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
