@@ -1,0 +1,12 @@
+{
+  "title": "La sombra del nopal",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-09T00:11:46Z",
+  "sha256": "8f05beb819461df8ad1a7893173dd65021dc7322e0c3bdc62193718a9565a4e0",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
