@@ -1,0 +1,12 @@
+{
+  "title": "La lluvia en el patio",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-10T00:54:08Z",
+  "sha256": "e57551f508d838c7718959f0e70a8c4b2fabdf28cf5206f2432efce960b2539a",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

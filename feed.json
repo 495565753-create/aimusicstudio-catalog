@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T00:52:10Z",
+  "generatedAt": "2026-11-10T00:54:08Z",
   "songs": [
+    {
+      "id": "ace-latin-20261110-mx-01",
+      "title": "La lluvia en el patio",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-10/ace-latin-20261110-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-10/ace-latin-20261110-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-10/ace-latin-20261110-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/26e8fb92aed19901d519.jpg?v=b5dd74be2a",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-10/ace-latin-20261110-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-10/ace-latin-20261110-mx-01.json",
+      "lyrics": "[Verse 1]\nLa lluvia llegó después de meses,\nmi madre puso cubos en el patio.\nNo dijo que la tierra estaba seca;\nla vimos beber en silencio despacio.\n\n[Verse 2]\nEl vecino abrió la vieja acequia,\nmi hermano fue a limpiar el canal.\nLa calle entera dejó sus tareas;\nel agua encontró por dónde pasar.\n\n[Chorus]\nCuando la lluvia vuelve a la casa,\nno pregunta quién abrió el portón.\nCada mano que aparta una piedra\nhace sitio a la misma canción.\nLo que el cielo nos da por un rato\nse conserva al cuidar lo común.\n\n[Verse 3]\nAl alba sembramos junto a la barda;\nmi madre guardó agua para el jazmín.\nEl patio olía a barro y a esperanza,\ny el día aprendía a empezar otra vez.\n\n[Chorus]\nCuando la lluvia vuelve a la casa,\nno pregunta quién abrió el portón.\nCada mano que aparta una piedra\nhace sitio a la misma canción.\n\n[Outro]\nLa tierra recuerda quién la cuidó.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 墨西哥",
+      "category": "墨西哥",
+      "style": "墨西哥马里亚奇民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-10T00:54:08Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261110-la-01",
       "title": "La casa de las voces",
@@ -14339,7 +14363,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "14 首 · 本机 AI 原创",
+      "subtitle": "15 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -14356,7 +14380,8 @@
         "ace-latin-20261106-mx-01",
         "ace-latin-20261107-mx-01",
         "ace-latin-20261108-mx-01",
-        "ace-latin-20261109-mx-01"
+        "ace-latin-20261109-mx-01",
+        "ace-latin-20261110-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -15764,6 +15789,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261110-mx-01",
         "ace-latin-20261110-la-01",
         "ace-latin-20261110-co-01",
         "ace-2026-11-10-2",
@@ -15802,8 +15828,7 @@
         "ace-latin-20261030-la-01",
         "ace-latin-20261030-co-01",
         "ace-2026-10-30-2",
-        "ace-2026-10-30-1",
-        "ace-latin-20261029-mx-01"
+        "ace-2026-10-30-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
