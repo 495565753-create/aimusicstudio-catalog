@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T00:47:05Z",
+  "generatedAt": "2026-11-10T00:50:22Z",
   "songs": [
+    {
+      "id": "ace-latin-20261110-co-01",
+      "title": "La tienda de las cinco",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-10/ace-latin-20261110-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-10/ace-latin-20261110-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-10/ace-latin-20261110-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/f299720872e1863a92df.jpg?v=a287fed47c",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-10/ace-latin-20261110-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-10/ace-latin-20261110-co-01.json",
+      "lyrics": "[Verse 1]\nA las cinco abría Rosa la tienda,\ncuando el cielo aún no sabía aclarar.\nVendía café, jabón y paciencia\na quien iba temprano a trabajar.\n\n[Verse 2]\nUn muchacho compraba una sola arepa,\ncontando las monedas al pagar.\nRosa le daba otra envuelta en papel:\n«Mañana tendrás tiempo de invitar».\n\n[Chorus]\nHay cuentas que no caben en la libreta,\nni favores que se puedan devolver.\nLa bondad no hace ruido en la puerta;\ndeja el día un poco más ligero al caer.\n\n[Verse 3]\nAños después volvió con su hija,\ncompró el desayuno para el personal.\nRosa sonrió detrás de la vitrina;\nla calle ya empezaba a despertar.\n\n[Chorus]\nHay cuentas que no caben en la libreta,\nni favores que se puedan devolver.\nLa bondad no hace ruido en la puerta;\ndeja el día un poco más ligero al caer.\n\n[Outro]\nA las cinco, la luz vuelve a encender.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚瓦耶纳托",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-10T00:50:22Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-10-2",
       "title": "下一站春天 · 11-10",
@@ -14345,7 +14369,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "14 首 · 本机 AI 原创",
+      "subtitle": "15 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -14362,7 +14386,8 @@
         "ace-latin-20261106-co-01",
         "ace-latin-20261107-co-01",
         "ace-latin-20261108-co-01",
-        "ace-latin-20261109-co-01"
+        "ace-latin-20261109-co-01",
+        "ace-latin-20261110-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -15714,6 +15739,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261110-co-01",
         "ace-2026-11-10-2",
         "ace-2026-11-10-1",
         "ace-latin-20261109-mx-01",
@@ -15752,8 +15778,7 @@
         "ace-2026-10-30-2",
         "ace-2026-10-30-1",
         "ace-latin-20261029-mx-01",
-        "ace-latin-20261029-la-01",
-        "ace-latin-20261029-co-01"
+        "ace-latin-20261029-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

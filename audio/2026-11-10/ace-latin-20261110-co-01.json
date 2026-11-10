@@ -1,0 +1,12 @@
+{
+  "title": "La tienda de las cinco",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-10T00:50:22Z",
+  "sha256": "bfcee1fa8a26d10ef31c6fac92c5ef40e8da916e555c7f38fa5e56aa469be3b9",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
