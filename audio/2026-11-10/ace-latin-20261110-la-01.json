@@ -1,0 +1,12 @@
+{
+  "title": "La casa de las voces",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-10T00:52:10Z",
+  "sha256": "79808be17247deb5118407006f905d7063aaf03bd2ac0a57a31ff4358d9a2f64",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
