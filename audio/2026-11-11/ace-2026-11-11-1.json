@@ -1,0 +1,12 @@
+{
+  "title": "雨后的街道 · 11-11",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-11T00:05:57Z",
+  "sha256": "f0cd2c4998b0620e446abca2d36884e76ec98b929db1aa173d63d8adaa15a3f2",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
