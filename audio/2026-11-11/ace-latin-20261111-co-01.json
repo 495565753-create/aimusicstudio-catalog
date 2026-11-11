@@ -1,0 +1,12 @@
+{
+  "title": "El taller de las cometas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-11T00:14:57Z",
+  "sha256": "62236ce54d1a1c60d27dad32ddd144bc8b4194314222ef4ad31a61d1840d6909",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
