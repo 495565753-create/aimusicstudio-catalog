@@ -1,0 +1,12 @@
+{
+  "title": "El mapa de la lluvia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-11T00:21:46Z",
+  "sha256": "978c4ac49fe27eba6a9080551a8a94cca41aac33a1c5ea5a80d400d280b8e4f4",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
