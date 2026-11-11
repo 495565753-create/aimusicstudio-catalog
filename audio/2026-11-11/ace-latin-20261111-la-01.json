@@ -1,0 +1,12 @@
+{
+  "title": "El cuarto de las cartas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-11T00:18:11Z",
+  "sha256": "893ff64cd4b230b8282b2ec414520abd27b0861ba1cbec67ebe6d095f4ca9462",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
