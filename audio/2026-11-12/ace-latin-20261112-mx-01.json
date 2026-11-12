@@ -1,0 +1,12 @@
+{
+  "title": "La casa del naranjo",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-12T00:17:57Z",
+  "sha256": "933b9a49deabbb2c95e7c107962b3503b11b7e47960e027d2294d1383cb459ba",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
