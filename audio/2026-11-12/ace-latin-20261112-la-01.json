@@ -1,0 +1,12 @@
+{
+  "title": "El idioma de la mesa",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-12T00:15:49Z",
+  "sha256": "c3b48c50d292edfa70f2cd7c5a5ca96d5206b17ec225728c7984b06e17f9e3be",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
