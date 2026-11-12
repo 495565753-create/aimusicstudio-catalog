@@ -1,0 +1,12 @@
+{
+  "title": "La última banca",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-12T00:12:55Z",
+  "sha256": "939a9a1e6653870c96d9c35c57ac6341f0e74797523ef7aa6f1ab4f0d64fca80",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
