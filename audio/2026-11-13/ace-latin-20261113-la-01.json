@@ -1,0 +1,12 @@
+{
+  "title": "El hilo de la conversación",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-13T00:08:56Z",
+  "sha256": "236166794b005f51a04a401d77d60492fbf542195723d66beff5eb648fb9b622",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
