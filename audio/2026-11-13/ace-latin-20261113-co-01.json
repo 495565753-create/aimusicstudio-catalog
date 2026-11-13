@@ -1,0 +1,12 @@
+{
+  "title": "La ventana del aula",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-13T00:06:57Z",
+  "sha256": "1e2e458159c0e1392cd278bda9b8dcb808764fb9c8d66b159bfa00f7984e3464",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
