@@ -1,0 +1,12 @@
+{
+  "title": "La campana del taller",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-13T00:10:58Z",
+  "sha256": "fa7192954fc996fef3c9911f389709024e0a853afafd59aac52bfdb5b5213670",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
