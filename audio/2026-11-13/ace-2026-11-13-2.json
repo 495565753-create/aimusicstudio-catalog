@@ -1,0 +1,12 @@
+{
+  "title": "晚风来信 · 11-13",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-13T00:03:17Z",
+  "sha256": "eea09dc8f3e8fed274618535aeeefa878b4cb6ba7688e55853bdf445fca4534c",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
