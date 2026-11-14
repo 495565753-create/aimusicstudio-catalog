@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T00:12:19Z",
+  "generatedAt": "2026-11-14T00:14:11Z",
   "songs": [
+    {
+      "id": "ace-latin-20261114-la-01",
+      "title": "La casa que hicimos hablando",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-14/ace-latin-20261114-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-14/ace-latin-20261114-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-14/ace-latin-20261114-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/9b7fce25b96d81e8a025.jpg?v=f05f5472c0",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-14/ace-latin-20261114-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-14/ace-latin-20261114-la-01.json",
+      "lyrics": "[Verse 1]\nAlquilamos un cuarto con dos sillas,\nuna lámpara y un colchón.\nNo teníamos cuadros ni dinero,\npero sobraban historias en la voz.\n\n[Verse 2]\nTú contabas las calles de tu infancia;\nyo, el patio donde aprendí a nadar.\nCada noche movíamos las sillas\npara que otro pudiera cenar.\n\n[Chorus]\nUna casa también se levanta hablando,\ncon la puerta abierta y la mesa en paz.\nNo la hacen los muros ni las fotografías:\nla hacen quienes vuelven y quienes se van.\n\n[Verse 3]\nHoy cambiaron las sillas, llegó una ventana,\nla lámpara alumbra otro rincón.\nAún contamos historias por la noche;\ny en cada relato cabe alguien más.\n\n[Chorus]\nUna casa también se levanta hablando,\ncon la puerta abierta y la mesa en paz.\n\n[Outro]\nEl cuarto es distinto; la voz, hogar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "拉丁波莱罗",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-14T00:14:11Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261114-co-01",
       "title": "El mercado al cerrar",
@@ -14818,7 +14842,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "18 首 · 本机 AI 原创",
+      "subtitle": "19 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -14839,7 +14863,8 @@
         "ace-latin-20261110-la-01",
         "ace-latin-20261111-la-01",
         "ace-latin-20261112-la-01",
-        "ace-latin-20261113-la-01"
+        "ace-latin-20261113-la-01",
+        "ace-latin-20261114-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -16234,6 +16259,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261114-la-01",
         "ace-latin-20261114-co-01",
         "ace-2026-11-14-2",
         "ace-2026-11-14-1",
@@ -16272,8 +16298,7 @@
         "ace-latin-20261107-co-01",
         "ace-2026-11-07-2",
         "ace-2026-11-07-1",
-        "ace-latin-20261106-mx-01",
-        "ace-latin-20261106-la-01"
+        "ace-latin-20261106-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

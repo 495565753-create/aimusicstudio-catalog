@@ -1,0 +1,12 @@
+{
+  "title": "La casa que hicimos hablando",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-14T00:14:11Z",
+  "sha256": "271e3d8239cbdc06feb92d8ecceddd2f0c9e5acc8d5160eb11649a0cd3dcd7b6",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
