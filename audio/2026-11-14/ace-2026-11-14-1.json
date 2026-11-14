@@ -1,0 +1,12 @@
+{
+  "title": "下一站春天 · 11-14",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-14T00:06:02Z",
+  "sha256": "801cc84352337697090e5cb61195e81e466275aaddc2ebe58eaaaac305f187d9",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
