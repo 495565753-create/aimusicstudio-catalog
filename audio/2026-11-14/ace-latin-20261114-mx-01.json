@@ -1,0 +1,12 @@
+{
+  "title": "El libro de las mareas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-14T00:16:28Z",
+  "sha256": "776b9a0f6937325577fd681e400992966fd3e53dc90bcc7f21f6ab4362a11f69",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
