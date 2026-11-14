@@ -1,0 +1,12 @@
+{
+  "title": "El mercado al cerrar",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-14T00:12:18Z",
+  "sha256": "dbe3db1743c9f7037cb924d540178d8d855b6c45823de0bebde8c3ca416304fb",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

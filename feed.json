@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T00:08:23Z",
+  "generatedAt": "2026-11-14T00:12:19Z",
   "songs": [
+    {
+      "id": "ace-latin-20261114-co-01",
+      "title": "El mercado al cerrar",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-14/ace-latin-20261114-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-14/ace-latin-20261114-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-14/ace-latin-20261114-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/31a9828c8e47f0f49c22.jpg?v=a24d773d51",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-14/ace-latin-20261114-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-14/ace-latin-20261114-co-01.json",
+      "lyrics": "[Verse 1]\nCuando el mercado cierra sus toldos,\nqueda una naranja junto al umbral.\nLa recoge Ana, que barre la plaza;\nla lava en la fuente y la parte en paz.\n\n[Verse 2]\nUn músico guarda su caja vacía,\nun vendedor vuelve a contar.\nAna reparte los trozos pequeños\na quienes aún tienen que caminar.\n\n[Chorus]\nAl terminar el día, mira alrededor:\nsi queda algo bueno, compártelo hoy.\nNo alcanza a cambiar el precio del mundo,\npero cambia el camino de quien lo recibió.\n\n[Verse 3]\nMañana pondrán otra vez las mesas,\nla fruta, los panes, el mismo rumor.\nAna regresa con la escoba al hombro;\nla plaza despierta con otro color.\n\n[Chorus]\nAl terminar el día, mira alrededor:\nsi queda algo bueno, compártelo hoy.\n\n[Outro]\nLa naranja dejó su olor.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 哥伦比亚",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚坎比亚",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-14T00:12:18Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-14-2",
       "title": "走向远方 · 11-14",
@@ -14825,7 +14849,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "18 首 · 本机 AI 原创",
+      "subtitle": "19 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -14846,7 +14870,8 @@
         "ace-latin-20261110-co-01",
         "ace-latin-20261111-co-01",
         "ace-latin-20261112-co-01",
-        "ace-latin-20261113-co-01"
+        "ace-latin-20261113-co-01",
+        "ace-latin-20261114-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -16209,6 +16234,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261114-co-01",
         "ace-2026-11-14-2",
         "ace-2026-11-14-1",
         "ace-latin-20261113-mx-01",
@@ -16247,8 +16273,7 @@
         "ace-2026-11-07-2",
         "ace-2026-11-07-1",
         "ace-latin-20261106-mx-01",
-        "ace-latin-20261106-la-01",
-        "ace-latin-20261106-co-01"
+        "ace-latin-20261106-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
