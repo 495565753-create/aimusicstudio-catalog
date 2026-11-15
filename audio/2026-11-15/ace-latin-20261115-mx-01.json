@@ -1,0 +1,12 @@
+{
+  "title": "El reloj de la estación",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-15T00:15:04Z",
+  "sha256": "e4f5270ad4e07fb94123a04273f18b63dbd3bb5395b140deceaf3303acaaee1b",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
