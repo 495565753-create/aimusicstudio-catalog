@@ -1,0 +1,12 @@
+{
+  "title": "La receta del río",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-15T00:08:40Z",
+  "sha256": "97353d370be34bf5d4ee2b5b0821a59e15f4f0acb3b0c0d5361b801c5d42056e",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
