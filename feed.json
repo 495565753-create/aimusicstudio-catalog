@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T00:08:40Z",
+  "generatedAt": "2026-11-15T00:12:24Z",
   "songs": [
+    {
+      "id": "ace-latin-20261115-la-01",
+      "title": "Un nombre para el silencio",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-15/ace-latin-20261115-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-15/ace-latin-20261115-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-15/ace-latin-20261115-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/22ca1478c40280923d27.jpg?v=8c1b68890a",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-15/ace-latin-20261115-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-15/ace-latin-20261115-la-01.json",
+      "lyrics": "[Verse 1]\nEn la sala dejamos un espacio\npara aquello que no supimos nombrar.\nNo era pena, ni tampoco olvido;\nera el tiempo aprendiendo a descansar.\n\n[Verse 2]\nTú pusiste dos tazas en la mesa,\ny la tarde se sentó junto a los dos.\nHablamos de lo simple: pan y lluvia,\nde la planta que volvió a dar una flor.\n\n[Chorus]\nDale un nombre al silencio si puedes;\nsi no, déjalo respirar.\nNo toda respuesta llega en palabras;\na veces basta con quedarse acá.\n\n[Verse 3]\nAl final abrimos las ventanas;\nla ciudad entró sin preguntar.\nEl espacio siguió entre nosotros,\npero dejó de ser un muro al pasar.\n\n[Chorus]\nDale un nombre al silencio si puedes;\nsi no, déjalo respirar.\n\n[Outro]\nY la casa aprendió a escuchar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日原创 · 拉丁",
+      "category": "拉丁",
+      "style": "拉丁波莱罗",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-15T00:12:24Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261115-co-01",
       "title": "La receta del río",
@@ -14937,7 +14961,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "19 首 · 本机 AI 原创",
+      "subtitle": "20 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -14959,7 +14983,8 @@
         "ace-latin-20261111-la-01",
         "ace-latin-20261112-la-01",
         "ace-latin-20261113-la-01",
-        "ace-latin-20261114-la-01"
+        "ace-latin-20261114-la-01",
+        "ace-latin-20261115-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -16357,6 +16382,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261115-la-01",
         "ace-latin-20261115-co-01",
         "ace-2026-11-15-2",
         "ace-2026-11-15-1",
@@ -16395,8 +16421,7 @@
         "ace-latin-20261108-co-01",
         "ace-2026-11-08-2",
         "ace-2026-11-08-1",
-        "ace-latin-20261107-mx-01",
-        "ace-latin-20261107-la-01"
+        "ace-latin-20261107-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

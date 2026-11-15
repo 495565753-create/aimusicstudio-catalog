@@ -1,0 +1,12 @@
+{
+  "title": "Un nombre para el silencio",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-15T00:12:24Z",
+  "sha256": "ed403ca23dc2e4945eeff39a9fd3cbee6593b2a2e25914e00cdef21ae1499fca",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
