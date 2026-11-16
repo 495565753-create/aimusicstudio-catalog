@@ -1,0 +1,12 @@
+{
+  "title": "La brújula del polvo",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-16T00:15:26Z",
+  "sha256": "609d321dfcd7d9ec009cf18f9120c294eb9cb47711f1c052ef008ce37e3e8010",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
