@@ -1,0 +1,12 @@
+{
+  "title": "La casa de la lluvia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-16T00:11:00Z",
+  "sha256": "162944a2e1ab5d69bfb858afcec750f57844b5b685c9c09ce62a3e44bba9213e",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
