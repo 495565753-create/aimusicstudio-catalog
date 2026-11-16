@@ -1,0 +1,12 @@
+{
+  "title": "Un idioma de ventanas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-16T00:13:01Z",
+  "sha256": "b5f6af2925f6b229d9dd92abd104721f1a4ff93bbf10535ac5ca3b32469642bd",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

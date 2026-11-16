@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T00:11:01Z",
+  "generatedAt": "2026-11-16T00:13:01Z",
   "songs": [
+    {
+      "id": "ace-latin-20261116-la-01",
+      "title": "Un idioma de ventanas",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-16/ace-latin-20261116-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-16/ace-latin-20261116-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-16/ace-latin-20261116-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/c279546a80c39b543c63.jpg?v=fcd5bb18c0",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-16/ace-latin-20261116-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-16/ace-latin-20261116-la-01.json",
+      "lyrics": "[Verso 1]\nCada ventana conserva una luz,\nuna pregunta que no hice por ti.\nLa calle dobla su viejo papel,\ny el tiempo aprende a pronunciar la piel.\n\n[Pre-Coro]\nNo todo silencio se debe llenar,\nhay cosas que el alma termina al mirar.\n\n[Coro]\nHablemos en idioma de ventanas,\nde luces que se encienden sin razón;\nla noche pone el mundo entre las manos,\ny el día nos devuelve la canción.\n\n[Verso 2]\nTu taza vacía descansa en abril,\nla sombra del patio se queda a vivir.\nNo guardo promesas por miedo a perder,\nguardo lo aprendido para florecer.\n\n[Puente]\nSi el amor cambia el modo de estar,\ntambién deja una puerta al pasar.\n\n[Coro]\nHablemos en idioma de ventanas,\nde luces que se encienden sin razón;\nla noche pone el mundo entre las manos,\ny el día nos devuelve la canción.\n\n[Outro]\nUna luz, y empieza otra canción.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁波莱罗爵士",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-16T00:13:01Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261116-co-01",
       "title": "La casa de la lluvia",
@@ -15056,7 +15080,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "20 首 · 本机 AI 原创",
+      "subtitle": "21 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -15079,7 +15103,8 @@
         "ace-latin-20261112-la-01",
         "ace-latin-20261113-la-01",
         "ace-latin-20261114-la-01",
-        "ace-latin-20261115-la-01"
+        "ace-latin-20261115-la-01",
+        "ace-latin-20261116-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -16480,6 +16505,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261116-la-01",
         "ace-latin-20261116-co-01",
         "ace-2026-11-16-2",
         "ace-2026-11-16-1",
@@ -16518,8 +16544,7 @@
         "ace-latin-20261109-co-01",
         "ace-2026-11-09-2",
         "ace-2026-11-09-1",
-        "ace-latin-20261108-mx-01",
-        "ace-latin-20261108-la-01"
+        "ace-latin-20261108-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
