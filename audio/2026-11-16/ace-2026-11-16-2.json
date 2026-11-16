@@ -1,0 +1,12 @@
+{
+  "title": "海边的灯 · 11-16",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-16T00:06:22Z",
+  "sha256": "66d50c07dcf6b28a20a379073b7788e7d83e75b1983dd6964e7939782635c2b8",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
