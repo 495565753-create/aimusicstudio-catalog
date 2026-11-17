@@ -1,0 +1,12 @@
+{
+  "title": "La ciudad que escucha",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-17T00:13:20Z",
+  "sha256": "62125562fdc6fb839eefa2bf0e21f340bf4af321f9e0ffb9ddeaccff9a658e77",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
