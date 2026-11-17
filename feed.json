@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T00:13:20Z",
+  "generatedAt": "2026-11-17T00:15:43Z",
   "songs": [
+    {
+      "id": "ace-latin-20261117-mx-01",
+      "title": "El oficio de la luz",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-17/ace-latin-20261117-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-latin-20261117-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-latin-20261117-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/9b6d9b1db80a653dde12.jpg?v=97b6eefc53",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-latin-20261117-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-latin-20261117-mx-01.json",
+      "lyrics": "[Verso 1]\nEl hombre que barre la plaza al salir\nconoce las huellas que deja el país;\nrecoge una risa, una hoja, un papel,\ny guarda en silencio lo frágil de ayer.\n\n[Pre-Coro]\nNo es poco cuidar lo que nadie ve,\nponer una silla y ofrecer café.\n\n[Coro]\nHay un oficio callado en la luz,\nser lámpara breve donde falta el sur.\nSi el mundo se olvida de quién lo sostuvo,\nla mano que ayuda recuerda el rumbo.\n\n[Verso 2]\nLa niña pregunta por qué hay que partir;\nél dice: hay raíces que saben seguir.\nLe entrega una llave, sin puerta ni hogar:\n«abre tus preguntas, aprende a mirar».\n\n[Puente]\nLo que damos no pide un altar,\npero cambia el lugar al pasar.\n\n[Coro]\nHay un oficio callado en la luz,\nser lámpara breve donde falta el sur.\nSi el mundo se olvida de quién lo sostuvo,\nla mano que ayuda recuerda el rumbo.\n\n[Outro]\nY en cada cuidado renace la luz.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥 ranchera lenta",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-17T00:15:43Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261117-la-01",
       "title": "La ciudad que escucha",
@@ -15165,7 +15189,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "21 首 · 本机 AI 原创",
+      "subtitle": "22 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -15189,7 +15213,8 @@
         "ace-latin-20261113-mx-01",
         "ace-latin-20261114-mx-01",
         "ace-latin-20261115-mx-01",
-        "ace-latin-20261116-mx-01"
+        "ace-latin-20261116-mx-01",
+        "ace-latin-20261117-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -16628,6 +16653,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261117-mx-01",
         "ace-latin-20261117-la-01",
         "ace-latin-20261117-co-01",
         "ace-2026-11-17-2",
@@ -16666,8 +16692,7 @@
         "ace-latin-20261110-la-01",
         "ace-latin-20261110-co-01",
         "ace-2026-11-10-2",
-        "ace-2026-11-10-1",
-        "ace-latin-20261109-mx-01"
+        "ace-2026-11-10-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

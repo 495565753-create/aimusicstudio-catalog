@@ -1,0 +1,12 @@
+{
+  "title": "El oficio de la luz",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-17T00:15:43Z",
+  "sha256": "2fd5c4f7d44911d1f21ef01bda2cab0e0524a1bc1a72d94a2d4b7d416540519d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
