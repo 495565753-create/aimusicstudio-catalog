@@ -1,0 +1,12 @@
+{
+  "title": "La sal de las cartas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-17T00:11:08Z",
+  "sha256": "2bb42ddc6e602fe860ca46e8bccdcd59f97a8b9024925bf476dd654fe6ba41ab",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

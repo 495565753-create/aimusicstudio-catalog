@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T00:06:32Z",
+  "generatedAt": "2026-11-17T00:11:08Z",
   "songs": [
+    {
+      "id": "ace-latin-20261117-co-01",
+      "title": "La sal de las cartas",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-17/ace-latin-20261117-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-latin-20261117-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-latin-20261117-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/d9ae2b603ec27c23bd91.jpg?v=c1b2169b2f",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-latin-20261117-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-latin-20261117-co-01.json",
+      "lyrics": "[Verso 1]\nEn el cajón donde duerme el mantel\nhallé cuatro cartas con olor a laurel.\nNo hablaban de gloria ni de regresar,\nsino de aprender a dejarse cambiar.\n\n[Pre-Coro]\nLa tinta se vuelve color en el mar,\ny el alma comprende sin explicar.\n\n[Coro]\nPonle sal a las cartas, déjalas ir,\nque el viento no borra lo que hizo vivir.\nLo escrito se aleja, mas queda el calor\nde quien nos enseñó a nombrar el dolor.\n\n[Verso 2]\nMi hermano en la costa aprendió a reparar\nla red que una noche se abrió frente al mar.\nCon nudos pequeños volvió a sostener\nlos peces, la barca, las ganas de volver.\n\n[Puente]\nCada hilo que vuelve a juntar\ndice: aún nos podemos cuidar.\n\n[Coro]\nPonle sal a las cartas, déjalas ir,\nque el viento no borra lo que hizo vivir.\nLo escrito se aleja, mas queda el calor\nde quien nos enseñó a nombrar el dolor.\n\n[Outro]\nEl mar guarda el pulso, la voz y el amor.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚 vallenato paseo",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-17T00:11:08Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-17-2",
       "title": "把光留住 · 11-17",
@@ -15185,7 +15209,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "21 首 · 本机 AI 原创",
+      "subtitle": "22 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -15209,7 +15233,8 @@
         "ace-latin-20261113-co-01",
         "ace-latin-20261114-co-01",
         "ace-latin-20261115-co-01",
-        "ace-latin-20261116-co-01"
+        "ace-latin-20261116-co-01",
+        "ace-latin-20261117-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -16578,6 +16603,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261117-co-01",
         "ace-2026-11-17-2",
         "ace-2026-11-17-1",
         "ace-latin-20261116-mx-01",
@@ -16616,8 +16642,7 @@
         "ace-2026-11-10-2",
         "ace-2026-11-10-1",
         "ace-latin-20261109-mx-01",
-        "ace-latin-20261109-la-01",
-        "ace-latin-20261109-co-01"
+        "ace-latin-20261109-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
