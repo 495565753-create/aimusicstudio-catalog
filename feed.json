@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T00:15:26Z",
+  "generatedAt": "2026-11-17T00:04:03Z",
   "songs": [
+    {
+      "id": "ace-2026-11-17-1",
+      "title": "晚风来信 · 11-17",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-17/ace-2026-11-17-1.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-2026-11-17-1.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-17/ace-2026-11-17-1.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/b2e131dca76de5be3b53.jpg?v=53933c4ea1",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-2026-11-17-1.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-17/ace-2026-11-17-1.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n电话响了 我以为是你\n接起来 只是别人打错\n你说要走的那一天\n我还以为 你只是生气\n\n[Pre-Chorus]\n\n我不怪你 也不怪自己\n只是有一点 想不明白\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Verse 2]\n\n房间的东西 你都没带走\n只有那张照片 留在桌上\n我每天回家 都看它一眼\n好像你还在 这个家里面\n\n[Pre-Chorus]\n\n我不怪你 也不怪自己\n只是有一点 想不明白\n\n[Chorus]\n\n你 我还是想着你\n一天又一天 一年又一年\n你 我还是等着你\n你回头看一眼 我一直都在\n\n[Outro]\n\n（我还是想着你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "民谣",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-17T00:04:02Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-latin-20261116-mx-01",
       "title": "La brújula del polvo",
@@ -15323,6 +15346,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-11-17-1",
         "ace-2026-11-16-2",
         "ace-2026-11-16-1",
         "ace-2026-11-15-2",
@@ -16458,6 +16482,7 @@
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-11-17-1",
         "ace-2026-11-16-2",
         "ace-2026-11-16-1",
         "ace-2026-11-15-2",
@@ -16516,8 +16541,7 @@
         "ace-custom-b2ba25c2c5e2",
         "ace-custom-ac6d9739572c",
         "ace-custom-03b5ba0bc248",
-        "ace-2026-10-20-2",
-        "ace-2026-10-20-1"
+        "ace-2026-10-20-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a8e0e458947361fe4740.jpg?v=6ec3a003d1",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
@@ -16530,6 +16554,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-11-17-1",
         "ace-latin-20261116-mx-01",
         "ace-latin-20261116-la-01",
         "ace-latin-20261116-co-01",
@@ -16568,8 +16593,7 @@
         "ace-latin-20261109-mx-01",
         "ace-latin-20261109-la-01",
         "ace-latin-20261109-co-01",
-        "ace-2026-11-09-2",
-        "ace-2026-11-09-1"
+        "ace-2026-11-09-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
