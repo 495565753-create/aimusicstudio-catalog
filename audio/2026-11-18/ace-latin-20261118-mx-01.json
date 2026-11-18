@@ -1,0 +1,12 @@
+{
+  "title": "Donde termina el mapa",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-18T00:13:45Z",
+  "sha256": "d8a5d833e1973351c5197b76d79e2a5c8930d5bef9870d58f574e831306a93e7",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

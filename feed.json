@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:12:24Z",
+  "generatedAt": "2026-11-18T00:13:45Z",
   "songs": [
+    {
+      "id": "ace-latin-20261118-mx-01",
+      "title": "Donde termina el mapa",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-18/ace-latin-20261118-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-18/ace-latin-20261118-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-18/ace-latin-20261118-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/078522e87e7c7063dfbb.jpg?v=3bf5e5181e",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-18/ace-latin-20261118-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-18/ace-latin-20261118-mx-01.json",
+      "lyrics": "[Verso 1]\nDoblé el mapa al llegar al umbral,\nla tinta señalaba un camino y nada más.\nDetrás de cada nombre que aprendí a pronunciar,\nhabía una vida entera queriendo comenzar.\n\n[Pre-Coro]\nNo se mide el mundo por su extensión;\nse mide en la hondura de la atención.\n\n[Coro]\nDonde termina el mapa empieza la voz,\nuna mesa, dos sillas, la misma canción.\nQuien mira de frente descubre al final\nque el otro no es frontera: es posibilidad.\n\n[Verso 2]\nUn anciano en la plaza me habló del maíz,\nde esperar la estación y cuidar lo que vi.\n«La tierra no es nuestra», dijo al sembrar,\n«somos un momento que la debe escuchar».\n\n[Puente]\nDeja espacio al mañana al pasar;\nno hay camino que no pueda cambiar.\n\n[Coro]\nDonde termina el mapa empieza la voz,\nuna mesa, dos sillas, la misma canción.\nQuien mira de frente descubre al final\nque el otro no es frontera: es posibilidad.\n\n[Outro]\nDoblé el mapa; aprendí a mirar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥 bolero ranchero",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-18T00:13:45Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261118-la-01",
       "title": "Inventario de lo invisible",
@@ -15283,7 +15307,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "22 首 · 本机 AI 原创",
+      "subtitle": "23 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -15308,7 +15332,8 @@
         "ace-latin-20261114-mx-01",
         "ace-latin-20261115-mx-01",
         "ace-latin-20261116-mx-01",
-        "ace-latin-20261117-mx-01"
+        "ace-latin-20261117-mx-01",
+        "ace-latin-20261118-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -16751,6 +16776,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261118-mx-01",
         "ace-latin-20261118-la-01",
         "ace-latin-20261118-co-01",
         "ace-2026-11-18-2",
@@ -16789,8 +16815,7 @@
         "ace-latin-20261111-la-01",
         "ace-latin-20261111-co-01",
         "ace-2026-11-11-2",
-        "ace-2026-11-11-1",
-        "ace-latin-20261110-mx-01"
+        "ace-2026-11-11-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
