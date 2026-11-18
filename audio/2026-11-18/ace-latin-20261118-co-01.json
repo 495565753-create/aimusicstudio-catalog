@@ -1,0 +1,12 @@
+{
+  "title": "El turno de la madrugada",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-18T00:10:59Z",
+  "sha256": "c51ae38b13aaf6c0908d10c215b893c18ab046a470f9f119a6b0753b851e99fd",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
