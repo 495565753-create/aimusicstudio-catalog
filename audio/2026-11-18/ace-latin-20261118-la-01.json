@@ -1,0 +1,12 @@
+{
+  "title": "Inventario de lo invisible",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-18T00:12:24Z",
+  "sha256": "0ecf35b640c3f2ed104fb2cf839cc2dd71da691b7494302ae08dde266fac948d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

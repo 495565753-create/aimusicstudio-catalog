@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T00:10:59Z",
+  "generatedAt": "2026-11-18T00:12:24Z",
   "songs": [
+    {
+      "id": "ace-latin-20261118-la-01",
+      "title": "Inventario de lo invisible",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-18/ace-latin-20261118-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-18/ace-latin-20261118-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-18/ace-latin-20261118-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/9255d12d51a78ab0c660.jpg?v=24a65108db",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-18/ace-latin-20261118-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-18/ace-latin-20261118-la-01.json",
+      "lyrics": "[Verso 1]\nNo guardo en cajones lo que me sostuvo:\nun gesto sin fecha, un consejo desnudo,\nla voz que en silencio me dejó elegir,\nla mano que estuvo sin pedir por mí.\n\n[Pre-Coro]\nHay riquezas que no hacen rumor,\npero vuelven habitable el dolor.\n\n[Coro]\nHago inventario de lo invisible:\nla paz compartida, la fe posible.\nNo pesa en la bolsa, no brilla al pasar,\nmas cambia el destino de un día normal.\n\n[Verso 2]\nLa puerta del vecino quedó sin cerrar;\ndejó una herramienta por si hay que arreglar.\nLa devolví limpia, le puse una flor;\nel barrio entendió sin decirlo en voz.\n\n[Puente]\nLo que damos se queda también,\ncomo un hilo que anuda el vaivén.\n\n[Coro]\nHago inventario de lo invisible:\nla paz compartida, la fe posible.\nNo pesa en la bolsa, no brilla al pasar,\nmas cambia el destino de un día normal.\n\n[Outro]\nLo invisible nos vuelve a encontrar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁 son montuno",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-18T00:12:24Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261118-co-01",
       "title": "El turno de la madrugada",
@@ -15294,7 +15318,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "22 首 · 本机 AI 原创",
+      "subtitle": "23 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -15319,7 +15343,8 @@
         "ace-latin-20261114-la-01",
         "ace-latin-20261115-la-01",
         "ace-latin-20261116-la-01",
-        "ace-latin-20261117-la-01"
+        "ace-latin-20261117-la-01",
+        "ace-latin-20261118-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -16726,6 +16751,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261118-la-01",
         "ace-latin-20261118-co-01",
         "ace-2026-11-18-2",
         "ace-2026-11-18-1",
@@ -16764,8 +16790,7 @@
         "ace-latin-20261111-co-01",
         "ace-2026-11-11-2",
         "ace-2026-11-11-1",
-        "ace-latin-20261110-mx-01",
-        "ace-latin-20261110-la-01"
+        "ace-latin-20261110-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
