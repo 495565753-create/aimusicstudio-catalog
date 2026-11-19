@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T23:59:49Z",
+  "generatedAt": "2026-11-19T00:02:39Z",
   "songs": [
+    {
+      "id": "ace-latin-20261119-co-01",
+      "title": "La línea del horizonte",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-19/ace-latin-20261119-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/1817e0e95c2988f46a2c.jpg?v=499e06bc9d",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-co-01.json",
+      "lyrics": "[Verso 1]\nDesde el alto la neblina baja sin preguntar,\nva cubriendo los caminos que aprendimos a nombrar.\nUn campesino abre el surco, otro vuelve a reparar\nla acequia que da a los campos una razón para esperar.\n\n[Pre-Coro]\nNo es la cumbre la que enseña a mirar,\nes la gente que se queda a cuidar.\n\n[Coro]\nLínea clara, horizonte de pie,\ntras la nube todavía hay un porqué.\nSi compartimos el peso al subir,\nhasta la cuesta nos deja seguir.\n\n[Verso 2]\nUna joven lleva libros por la vereda y el sol;\nlos presta casa por casa, multiplica su voz.\nCada página que cruza cambia el rumbo de alguien más,\ncomo el agua entre las piedras encuentra dónde llegar.\n\n[Puente]\nLo que abrimos para los demás\nse hace senda y nos lleva hacia atrás.\n\n[Coro]\nLínea clara, horizonte de pie,\ntras la nube todavía hay un porqué.\nSi compartimos el peso al subir,\nhasta la cuesta nos deja seguir.\n\n[Outro]\nTras la nube, la tierra está en flor.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚 bambuco contemporáneo",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-19T00:02:39Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-19-2",
       "title": "城市的回声 · 11-19",
@@ -15425,7 +15449,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "23 首 · 本机 AI 原创",
+      "subtitle": "24 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -15451,7 +15475,8 @@
         "ace-latin-20261115-co-01",
         "ace-latin-20261116-co-01",
         "ace-latin-20261117-co-01",
-        "ace-latin-20261118-co-01"
+        "ace-latin-20261118-co-01",
+        "ace-latin-20261119-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -16824,6 +16849,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261119-co-01",
         "ace-2026-11-19-2",
         "ace-2026-11-19-1",
         "ace-latin-20261118-mx-01",
@@ -16862,8 +16888,7 @@
         "ace-2026-11-12-2",
         "ace-2026-11-12-1",
         "ace-latin-20261111-mx-01",
-        "ace-latin-20261111-la-01",
-        "ace-latin-20261111-co-01"
+        "ace-latin-20261111-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

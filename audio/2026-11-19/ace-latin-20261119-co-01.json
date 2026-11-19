@@ -1,0 +1,12 @@
+{
+  "title": "La línea del horizonte",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-19T00:02:39Z",
+  "sha256": "3a444b67dd60e42a7c4bd0247566e0566f0801ae2214c41c151f31ef50cd0a00",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
