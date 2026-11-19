@@ -1,0 +1,12 @@
+{
+  "title": "Lo que no cabe en la vitrina",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-19T00:04:07Z",
+  "sha256": "c3013e86d88c5608ad76b23957f5540c8cbda4cc64b68b642b677b30c59f1080",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

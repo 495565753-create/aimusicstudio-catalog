@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T00:02:39Z",
+  "generatedAt": "2026-11-19T00:04:07Z",
   "songs": [
+    {
+      "id": "ace-latin-20261119-la-01",
+      "title": "Lo que no cabe en la vitrina",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-19/ace-latin-20261119-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/29ce5ca4a3bdb51d9d47.jpg?v=f488dc041f",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-la-01.json",
+      "lyrics": "[Verso 1]\nEn la vitrina relucen medallas,\nfechas exactas, retratos en paz;\npero el recuerdo que nunca se calla\nes quien me escuchó cuando no pude más.\n\n[Pre-Coro]\nHay triunfos que nadie colgó en la pared,\ny son los que enseñan a estar y a volver.\n\n[Coro]\nLo que no cabe en la vitrina\nsostiene el techo de la vida: un acto fiel,\nuna palabra dicha a tiempo,\nla luz que alguien deja encendida al partir.\n\n[Verso 2]\nMi amiga guardó mi lugar en la fila\ncuando el cansancio me hizo dudar;\nno fue una promesa ni frase bonita,\nfue estar a mi lado y dejarme respirar.\n\n[Puente]\nNo hace ruido la bondad al llegar,\npero cambia la forma de andar.\n\n[Coro]\nLo que no cabe en la vitrina\nsostiene el techo de la vida: un acto fiel,\nuna palabra dicha a tiempo,\nla luz que alguien deja encendida al partir.\n\n[Outro]\nNo todo lo valioso se puede exhibir.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁 jazz bolero",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-19T00:04:07Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261119-co-01",
       "title": "La línea del horizonte",
@@ -15413,7 +15437,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "23 首 · 本机 AI 原创",
+      "subtitle": "24 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -15439,7 +15463,8 @@
         "ace-latin-20261115-la-01",
         "ace-latin-20261116-la-01",
         "ace-latin-20261117-la-01",
-        "ace-latin-20261118-la-01"
+        "ace-latin-20261118-la-01",
+        "ace-latin-20261119-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -16849,6 +16874,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261119-la-01",
         "ace-latin-20261119-co-01",
         "ace-2026-11-19-2",
         "ace-2026-11-19-1",
@@ -16887,8 +16913,7 @@
         "ace-latin-20261112-co-01",
         "ace-2026-11-12-2",
         "ace-2026-11-12-1",
-        "ace-latin-20261111-mx-01",
-        "ace-latin-20261111-la-01"
+        "ace-latin-20261111-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
