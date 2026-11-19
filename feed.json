@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T00:04:07Z",
+  "generatedAt": "2026-11-19T00:05:36Z",
   "songs": [
+    {
+      "id": "ace-latin-20261119-mx-01",
+      "title": "La paciencia del barro",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-19/ace-latin-20261119-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-19/ace-latin-20261119-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/c2e601ffa9615bd4a431.jpg?v=0bd1f52e00",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-19/ace-latin-20261119-mx-01.json",
+      "lyrics": "[Verso 1]\nEl alfarero moja la tarde en sus manos,\nva girando la tierra despacio, sin prisa;\nno le exige al barro que entienda temprano\nla forma que un día tendrá su sonrisa.\n\n[Pre-Coro]\nLo que crece de veras conoce el compás\nde esperar sin rendirse, de hacer y soltar.\n\n[Coro]\nBarro paciente, aprende a girar,\nla vida no apura su modo de hablar.\nCada grieta que el tiempo dejó\npuede ser por donde respire el amor.\n\n[Verso 2]\nUna taza imperfecta guardó la mañana,\nel café, dos silencios y un gesto cordial.\nNo hace falta que todo parezca una hazaña\npara darle a lo simple valor esencial.\n\n[Puente]\nManos humildes, oficio y calor,\nhacen del límite un nuevo color.\n\n[Coro]\nBarro paciente, aprende a girar,\nla vida no apura su modo de hablar.\nCada grieta que el tiempo dejó\npuede ser por donde respire el amor.\n\n[Outro]\nGira la tierra; comienza otra vez.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥 huapango acústico",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-19T00:05:36Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261119-la-01",
       "title": "Lo que no cabe en la vitrina",
@@ -15401,7 +15425,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "23 首 · 本机 AI 原创",
+      "subtitle": "24 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -15427,7 +15451,8 @@
         "ace-latin-20261115-mx-01",
         "ace-latin-20261116-mx-01",
         "ace-latin-20261117-mx-01",
-        "ace-latin-20261118-mx-01"
+        "ace-latin-20261118-mx-01",
+        "ace-latin-20261119-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -16874,6 +16899,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261119-mx-01",
         "ace-latin-20261119-la-01",
         "ace-latin-20261119-co-01",
         "ace-2026-11-19-2",
@@ -16912,8 +16938,7 @@
         "ace-latin-20261112-la-01",
         "ace-latin-20261112-co-01",
         "ace-2026-11-12-2",
-        "ace-2026-11-12-1",
-        "ace-latin-20261111-mx-01"
+        "ace-2026-11-12-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

@@ -1,0 +1,12 @@
+{
+  "title": "La paciencia del barro",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-19T00:05:36Z",
+  "sha256": "c1cc71b549917f85b38cb3c04fe689cbffe2a3dca14b81d566edd69440f1cf5d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
