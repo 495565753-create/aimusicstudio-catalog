@@ -1,0 +1,12 @@
+{
+  "title": "La balanza del silencio",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-20T00:14:14Z",
+  "sha256": "ff9f3a40c160247dd73ec8df38f8f49856f6c8498128fb4164725025388b2ae2",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
