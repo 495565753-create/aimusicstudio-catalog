@@ -1,0 +1,12 @@
+{
+  "title": "El tejido del regreso",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-20T00:12:42Z",
+  "sha256": "158c8666b76fedc89f71cbc3529f00342949ec662675f7a0a19f52e8b736ddfb",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

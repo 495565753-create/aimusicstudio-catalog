@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T00:09:35Z",
+  "generatedAt": "2026-11-20T00:12:42Z",
   "songs": [
+    {
+      "id": "ace-latin-20261120-co-01",
+      "title": "El tejido del regreso",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-20/ace-latin-20261120-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-20/ace-latin-20261120-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-20/ace-latin-20261120-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/0aa56c27f85ff1413faf.jpg?v=a449477fc7",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-20/ace-latin-20261120-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-20/ace-latin-20261120-co-01.json",
+      "lyrics": "[Verso 1]\nVolví por la senda que baja al cafetal,\ndonde las montañas conversan sin final.\nLa casa era otra, también lo era yo;\nla puerta crujía, mas no preguntó.\n\n[Pre-Coro]\nRegresar no es volver a ser igual;\nes traer nuevas hebras al telar.\n\n[Coro]\nHilo con hilo se teje el hogar,\ncon manos distintas que saben cuidar.\nSi el tiempo nos cambia la voz y el color,\nla mesa aún guarda lugar para dos.\n\n[Verso 2]\nMi hermana dejó junto al viejo sillón\nun libro de plantas, semillas y sol.\n«Aprende sus nombres», me dijo al pasar,\n«lo que no conocemos no podemos guardar».\n\n[Puente]\nCada nombre que damos con atención\nes un pacto pequeño con la creación.\n\n[Coro]\nHilo con hilo se teje el hogar,\ncon manos distintas que saben cuidar.\nSi el tiempo nos cambia la voz y el color,\nla mesa aún guarda lugar para dos.\n\n[Outro]\nVolver es aprender a tejer.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚 cumbia andina",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-20T00:12:42Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-20-2",
       "title": "窗边的早晨 · 11-20",
@@ -15545,7 +15569,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "24 首 · 本机 AI 原创",
+      "subtitle": "25 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -15572,7 +15596,8 @@
         "ace-latin-20261116-co-01",
         "ace-latin-20261117-co-01",
         "ace-latin-20261118-co-01",
-        "ace-latin-20261119-co-01"
+        "ace-latin-20261119-co-01",
+        "ace-latin-20261120-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -16947,6 +16972,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261120-co-01",
         "ace-2026-11-20-2",
         "ace-2026-11-20-1",
         "ace-latin-20261119-mx-01",
@@ -16985,8 +17011,7 @@
         "ace-2026-11-13-2",
         "ace-2026-11-13-1",
         "ace-latin-20261112-mx-01",
-        "ace-latin-20261112-la-01",
-        "ace-latin-20261112-co-01"
+        "ace-latin-20261112-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
