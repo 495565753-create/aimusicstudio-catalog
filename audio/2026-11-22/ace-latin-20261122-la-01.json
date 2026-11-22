@@ -1,0 +1,12 @@
+{
+  "title": "La medida de una palabra",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-22T00:05:20Z",
+  "sha256": "3cf59e55b21fd1c6c829779a14dee034d03619abc49ecff162e63a42a9f2145f",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
