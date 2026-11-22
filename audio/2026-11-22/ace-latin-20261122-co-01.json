@@ -1,0 +1,12 @@
+{
+  "title": "La sombra que compartimos",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-22T00:03:46Z",
+  "sha256": "dd4a1d09bf8ed534121bd5f93a46f1742d3ec2367621df639e0415ce52c6a7a3",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
