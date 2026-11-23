@@ -1,0 +1,12 @@
+{
+  "title": "El peso de una llave",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-23T05:35:46Z",
+  "sha256": "0cf4d43cde2fb91b9d67ad2a8e0a9d75facb47739e89fcf00fb1995e0e041aa6",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
