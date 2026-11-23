@@ -1,0 +1,12 @@
+{
+  "title": "La costura del viento",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-23T04:46:45Z",
+  "sha256": "37deaf235643181bc578262d986f089f925a073df66db254a903e59ed92a5233",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

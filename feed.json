@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T03:21:52Z",
+  "generatedAt": "2026-11-23T04:46:45Z",
   "songs": [
+    {
+      "id": "ace-latin-20261123-co-01",
+      "title": "La costura del viento",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-23/ace-latin-20261123-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-23/ace-latin-20261123-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-23/ace-latin-20261123-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/aaa59545af1396fd7c38.jpg?v=f3f13fa878",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-23/ace-latin-20261123-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-23/ace-latin-20261123-co-01.json",
+      "lyrics": "[Verso 1]\nEl viento atraviesa la ropa tendida,\nla cose en el aire con hilo de sol.\nMi madre remienda la manga vencida,\ny al borde del patio me cuenta quién soy.\n\n[Pre-Coro]\nCada puntada recuerda una vez\nque alguien sostuvo lo que iba a caer.\n\n[Coro]\nCose, viento, el borde del día,\njunta la distancia con la compañía.\nNada está completo por fuerza o azar;\nlo que se comparte aprende a durar.\n\n[Verso 2]\nMi vecino ofrece su banco de madera\na quien trae cansancio del otro lugar.\nLa conversación se vuelve ligera;\nla tarde se queda un momento a escuchar.\n\n[Puente]\nLa fragilidad no es debilidad;\nes saber que en conjunto hay más claridad.\n\n[Coro]\nCose, viento, el borde del día,\njunta la distancia con la compañía.\nNada está completo por fuerza o azar;\nlo que se comparte aprende a durar.\n\n[Outro]\nCon hilo de viento, volvemos a unir.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚 bambuco",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-23T04:46:45Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-23-2",
       "title": "雨后的街道 · 11-23",
@@ -15808,7 +15832,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "26 首 · 本机 AI 原创",
+      "subtitle": "27 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -15837,7 +15861,8 @@
         "ace-latin-20261118-co-01",
         "ace-latin-20261119-co-01",
         "ace-latin-20261120-co-01",
-        "ace-latin-20261122-co-01"
+        "ace-latin-20261122-co-01",
+        "ace-latin-20261123-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -17217,6 +17242,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261123-co-01",
         "ace-2026-11-23-2",
         "ace-2026-11-23-1",
         "ace-latin-20261122-mx-01",
@@ -17255,8 +17281,7 @@
         "ace-latin-20261115-co-01",
         "ace-2026-11-15-2",
         "ace-2026-11-15-1",
-        "ace-latin-20261114-mx-01",
-        "ace-latin-20261114-la-01"
+        "ace-latin-20261114-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
