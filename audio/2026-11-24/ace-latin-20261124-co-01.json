@@ -1,0 +1,12 @@
+{
+  "title": "El cuaderno de la lluvia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-24T00:09:06Z",
+  "sha256": "5fefc4ae0bb8dd786c3450ce79a71414e7099da82c9f124058f106783f9203a6",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
