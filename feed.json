@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T00:10:38Z",
+  "generatedAt": "2026-11-24T00:12:12Z",
   "songs": [
+    {
+      "id": "ace-latin-20261124-mx-01",
+      "title": "El farol del puente viejo",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-24/ace-latin-20261124-mx-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-24/ace-latin-20261124-mx-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-24/ace-latin-20261124-mx-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/7993c9f4ba4b46b52cbb.jpg?v=5a57cfb729",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-24/ace-latin-20261124-mx-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-24/ace-latin-20261124-mx-01.json",
+      "lyrics": "[Verso 1]\nEl farol del puente parpadea al caer\ncomo si dudara si debe encender.\nUn hombre lo cuida con aceite y canción;\nno pregunta quién cruza ni de qué región.\n\n[Pre-Coro]\nLa luz no examina la cara al llegar;\nsolo abre un espacio para continuar.\n\n[Coro]\nFarol del puente, guarda tu fulgor,\nque la noche es larga para el caminador.\nSi alguien llega a tientas, no preguntes por qué;\nser camino un momento también es tener fe.\n\n[Verso 2]\nUna joven dejó su paraguas allí\npara el que olvidara el suyo al salir.\nAl alba, otra mano lo puso en su lugar;\nla bondad compartida no sabe acabar.\n\n[Puente]\nPasa la corriente, persiste el favor;\nlo que damos al otro vuelve en calor.\n\n[Coro]\nFarol del puente, guarda tu fulgor,\nque la noche es larga para el caminador.\nSi alguien llega a tientas, no preguntes por qué;\nser camino un momento también es tener fe.\n\n[Outro]\nLa luz sigue abierta; ya se ve.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "墨西哥",
+      "style": "墨西哥 son huasteco",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-24T00:12:12Z",
+      "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Row_of_colorful_buildings_and_motorbike_Campeche_Mexico_2018.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+    },
     {
       "id": "ace-latin-20261124-la-01",
       "title": "La verdad de los domingos",
@@ -15896,7 +15920,7 @@
     {
       "id": "album-latin-mx-20261027",
       "title": "墨西哥之声",
-      "subtitle": "27 首 · 本机 AI 原创",
+      "subtitle": "28 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
@@ -15926,7 +15950,8 @@
         "ace-latin-20261119-mx-01",
         "ace-latin-20261120-mx-01",
         "ace-latin-20261122-mx-01",
-        "ace-latin-20261123-mx-01"
+        "ace-latin-20261123-mx-01",
+        "ace-latin-20261124-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a623d4c4e17d8c24ad18.jpg?v=78c96f5b84",
       "artworkCredit": "amanderson2 · Wikimedia Commons · CC BY 2.0；灵感音乐剪裁及排版",
@@ -17390,6 +17415,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261124-mx-01",
         "ace-latin-20261124-la-01",
         "ace-latin-20261124-co-01",
         "ace-2026-11-24-2",
@@ -17428,8 +17454,7 @@
         "ace-latin-20261116-mx-01",
         "ace-latin-20261116-la-01",
         "ace-latin-20261116-co-01",
-        "ace-2026-11-16-2",
-        "ace-2026-11-16-1"
+        "ace-2026-11-16-2"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
