@@ -1,0 +1,12 @@
+{
+  "title": "La verdad de los domingos",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-24T00:10:38Z",
+  "sha256": "7fb8566b2be0e19bc5029cda91020d031d67a8e4ee63f12abdfcf9779fa307b3",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
