@@ -1,0 +1,12 @@
+{
+  "title": "Los nombres de las estrellas",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-25T00:10:25Z",
+  "sha256": "dcb73d257520922956938160e167780cd623eb93f37ccc2f7ddbda951a8e6a7b",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
