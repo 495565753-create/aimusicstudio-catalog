@@ -1,0 +1,12 @@
+{
+  "title": "La voz del mercado",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-25T00:07:09Z",
+  "sha256": "02e5e438ea9626d2aba5913f9a1d01938ae0c5e565728bd0eb04ce065f3ca903",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

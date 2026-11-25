@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T00:03:50Z",
+  "generatedAt": "2026-11-25T00:07:09Z",
   "songs": [
+    {
+      "id": "ace-latin-20261125-co-01",
+      "title": "La voz del mercado",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-25/ace-latin-20261125-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-25/ace-latin-20261125-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-25/ace-latin-20261125-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/bec2caae89dcd4fa13ba.jpg?v=a08c1278d2",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-25/ace-latin-20261125-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-25/ace-latin-20261125-co-01.json",
+      "lyrics": "[Verso 1]\nAmanece en la plaza, despierta el pregón,\nla fruta conversa con cada estación.\nUna mujer pesa naranjas y pan;\nva aprendiendo los nombres de quienes vendrán.\n\n[Pre-Coro]\nEn cada saludo que vuelve a sonar\nla ciudad se hace menos lugar de pasar.\n\n[Coro]\nMercado, voz viva, corazón de la calle,\ndonde cada historia encuentra un detalle.\nNo todo se vende, no todo es valor: \na veces un nombre nos cambia el color.\n\n[Verso 2]\nEl hombre del puesto comparte una silla\ncon quien lleva prisa y perdió la orilla.\nHablan de hijos, de cuentas, de ayer;\nla jornada comienza al poderse entender.\n\n[Puente]\nLa comunidad no nace al mandar;\nnace en el gesto de reconocer.\n\n[Coro]\nMercado, voz viva, corazón de la calle,\ndonde cada historia encuentra un detalle.\nNo todo se vende, no todo es valor: \na veces un nombre nos cambia el color.\n\n[Outro]\nLa plaza despierta, nos vuelve a reunir.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "哥伦比亚 cumbia urbana",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-25T00:07:09Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-25-2",
       "title": "把光留住 · 11-25",
@@ -16048,7 +16072,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "28 首 · 本机 AI 原创",
+      "subtitle": "29 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -16079,7 +16103,8 @@
         "ace-latin-20261120-co-01",
         "ace-latin-20261122-co-01",
         "ace-latin-20261123-co-01",
-        "ace-latin-20261124-co-01"
+        "ace-latin-20261124-co-01",
+        "ace-latin-20261125-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -17463,6 +17488,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261125-co-01",
         "ace-2026-11-25-2",
         "ace-2026-11-25-1",
         "ace-latin-20261124-mx-01",
@@ -17501,8 +17527,7 @@
         "ace-latin-20261117-co-01",
         "ace-2026-11-17-2",
         "ace-2026-11-17-1",
-        "ace-latin-20261116-mx-01",
-        "ace-latin-20261116-la-01"
+        "ace-latin-20261116-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
