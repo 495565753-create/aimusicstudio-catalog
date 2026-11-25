@@ -1,0 +1,12 @@
+{
+  "title": "El eco de la elección",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-25T00:08:48Z",
+  "sha256": "b1fc761364be2cc75a1ced64be1ec43772c28bee01599af814292f4eae8bd34a",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
