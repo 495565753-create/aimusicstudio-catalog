@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T00:06:16Z",
+  "generatedAt": "2026-11-26T00:07:54Z",
   "songs": [
+    {
+      "id": "ace-latin-20261126-la-01",
+      "title": "La forma de la ausencia",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-26/ace-latin-20261126-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-26/ace-latin-20261126-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-26/ace-latin-20261126-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/120158af635eeaa1fac9.jpg?v=a7db41e1e6",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-26/ace-latin-20261126-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-26/ace-latin-20261126-la-01.json",
+      "lyrics": "[Verso 1]\nLa silla vacía no guarda tu forma,\nla luz de la tarde ya cambia de piel.\nMas queda en la casa la calma que nombras,\ny un libro doblado en la página de ayer.\n\n[Pre-Coro]\nLa ausencia no es muro ni señal de final;\nes un cuarto distinto que toca habitar.\n\n[Coro]\nDame tiempo, déjame ver\nqué raíces crecieron después de perder.\nNo te llamo de vuelta para no soltar;\nte agradezco el camino y te dejo marchar.\n\n[Verso 2]\nPuse flores nuevas junto a la ventana,\nabrí las cortinas, dejé entrar el mar.\nNo borré tus huellas de cada mañana;\nles di un sitio nuevo donde descansar.\n\n[Puente]\nRecordar con ternura también es partir;\nlo vivido se queda, nos deja seguir.\n\n[Coro]\nDame tiempo, déjame ver\nqué raíces crecieron después de perder.\nNo te llamo de vuelta para no soltar;\nte agradezco el camino y te dejo marchar.\n\n[Outro]\nLa casa está quieta; comienza a cantar.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁 bolero jazz",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-26T00:07:54Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261126-co-01",
       "title": "La altura de una voz",
@@ -16150,7 +16174,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "29 首 · 本机 AI 原创",
+      "subtitle": "30 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -16182,7 +16206,8 @@
         "ace-latin-20261122-la-01",
         "ace-latin-20261123-la-01",
         "ace-latin-20261124-la-01",
-        "ace-latin-20261125-la-01"
+        "ace-latin-20261125-la-01",
+        "ace-latin-20261126-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -17611,6 +17636,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261126-la-01",
         "ace-latin-20261126-co-01",
         "ace-2026-11-26-2",
         "ace-2026-11-26-1",
@@ -17649,8 +17675,7 @@
         "ace-latin-20261118-la-01",
         "ace-latin-20261118-co-01",
         "ace-2026-11-18-2",
-        "ace-2026-11-18-1",
-        "ace-latin-20261117-mx-01"
+        "ace-2026-11-18-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

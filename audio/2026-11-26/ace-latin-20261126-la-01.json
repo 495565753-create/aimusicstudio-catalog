@@ -1,0 +1,12 @@
+{
+  "title": "La forma de la ausencia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-26T00:07:54Z",
+  "sha256": "704b40882ccef935ec5f60e2c24464d68daa251047b15f1bedc5c300a091eb75",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
