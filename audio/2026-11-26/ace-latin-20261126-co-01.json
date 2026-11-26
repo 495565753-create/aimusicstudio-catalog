@@ -1,0 +1,12 @@
+{
+  "title": "La altura de una voz",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-26T00:06:16Z",
+  "sha256": "27850443794658868f178394afdaaf977ec70885cca5d7dfbfd03afd842b6d9d",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
