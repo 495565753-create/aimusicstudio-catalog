@@ -1,0 +1,12 @@
+{
+  "title": "El hilo de cobre",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-26T00:09:28Z",
+  "sha256": "1772b00f75f4f6ba64968e5c129b0ea90c077ac750bdd103e0e1810a486eef03",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
