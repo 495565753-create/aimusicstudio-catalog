@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T00:09:01Z",
+  "generatedAt": "2026-11-27T00:10:48Z",
   "songs": [
+    {
+      "id": "ace-latin-20261127-la-01",
+      "title": "Un Lugar para la Luz",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-27/ace-latin-20261127-la-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-27/ace-latin-20261127-la-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-27/ace-latin-20261127-la-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/22db3e8b57356f2c29ef.jpg?v=c6702bcd77",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-27/ace-latin-20261127-la-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-27/ace-latin-20261127-la-01.json",
+      "lyrics": "[Verse 1]\nLa ciudad se queda quieta detrás del ventanal,\nuna taza, dos preguntas, la costumbre de esperar.\nEn la mesa hay una lista de lo que no salió,\ny al margen, casi escondido, lo que el miedo no borró.\n\n[Pre-Chorus]\nNo todo lo perdido se convierte en señal,\npero hasta el paso más pequeño nos devuelve el andar.\n\n[Chorus]\nHazle un lugar a la luz,\nno para olvidar la sombra, sino para verla pasar.\nHazle un lugar a la voz\nque tiembla cuando es sincera y aun así se atreve a hablar.\n\n[Verse 2]\nVi a un vecino abrir su puerta para alguien sin hogar,\ny entendí que la esperanza también se puede dar.\nNo hace ruido ni promete que todo cambiará;\nes un gesto que sostiene cuando cuesta comenzar.\n\n[Pre-Chorus]\nSi la noche vuelve larga, si regresa el temor,\nuna mano junto a otra puede hacer amanecer.\n\n[Chorus]\nHazle un lugar a la luz,\nno para olvidar la sombra, sino para verla pasar.\nHazle un lugar a la voz\nque tiembla cuando es sincera y aun así se atreve a hablar.\n\n[Outro]\nLa luz no borra el ayer:\nlo acompaña hasta que podamos comprender.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "拉丁",
+      "style": "拉丁流行",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-27T00:10:48Z",
+      "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:A_Colorful_Side_Street_View_Cartagena_Postcards_(168852045).jpeg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by/3.0"
+    },
     {
       "id": "ace-latin-20261127-co-01",
       "title": "El Río que Nos Nombra",
@@ -16269,7 +16293,7 @@
     {
       "id": "album-latin-la-20261027",
       "title": "拉丁热浪",
-      "subtitle": "30 首 · 本机 AI 原创",
+      "subtitle": "31 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 9,
       "songIDs": [
@@ -16302,7 +16326,8 @@
         "ace-latin-20261123-la-01",
         "ace-latin-20261124-la-01",
         "ace-latin-20261125-la-01",
-        "ace-latin-20261126-la-01"
+        "ace-latin-20261126-la-01",
+        "ace-latin-20261127-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/b99c46088b421bf17077.jpg?v=48a504dd39",
       "artworkCredit": "Dave Gonzalez Formerly Mr G Photoimaging · Wikimedia Commons · CC BY 3.0；灵感音乐剪裁及排版",
@@ -17734,6 +17759,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261127-la-01",
         "ace-latin-20261127-co-01",
         "ace-2026-11-27-2",
         "ace-2026-11-27-1",
@@ -17772,8 +17798,7 @@
         "ace-latin-20261119-la-01",
         "ace-latin-20261119-co-01",
         "ace-2026-11-19-2",
-        "ace-2026-11-19-1",
-        "ace-latin-20261118-mx-01"
+        "ace-2026-11-19-1"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",

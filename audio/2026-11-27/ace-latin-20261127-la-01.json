@@ -1,0 +1,12 @@
+{
+  "title": "Un Lugar para la Luz",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-27T00:10:48Z",
+  "sha256": "bc8a4bc9235951a37c820a5655de3cb1d05557e02f0abae8afd7149fd0dfbaa1",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
