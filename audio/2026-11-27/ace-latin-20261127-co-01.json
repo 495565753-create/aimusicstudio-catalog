@@ -1,0 +1,12 @@
+{
+  "title": "El Río que Nos Nombra",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-27T00:09:01Z",
+  "sha256": "fb19f4339f8e0e9d7a9da5f9d89fdf52501784375cf1b7fd5c169c9465814e94",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
