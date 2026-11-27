@@ -1,0 +1,12 @@
+{
+  "title": "La Casa del Viento",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-27T00:12:55Z",
+  "sha256": "0f7fd714960445909cda83ef9303663b8f89214d9c909789ae0c34c4f4d19afe",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
