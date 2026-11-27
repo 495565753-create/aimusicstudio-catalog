@@ -1,0 +1,12 @@
+{
+  "title": "城市的回声 · 11-27",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-27T00:05:18Z",
+  "sha256": "c1e46b0f1f3f295471abce2bf9a10cc8911d9c76cfa1b96e938dbd21202c0d73",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
