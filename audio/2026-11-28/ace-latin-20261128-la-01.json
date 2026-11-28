@@ -1,0 +1,12 @@
+{
+  "title": "La Orilla Interior",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-28T00:09:09Z",
+  "sha256": "c5e488a3813280ea892fe4fd6fe1618d07b266d9445c6ac9e8957703681851f3",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
