@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T00:01:39Z",
+  "generatedAt": "2026-11-28T00:03:30Z",
   "songs": [
+    {
+      "id": "ace-2026-11-28-2",
+      "title": "窗边的早晨 · 11-28",
+      "artist": "我的 ACE-Step AI 创作",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-28/ace-2026-11-28-2.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-28/ace-2026-11-28-2.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-28/ace-2026-11-28-2.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/00c95e81c1b1536d19ee.jpg?v=4eac1cb4b3",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-28/ace-2026-11-28-2.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-28/ace-2026-11-28-2.json",
+      "lyrics": "[Intro]\n\n[Verse 1]\n\n这座城市最近 天气变凉了\n你要记得 多穿一件衣服\n我不太会讲话 你是知道的\n但我说过的话 一定做到\n\n[Pre-Chorus]\n\n我没有什么 浪漫的话\n我只是想 让你知道\n\n[Chorus]\n\n你 我想跟你说\n我这个人 说话算话\n你 你听我讲\n这辈子 我只认你一个人\n\n[Verse 2]\n\n我们也有吵过 也有闹过\n第二天你就 又来敲我的门\n我知道我们 都不是完美的人\n但我愿意 慢慢跟你磨\n\n[Pre-Chorus]\n\n我不会讲 太好听的话\n我只会做 让你放心的事\n\n[Chorus]\n\n你 我想跟你说\n这一辈子 我只想对你好\n你 你听我说完\n不管多远 我都会等着你\n\n[Outro]\n\n（你）\n",
+      "rights": "原创歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "每日新歌",
+      "category": "每日新歌",
+      "style": "流行",
+      "vocalType": "女声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-28T00:03:30Z",
+      "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:City_Lights_of_the_United_States_2012.jpg"
+    },
     {
       "id": "ace-2026-11-28-1",
       "title": "海边的灯 · 11-28",
@@ -16579,6 +16602,7 @@
       "kind": "album",
       "artworkIndex": 2,
       "songIDs": [
+        "ace-2026-11-28-2",
         "ace-2026-11-28-1",
         "ace-2026-11-27-2",
         "ace-2026-11-27-1",
@@ -17736,6 +17760,7 @@
       "kind": "playlist",
       "artworkIndex": 0,
       "songIDs": [
+        "ace-2026-11-28-2",
         "ace-2026-11-28-1",
         "ace-2026-11-27-2",
         "ace-2026-11-27-1",
@@ -17794,8 +17819,7 @@
         "ace-stories-20261027-zh04",
         "ace-stories-20261027-zh03",
         "ace-stories-20261027-zh02",
-        "ace-stories-20261027-zh01",
-        "ace-2026-10-27-2"
+        "ace-stories-20261027-zh01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/a8e0e458947361fe4740.jpg?v=6ec3a003d1",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
@@ -17808,6 +17832,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-2026-11-28-2",
         "ace-2026-11-28-1",
         "ace-latin-20261127-mx-01",
         "ace-latin-20261127-la-01",
@@ -17846,8 +17871,7 @@
         "ace-2026-11-20-2",
         "ace-2026-11-20-1",
         "ace-latin-20261119-mx-01",
-        "ace-latin-20261119-la-01",
-        "ace-latin-20261119-co-01"
+        "ace-latin-20261119-la-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
