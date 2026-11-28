@@ -1,0 +1,12 @@
+{
+  "title": "Donde Vuelve la Lluvia",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-28T00:11:01Z",
+  "sha256": "e1d852723dbdf31c593241c911636caa212a2fc09bffcc2af2b2a70d8d782433",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}
