@@ -1,0 +1,12 @@
+{
+  "title": "La Medida del Camino",
+  "model": "ACE-Step 1.5 / acestep-v15-turbo",
+  "generator": "本机音乐工坊",
+  "generatedAt": "2026-11-28T00:07:17Z",
+  "sha256": "c3eb034d7a859e0f16b5a88d9d10b3bbbaada44f282b4e46f59d0cd7b4069667",
+  "taskType": "text2music",
+  "sourceComposition": null,
+  "sourceScoreURL": null,
+  "sourceLicenseURL": null,
+  "sourceAudioType": null
+}

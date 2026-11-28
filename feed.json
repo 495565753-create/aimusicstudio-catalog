@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T00:03:30Z",
+  "generatedAt": "2026-11-28T00:07:17Z",
   "songs": [
+    {
+      "id": "ace-latin-20261128-co-01",
+      "title": "La Medida del Camino",
+      "artist": "灵感音乐 · ACE-Step AI",
+      "audioURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/audio/2026-11-28/ace-latin-20261128-co-01.mp3",
+      "backupAudioURL": "https://cdn.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-28/ace-latin-20261128-co-01.mp3",
+      "alternateAudioURLs": [
+        "https://gcore.jsdelivr.net/gh/495565753-create/aimusicstudio-catalog@main/audio/2026-11-28/ace-latin-20261128-co-01.mp3"
+      ],
+      "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/songs/222d603db7134f788990.jpg?v=29876db2e4",
+      "sourceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-28/ace-latin-20261128-co-01.mp3",
+      "aiEvidenceURL": "https://github.com/495565753-create/aimusicstudio-catalog/blob/main/audio/2026-11-28/ace-latin-20261128-co-01.json",
+      "lyrics": "[Verse 1]\nMi padre trazó una línea sobre el viejo papel,\nno marcaba fronteras, señalaba dónde volver.\nDijo: el rumbo no se mide por llegar primero,\nsino por cuidar la vida que te acompaña en el sendero.\n\n[Chorus]\nLa medida del camino no es la distancia,\nes la mano que ofreciste cuando faltó esperanza.\nSi el destino cambia el mapa y nos separa la voz,\nlo que hicimos por los otros seguirá hablando por los dos.\n\n[Verse 2]\nEn la plaza una muchacha compartió su canción,\nun anciano puso el ritmo golpeando el cajón.\nNadie preguntó de dónde venía el cantar;\npor un rato fuimos pueblo, por un rato fuimos hogar.\n\n[Chorus]\nLa medida del camino no es la distancia,\nes la mano que ofreciste cuando faltó esperanza.\nSi el destino cambia el mapa y nos separa la voz,\nlo que hicimos por los otros seguirá hablando por los dos.\n\n[Bridge]\nQue el acordeón recuerde lo que el orgullo calló:\nningún viaje vale tanto como el bien que dejó.\n\n[Outro]\nY al final de la jornada,\nque haya alguien que diga: aquí hubo bondad.",
+      "rights": "原创西班牙语歌词 · 本机 ACE-Step AI 生成",
+      "popularity": "新专辑 · AI 原创",
+      "category": "哥伦比亚",
+      "style": "巴耶纳托",
+      "vocalType": "男声",
+      "durationSeconds": 90.0,
+      "publishedAt": "2026-11-28T00:07:17Z",
+      "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
+      "artworkSourceURL": "https://commons.wikimedia.org/wiki/File:Buildings_in_Cartagena,_Colombia_01.jpg",
+      "artworkLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
     {
       "id": "ace-2026-11-28-2",
       "title": "窗边的早晨 · 11-28",
@@ -16408,7 +16432,7 @@
     {
       "id": "album-latin-co-20261027",
       "title": "哥伦比亚节奏",
-      "subtitle": "31 首 · 本机 AI 原创",
+      "subtitle": "32 首 · 本机 AI 原创",
       "kind": "album",
       "artworkIndex": 6,
       "songIDs": [
@@ -16442,7 +16466,8 @@
         "ace-latin-20261124-co-01",
         "ace-latin-20261125-co-01",
         "ace-latin-20261126-co-01",
-        "ace-latin-20261127-co-01"
+        "ace-latin-20261127-co-01",
+        "ace-latin-20261128-co-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/730c04049ccbee73ed78.jpg?v=ac1cec4693",
       "artworkCredit": "Bernard Gagnon · Wikimedia Commons · CC BY-SA 4.0；灵感音乐剪裁及排版",
@@ -17832,6 +17857,7 @@
       "kind": "playlist",
       "artworkIndex": 1,
       "songIDs": [
+        "ace-latin-20261128-co-01",
         "ace-2026-11-28-2",
         "ace-2026-11-28-1",
         "ace-latin-20261127-mx-01",
@@ -17870,8 +17896,7 @@
         "ace-latin-20261120-co-01",
         "ace-2026-11-20-2",
         "ace-2026-11-20-1",
-        "ace-latin-20261119-mx-01",
-        "ace-latin-20261119-la-01"
+        "ace-latin-20261119-mx-01"
       ],
       "artworkURL": "https://raw.githubusercontent.com/495565753-create/aimusicstudio-catalog/main/artwork/albums/00c221117344146cde57.jpg?v=144744d4d4",
       "artworkCredit": "NASA Earth Observatory · Wikimedia Commons · Public domain；灵感音乐剪裁及排版",
